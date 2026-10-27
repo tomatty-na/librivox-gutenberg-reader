@@ -1,12 +1,26 @@
-<!doctype html>
-<html lang="en">
+<!DOCTYPE html>
+<html lang="ja">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>LibriVox Gutenberg Reader</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="description" content="LibriVox の朗読に合わせて、Project Gutenberg の原文を語・句・文の単位でハイライトします。">
+<title>LibriVox × Gutenberg Reader</title>
+<script>
+  (function () {
+    try {
+      var s = JSON.parse(localStorage.getItem('lg.settings.v1') || '{}');
+      if (s.theme === 'light' || s.theme === 'dark') document.documentElement.setAttribute('data-theme', s.theme);
+    } catch (e) {}
+  })();
+</script>
+<link rel="stylesheet" href="assets/style.css">
 </head>
-<body>
-<h1>LibriVox Gutenberg Reader</h1>
-<p>Coming soon.</p>
+<body class="view-list" data-view="index">
+<main class="index-main">
+  <h1>LibriVox × Gutenberg Reader</h1>
+  <p class="index-note">LibriVox の朗読（archive.org から直接再生）に合わせて、Project Gutenberg の原文を語・句・文の単位でハイライトします。音声も本文もパブリックドメインです。</p>
+  <ul class="work-list" lang="en"><li class="work"><a class="work-link" href="alices-adventures-in-wonderland-by-lewis-carroll-5/"><span class="work-title">Alice's Adventures in Wonderland</span><span class="by">Lewis Carroll</span><span class="work-info">12 セクション・2:31:30</span></a></li></ul>
+</main>
 </body>
 </html>

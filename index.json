@@ -1,0 +1,7 @@
+{
+ "format": "librivox-gutenberg/index",
+ "version": "1.0",
+ "works": [
+  {"slug":"alices-adventures-in-wonderland-by-lewis-carroll-5","title":"Alice's Adventures in Wonderland","author":"Lewis Carroll","href":"alices-adventures-in-wonderland-by-lewis-carroll-5/","sections":12,"published":12,"duration":9090.84,"updated":"2026-10-27"}
+ ]
+}
