@@ -1,0 +1,234 @@
+{
+ "format": "librivox-gutenberg/work",
+ "version": "1.0",
+ "work": {
+  "slug": "men-without-women-by-ernest-hemingway",
+  "title": "Men Without Women",
+  "author": "Ernest Hemingway",
+  "gutenberg_id": 69683,
+  "librivox_url": "https://librivox.org/men-without-women-by-ernest-hemingway/",
+  "language": "en",
+  "updated": "2026-10-27"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "index": 1,
+   "title": "The Undefeated",
+   "reader": "James Hutchisson",
+   "audio_url": "https://archive.org/download/men_without_women_2303_librivox/menwithoutwomen_01_hemingway_64kb.mp3",
+   "duration": 4221.26,
+   "page_count": 14,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":311.62,"text_start":25.9,"href":"s01/p001.json"},
+    {"index":2,"start":311.62,"end":627.28,"text_start":312.12,"href":"s01/p002.json"},
+    {"index":3,"start":627.28,"end":935.26,"text_start":627.78,"href":"s01/p003.json"},
+    {"index":4,"start":935.26,"end":1240.64,"text_start":935.76,"href":"s01/p004.json"},
+    {"index":5,"start":1240.64,"end":1517.62,"text_start":1241.14,"href":"s01/p005.json"},
+    {"index":6,"start":1517.62,"end":1811.64,"text_start":1518.12,"href":"s01/p006.json"},
+    {"index":7,"start":1811.64,"end":2107.4,"text_start":1812.14,"href":"s01/p007.json"},
+    {"index":8,"start":2107.4,"end":2421.46,"text_start":2107.9,"href":"s01/p008.json"},
+    {"index":9,"start":2421.46,"end":2724.18,"text_start":2421.96,"href":"s01/p009.json"},
+    {"index":10,"start":2724.18,"end":3028.78,"text_start":2724.68,"href":"s01/p010.json"},
+    {"index":11,"start":3028.78,"end":3322.0,"text_start":3029.28,"href":"s01/p011.json"},
+    {"index":12,"start":3322.0,"end":3617.74,"text_start":3322.5,"href":"s01/p012.json"},
+    {"index":13,"start":3617.74,"end":3922.42,"text_start":3618.24,"href":"s01/p013.json"},
+    {"index":14,"start":3922.42,"end":4221.26,"text_start":3922.92,"href":"s01/p014.json"}
+   ]
+  },
+  {
+   "id": "s02",
+   "index": 2,
+   "title": "In Another Country",
+   "reader": "James Hutchisson",
+   "audio_url": "https://archive.org/download/men_without_women_2303_librivox/menwithoutwomen_02_hemingway_64kb.mp3",
+   "duration": 866.14,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":265.4,"text_start":33.88,"href":"s02/p001.json"},
+    {"index":2,"start":265.4,"end":569.88,"text_start":265.9,"href":"s02/p002.json"},
+    {"index":3,"start":569.88,"end":866.14,"text_start":570.38,"href":"s02/p003.json"}
+   ]
+  },
+  {
+   "id": "s03",
+   "index": 3,
+   "title": "Hills Like White Elephants",
+   "reader": "James Hutchisson",
+   "audio_url": "https://archive.org/download/men_without_women_2303_librivox/menwithoutwomen_03_hemingway_64kb.mp3",
+   "duration": 575.87,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":290.46,"text_start":30.62,"href":"s03/p001.json"},
+    {"index":2,"start":290.46,"end":575.87,"text_start":290.96,"href":"s03/p002.json"}
+   ]
+  },
+  {
+   "id": "s04",
+   "index": 4,
+   "title": "The Killers",
+   "reader": "James Hutchisson",
+   "audio_url": "https://archive.org/download/men_without_women_2303_librivox/menwithoutwomen_04_hemingway_64kb.mp3",
+   "duration": 1160.65,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":289.5,"text_start":31.6,"href":"s04/p001.json"},
+    {"index":2,"start":289.5,"end":580.58,"text_start":289.56,"href":"s04/p002.json"},
+    {"index":3,"start":580.58,"end":868.14,"text_start":581.08,"href":"s04/p003.json"},
+    {"index":4,"start":868.14,"end":1160.65,"text_start":868.64,"href":"s04/p004.json"}
+   ]
+  },
+  {
+   "id": "s05",
+   "index": 5,
+   "title": "Che Ti Dice La Patria?",
+   "reader": "James Hutchisson",
+   "audio_url": "https://archive.org/download/men_without_women_2303_librivox/menwithoutwomen_05_hemingway_64kb.mp3",
+   "duration": 1277.91,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":380.06,"text_start":34.49,"href":"s05/p001.json"},
+    {"index":2,"start":380.06,"end":672.72,"text_start":380.56,"href":"s05/p002.json"},
+    {"index":3,"start":672.72,"end":967.06,"text_start":673.22,"href":"s05/p003.json"},
+    {"index":4,"start":967.06,"end":1277.91,"text_start":967.56,"href":"s05/p004.json"}
+   ]
+  },
+  {
+   "id": "s06",
+   "index": 6,
+   "title": "Fifty Grand",
+   "reader": "James Hutchisson",
+   "audio_url": "https://archive.org/download/men_without_women_2303_librivox/menwithoutwomen_06_hemingway_64kb.mp3",
+   "duration": 2850.72,
+   "page_count": 9,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":315.4,"text_start":30.84,"href":"s06/p001.json"},
+    {"index":2,"start":315.4,"end":630.18,"text_start":315.9,"href":"s06/p002.json"},
+    {"index":3,"start":630.18,"end":945.98,"text_start":630.68,"href":"s06/p003.json"},
+    {"index":4,"start":945.98,"end":1264.04,"text_start":946.48,"href":"s06/p004.json"},
+    {"index":5,"start":1264.04,"end":1582.049,"text_start":1264.54,"href":"s06/p005.json"},
+    {"index":6,"start":1582.049,"end":1900.8,"text_start":1582.08,"href":"s06/p006.json"},
+    {"index":7,"start":1900.8,"end":2220.74,"text_start":1901.3,"href":"s06/p007.json"},
+    {"index":8,"start":2220.74,"end":2541.06,"text_start":2221.24,"href":"s06/p008.json"},
+    {"index":9,"start":2541.06,"end":2850.72,"text_start":2541.46,"href":"s06/p009.json"}
+   ]
+  },
+  {
+   "id": "s07",
+   "index": 7,
+   "title": "A Simple Enquiry",
+   "reader": "James Hutchisson",
+   "audio_url": "https://archive.org/download/men_without_women_2303_librivox/menwithoutwomen_07_hemingway_64kb.mp3",
+   "duration": 400.64,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":400.64,"text_start":24.3,"href":"s07/p001.json"}
+   ]
+  },
+  {
+   "id": "s08",
+   "index": 8,
+   "title": "Ten Indians",
+   "reader": "James Hutchisson",
+   "audio_url": "https://archive.org/download/men_without_women_2303_librivox/menwithoutwomen_08_hemingway_64kb.mp3",
+   "duration": 649.93,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":325.57,"text_start":25.32,"href":"s08/p001.json"},
+    {"index":2,"start":325.57,"end":649.93,"text_start":325.88,"href":"s08/p002.json"}
+   ]
+  },
+  {
+   "id": "s09",
+   "index": 9,
+   "title": "A Canary For One",
+   "reader": "James Hutchisson",
+   "audio_url": "https://archive.org/download/men_without_women_2303_librivox/menwithoutwomen_09_hemingway_64kb.mp3",
+   "duration": 683.02,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":342.4,"text_start":29.18,"href":"s09/p001.json"},
+    {"index":2,"start":342.4,"end":683.02,"text_start":342.9,"href":"s09/p002.json"}
+   ]
+  },
+  {
+   "id": "s10",
+   "index": 10,
+   "title": "An Alpine Idyll",
+   "reader": "James Hutchisson",
+   "audio_url": "https://archive.org/download/men_without_women_2303_librivox/menwithoutwomen_10_hemingway_64kb.mp3",
+   "duration": 724.74,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":357.22,"text_start":28.284,"href":"s10/p001.json"},
+    {"index":2,"start":357.22,"end":724.74,"text_start":357.72,"href":"s10/p002.json"}
+   ]
+  },
+  {
+   "id": "s11",
+   "index": 11,
+   "title": "A Pursuit Race",
+   "reader": "James Hutchisson",
+   "audio_url": "https://archive.org/download/men_without_women_2303_librivox/menwithoutwomen_11_hemingway_64kb.mp3",
+   "duration": 650.5,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":325.54,"text_start":27.68,"href":"s11/p001.json"},
+    {"index":2,"start":325.54,"end":650.5,"text_start":326.0,"href":"s11/p002.json"}
+   ]
+  },
+  {
+   "id": "s12",
+   "index": 12,
+   "title": "To-Day is Friday",
+   "reader": "James Hutchisson",
+   "audio_url": "https://archive.org/download/men_without_women_2303_librivox/menwithoutwomen_12_hemingway_64kb.mp3",
+   "duration": 495.52,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":247.06,"text_start":25.12,"href":"s12/p001.json"},
+    {"index":2,"start":247.06,"end":495.52,"text_start":247.56,"href":"s12/p002.json"}
+   ]
+  },
+  {
+   "id": "s13",
+   "index": 13,
+   "title": "Banal Story",
+   "reader": "James Hutchisson",
+   "audio_url": "https://archive.org/download/men_without_women_2303_librivox/menwithoutwomen_13_hemingway_64kb.mp3",
+   "duration": 307.59,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":307.59,"text_start":25.72,"href":"s13/p001.json"}
+   ]
+  },
+  {
+   "id": "s14",
+   "index": 14,
+   "title": "Now I Lay Me",
+   "reader": "James Hutchisson",
+   "audio_url": "https://archive.org/download/men_without_women_2303_librivox/menwithoutwomen_14_hemingway_64kb.mp3",
+   "duration": 1074.16,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":359.23,"text_start":25.26,"href":"s14/p001.json"},
+    {"index":2,"start":359.23,"end":718.4,"text_start":359.4,"href":"s14/p002.json"},
+    {"index":3,"start":718.4,"end":1074.16,"text_start":718.86,"href":"s14/p003.json"}
+   ]
+  }
+ ]
+}
