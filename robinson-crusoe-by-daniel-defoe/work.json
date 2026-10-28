@@ -101,9 +101,17 @@
    "reader": "Denny Sayers (d. 2015)",
    "audio_url": "https://archive.org/download/robinson_crusoe_librivox/robinson_crusoe_05_defoe_64kb.mp3",
    "duration": 2295.72,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":338.08,"text_start":32.32,"href":"s05/p001.json"},
+    {"index":2,"start":338.08,"end":677.18,"text_start":338.58,"href":"s05/p002.json"},
+    {"index":3,"start":677.18,"end":1008.46,"text_start":677.68,"href":"s05/p003.json"},
+    {"index":4,"start":1008.46,"end":1333.94,"text_start":1008.96,"href":"s05/p004.json"},
+    {"index":5,"start":1333.94,"end":1670.72,"text_start":1334.44,"href":"s05/p005.json"},
+    {"index":6,"start":1670.72,"end":2019.82,"text_start":1671.22,"href":"s05/p006.json"},
+    {"index":7,"start":2019.82,"end":2295.72,"text_start":2020.32,"href":"s05/p007.json"}
+   ]
   },
   {
    "id": "s06",
@@ -112,9 +120,19 @@
    "reader": "Denny Sayers (d. 2015)",
    "audio_url": "https://archive.org/download/robinson_crusoe_librivox/robinson_crusoe_06_defoe_64kb.mp3",
    "duration": 2574.08,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 9,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":278.96,"text_start":32.06,"href":"s06/p001.json"},
+    {"index":2,"start":278.96,"end":546.7,"text_start":279.46,"href":"s06/p002.json"},
+    {"index":3,"start":546.7,"end":823.08,"text_start":547.2,"href":"s06/p003.json"},
+    {"index":4,"start":823.08,"end":1137.28,"text_start":823.58,"href":"s06/p004.json"},
+    {"index":5,"start":1137.28,"end":1422.82,"text_start":1137.78,"href":"s06/p005.json"},
+    {"index":6,"start":1422.82,"end":1757.8,"text_start":1423.32,"href":"s06/p006.json"},
+    {"index":7,"start":1757.8,"end":2068.88,"text_start":1758.3,"href":"s06/p007.json"},
+    {"index":8,"start":2068.88,"end":2351.0,"text_start":2069.38,"href":"s06/p008.json"},
+    {"index":9,"start":2351.0,"end":2574.08,"text_start":2351.5,"href":"s06/p009.json"}
+   ]
   },
   {
    "id": "s07",
