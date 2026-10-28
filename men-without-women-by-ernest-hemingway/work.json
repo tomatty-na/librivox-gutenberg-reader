@@ -92,7 +92,7 @@
    "page_count": 4,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":380.06,"text_start":34.49,"href":"s05/p001.json"},
+    {"index":1,"start":0.0,"end":380.06,"text_start":31.84,"href":"s05/p001.json"},
     {"index":2,"start":380.06,"end":672.72,"text_start":380.56,"href":"s05/p002.json"},
     {"index":3,"start":672.72,"end":967.06,"text_start":673.22,"href":"s05/p003.json"},
     {"index":4,"start":967.06,"end":1277.91,"text_start":967.56,"href":"s05/p004.json"}
@@ -170,7 +170,7 @@
    "page_count": 2,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":357.22,"text_start":28.284,"href":"s10/p001.json"},
+    {"index":1,"start":0.0,"end":357.22,"text_start":26.94,"href":"s10/p001.json"},
     {"index":2,"start":357.22,"end":724.74,"text_start":357.72,"href":"s10/p002.json"}
    ]
   },
