@@ -2,7 +2,7 @@
  "format": "librivox-gutenberg/index",
  "version": "1.0",
  "works": [
-  {"slug":"alices-adventures-in-wonderland-by-lewis-carroll-5","title":"Alice's Adventures in Wonderland","author":"Lewis Carroll","href":"alices-adventures-in-wonderland-by-lewis-carroll-5/","sections":12,"published":12,"duration":9090.84,"updated":"2026-10-27"},
+  {"slug":"alices-adventures-in-wonderland-by-lewis-carroll-5","title":"Alice's Adventures in Wonderland","author":"Lewis Carroll","href":"alices-adventures-in-wonderland-by-lewis-carroll-5/","sections":12,"published":12,"duration":9090.84,"updated":"2026-10-28"},
   {"slug":"men-without-women-by-ernest-hemingway","title":"Men Without Women","author":"Ernest Hemingway","href":"men-without-women-by-ernest-hemingway/","sections":14,"published":14,"duration":15938.65,"updated":"2026-10-27"},
   {"slug":"the-maltese-falcon-novel-version-by-dashiell-hammett","title":"The Maltese Falcon","author":"Dashiell Hammett","href":"the-maltese-falcon-novel-version-by-dashiell-hammett/","sections":20,"published":20,"duration":24518.0,"updated":"2026-10-27"}
  ]
