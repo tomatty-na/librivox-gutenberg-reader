@@ -78,9 +78,19 @@
    "reader": "Gord Mackenzie",
    "audio_url": "https://archive.org/download/walden_librivox/walden_c01_p04_64kb.mp3",
    "duration": 2785.93,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 9,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":341.46,"text_start":28.24,"href":"s04/p001.json"},
+    {"index":2,"start":341.46,"end":611.24,"text_start":341.96,"href":"s04/p002.json"},
+    {"index":3,"start":611.24,"end":1026.98,"text_start":611.74,"href":"s04/p003.json"},
+    {"index":4,"start":1026.98,"end":1370.74,"text_start":1027.48,"href":"s04/p004.json"},
+    {"index":5,"start":1370.74,"end":1740.26,"text_start":1371.24,"href":"s04/p005.json"},
+    {"index":6,"start":1740.26,"end":1964.2,"text_start":1740.76,"href":"s04/p006.json"},
+    {"index":7,"start":1964.2,"end":2257.56,"text_start":1964.7,"href":"s04/p007.json"},
+    {"index":8,"start":2257.56,"end":2512.78,"text_start":2258.06,"href":"s04/p008.json"},
+    {"index":9,"start":2512.78,"end":2785.93,"text_start":2513.28,"href":"s04/p009.json"}
+   ]
   },
   {
    "id": "s05",
@@ -217,9 +227,16 @@
    "reader": "Gord Mackenzie",
    "audio_url": "https://archive.org/download/walden_librivox/walden_c07_64kb.mp3",
    "duration": 1817.36,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":241.42,"text_start":21.64,"href":"s12/p001.json"},
+    {"index":2,"start":241.42,"end":541.74,"text_start":241.92,"href":"s12/p002.json"},
+    {"index":3,"start":541.74,"end":875.2,"text_start":542.24,"href":"s12/p003.json"},
+    {"index":4,"start":875.2,"end":1204.18,"text_start":875.7,"href":"s12/p004.json"},
+    {"index":5,"start":1204.18,"end":1541.34,"text_start":1204.68,"href":"s12/p005.json"},
+    {"index":6,"start":1541.34,"end":1817.36,"text_start":1541.84,"href":"s12/p006.json"}
+   ]
   },
   {
    "id": "s13",
