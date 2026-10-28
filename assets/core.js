@@ -137,14 +137,22 @@
         var p0 = num(ph.t0), p1 = num(ph.t1);
         if (p0 === null || p1 === null || p1 < p0) { p0 = null; p1 = null; }
         var hlp = ph.hl === 'phrase';
+        var none = ph.hl === 'none';
         if (cj === 0 || phs[cj - 1].s !== ph.s) sentences.push({ pi: pi, s: ph.s, c0: gi, c1: gi + 1, t0: null, t1: null });
         else sentences[sentences.length - 1].c1 = gi + 1;
-        phrases.push({ pi: pi, cj: cj, si: sentences.length - 1, t0: p0, t1: p1, w0: base + ph.w[0], w1: base + ph.w[1], hlp: hlp });
+        phrases.push({ pi: pi, cj: cj, si: sentences.length - 1, t0: p0, t1: p1, w0: base + ph.w[0], w1: base + ph.w[1], hlp: hlp, none: none });
         for (var k = base + ph.w[0]; k < base + ph.w[1]; k++) { words[k].ci = gi; words[k].hlp = hlp; }
       }
     }
 
     interpolateWords(words, phrases, maxInterpGap);
+
+    // hl: "none" の句（表の見出しなど。D-117）は、補間した時刻も消して光らせない
+    for (var n = 0; n < phrases.length; n++) {
+      if (!phrases[n].none) continue;
+      phrases[n].t0 = phrases[n].t1 = null;
+      for (var m = phrases[n].w0; m < phrases[n].w1; m++) { words[m].t0 = words[m].t1 = null; }
+    }
 
     // 句の時刻が無ければ、語の時刻から作る
     for (var c = 0; c < phrases.length; c++) {
@@ -387,9 +395,15 @@
       if (st0 !== null) next = st0;
       starts[b] = next;
     }
+    function tableOf(i) {
+      return i >= 0 && i < paras.length && paras[i].cell ? paras[i].cell.t : null;
+    }
     for (var pi = 0; pi < paras.length; pi++) {
       var para = paras[pi];
       if (starts[pi] !== null) flush(starts[pi]);
+      var cell = para.cell;
+      // 原本の表（Robinson の Evil / Good）は、セルを行の順に並べたグリッドにする（D-117）
+      if (cell && cell.t !== tableOf(pi - 1)) out.push('<div class="tbl" style="--cols:' + Math.floor(cell.n) + '">');
       var kind = para.kind || 'para';
       if (para.break_before && !para.cont_prev) out.push('<hr class="brk brk-' + escAttr(para.break_before) + '">');
       if (para.cont_prev) out.push('<div class="cont-note">' + NOTE_CONT_PREV + '</div>');
@@ -432,6 +446,7 @@
       gc += phs.length;
       out.push('</' + tag + '>');
       if (para.cont_next) out.push('<div class="cont-note">' + NOTE_CONT_NEXT + '</div>');
+      if (cell && cell.t !== tableOf(pi + 1)) out.push('</div>');
     }
     flush(null);
     return out.join('');

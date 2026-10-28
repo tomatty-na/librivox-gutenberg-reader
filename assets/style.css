@@ -235,6 +235,9 @@ a.pager-btn[aria-disabled="true"] { opacity: 0.35; cursor: default; pointer-even
   letter-spacing: 0.01em;
 }
 .para.k-verse { white-space: normal; padding-left: 1.5em; }
+/* 原本の表（Robinson の Evil / Good）。セルを行の順に並べる（D-117） */
+.tbl { display: grid; grid-template-columns: repeat(var(--cols, 2), minmax(0, 1fr)); column-gap: 1em; margin: .6em 0; }
+.tbl > .para { margin: .25em 0; }
 .para.k-heading.r-label + .para.k-heading.r-title { margin-top: -0.5em; }
 .para.k-subheading { font-weight: 600; margin: 1.1em 0 0.8em; }
 .para.k-caption, .para.k-footnote {
