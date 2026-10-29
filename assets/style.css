@@ -312,6 +312,10 @@ hr.brk { border: 0; border-top: 1px solid var(--line); width: 30%; margin: 1.5em
   vertical-align: 0.1em;
 }
 .dk::before { content: "\266A"; }
+/* 音楽のほかの本文に無い音（[[extra]]。D-125）。読み直しは ↺、ほかの声は “…”、そのほかは … */
+.dk-reread::before { content: "\21BA"; }
+.dk-voice::before { content: "\201C\2026\201D"; }
+.dk-other::before { content: "\2026"; }
 .dk.on { outline: 2px solid var(--hl-word); }
 
 .fatal { font-family: system-ui, sans-serif; font-size: 15px; color: var(--muted); }

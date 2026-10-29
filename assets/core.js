@@ -23,6 +23,8 @@
   var MAX_URL_LENGTH = 6000;
   var MAX_QUOTE_CHARS = 300;
   var DARK_LABEL = '原本に無い歌（本文なし）';   // ♪ の印（page.dark。D-122）。render.py と同じ
+  // [[extra]] の種類ごとの文言（page.dark[].kind。D-125）。印の文字は style.css の .dk-<kind>::before
+  var DARK_LABELS = { reread: '読み直し（録音の重複・本文なし）', voice: '本文に無いほかの声', other: '本文に無い音' };
   var DARK_EPS = 0.005;
 
   function pad(n, w) {
@@ -403,8 +405,10 @@
     return out;
   }
 
-  function darkHtml(k) {
-    return '<span class="dk" data-dk="' + k + '" role="img" aria-label="' + DARK_LABEL + '" title="' + DARK_LABEL + '"></span>';
+  function darkHtml(k, kind) {
+    var label = kind ? (DARK_LABELS[kind] || DARK_LABEL) : DARK_LABEL;
+    var cls = kind ? 'dk dk-' + escAttr(kind) : 'dk';
+    return '<span class="' + cls + '" data-dk="' + k + '" role="img" aria-label="' + label + '" title="' + label + '"></span>';
   }
 
   function renderTranscript(page) {
@@ -415,7 +419,7 @@
     var darks = darkAnchors(page);
     function pushDark(at) {
       var ks = darks[at] || [];
-      for (var d = 0; d < ks.length; d++) out.push(darkHtml(ks[d]));
+      for (var d = 0; d < ks.length; d++) out.push(darkHtml(ks[d], (page.dark[ks[d]] || {}).kind));
     }
     function flush(before) {
       while (nk < nts.length && (before === null || nts[nk].t0 <= before)) {
