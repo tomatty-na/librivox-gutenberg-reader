@@ -1,0 +1,357 @@
+{
+ "format": "librivox-gutenberg/work",
+ "version": "1.0",
+ "work": {
+  "slug": "the-wonderful-wizard-of-oz",
+  "title": "The Wonderful Wizard of Oz",
+  "author": "L. Frank Baum",
+  "gutenberg_id": 55,
+  "librivox_url": "https://librivox.org/the-wonderful-wizard-of-oz/",
+  "language": "en",
+  "updated": "2026-10-29"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "index": 1,
+   "title": "Introduction",
+   "reader": "J. Hall",
+   "audio_url": "https://archive.org/download/wizard_of_oz/wizardofoz_00_baum_64kb.mp3",
+   "duration": 94.21,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":94.21,"text_start":20.14,"href":"s01/p001.json"}
+   ]
+  },
+  {
+   "id": "s02",
+   "index": 2,
+   "title": "The Cyclone",
+   "reader": "J. Hall",
+   "audio_url": "https://archive.org/download/wizard_of_oz/wizardofoz_01_baum_64kb.mp3",
+   "duration": 384.77,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":384.77,"text_start":18.288,"href":"s02/p001.json"}
+   ]
+  },
+  {
+   "id": "s03",
+   "index": 3,
+   "title": "The Council with the Munchkins",
+   "reader": "J. Hall",
+   "audio_url": "https://archive.org/download/wizard_of_oz/wizardofoz_02_baum_64kb.mp3",
+   "duration": 702.21,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":354.26,"text_start":13.04,"href":"s03/p001.json"},
+    {"index":2,"start":354.26,"end":702.21,"text_start":354.76,"href":"s03/p002.json"}
+   ]
+  },
+  {
+   "id": "s04",
+   "index": 4,
+   "title": "How Dorothy Saved the Scarecrow",
+   "reader": "J. Hall",
+   "audio_url": "https://archive.org/download/wizard_of_oz/wizardofoz_03_baum_64kb.mp3",
+   "duration": 682.2,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":335.02,"text_start":19.36,"href":"s04/p001.json"},
+    {"index":2,"start":335.02,"end":682.2,"text_start":335.38,"href":"s04/p002.json"}
+   ]
+  },
+  {
+   "id": "s05",
+   "index": 5,
+   "title": "The Road Through the Forest",
+   "reader": "J. Hall",
+   "audio_url": "https://archive.org/download/wizard_of_oz/wizardofoz_04_baum_64kb.mp3",
+   "duration": 478.21,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":242.26,"text_start":22.08,"href":"s05/p001.json"},
+    {"index":2,"start":242.26,"end":478.21,"text_start":242.76,"href":"s05/p002.json"}
+   ]
+  },
+  {
+   "id": "s06",
+   "index": 6,
+   "title": "The Rescue of the Tin Woodman",
+   "reader": "J. Hall",
+   "audio_url": "https://archive.org/download/wizard_of_oz/wizardofoz_05_baum_64kb.mp3",
+   "duration": 679.59,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":343.45,"text_start":19.8,"href":"s06/p001.json"},
+    {"index":2,"start":343.45,"end":679.59,"text_start":343.9,"href":"s06/p002.json"}
+   ]
+  },
+  {
+   "id": "s07",
+   "index": 7,
+   "title": "The Cowardly Lion",
+   "reader": "J. Hall",
+   "audio_url": "https://archive.org/download/wizard_of_oz/wizardofoz_06_baum_64kb.mp3",
+   "duration": 527.25,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":245.8,"text_start":20.34,"href":"s07/p001.json"},
+    {"index":2,"start":245.8,"end":527.25,"text_start":246.3,"href":"s07/p002.json"}
+   ]
+  },
+  {
+   "id": "s08",
+   "index": 8,
+   "title": "The Journey to the Great Oz",
+   "reader": "J. Hall",
+   "audio_url": "https://archive.org/download/wizard_of_oz/wizardofoz_07_baum_64kb.mp3",
+   "duration": 608.2,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":316.18,"text_start":19.06,"href":"s08/p001.json"},
+    {"index":2,"start":316.18,"end":608.2,"text_start":316.68,"href":"s08/p002.json"}
+   ]
+  },
+  {
+   "id": "s09",
+   "index": 9,
+   "title": "The Deadly Poppy Field",
+   "reader": "J. Hall",
+   "audio_url": "https://archive.org/download/wizard_of_oz/wizardofoz_08_baum_64kb.mp3",
+   "duration": 655.77,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":328.38,"text_start":18.56,"href":"s09/p001.json"},
+    {"index":2,"start":328.38,"end":655.77,"text_start":328.88,"href":"s09/p002.json"}
+   ]
+  },
+  {
+   "id": "s10",
+   "index": 10,
+   "title": "The Queen of the Field Mice",
+   "reader": "J. Hall",
+   "audio_url": "https://archive.org/download/wizard_of_oz/wizardofoz_09_baum_64kb.mp3",
+   "duration": 464.22,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":230.2,"text_start":18.86,"href":"s10/p001.json"},
+    {"index":2,"start":230.2,"end":464.22,"text_start":230.52,"href":"s10/p002.json"}
+   ]
+  },
+  {
+   "id": "s11",
+   "index": 11,
+   "title": "The Guardian of the Gates",
+   "reader": "J. Hall",
+   "audio_url": "https://archive.org/download/wizard_of_oz/wizardofoz_10_baum_64kb.mp3",
+   "duration": 656.22,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":331.39,"text_start":18.98,"href":"s11/p001.json"},
+    {"index":2,"start":331.39,"end":656.22,"text_start":331.86,"href":"s11/p002.json"}
+   ]
+  },
+  {
+   "id": "s12",
+   "index": 12,
+   "title": "The Emerald City of Oz",
+   "reader": "J. Hall",
+   "audio_url": "https://archive.org/download/wizard_of_oz/wizardofoz_11_baum_64kb.mp3",
+   "duration": 1165.06,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":265.94,"text_start":19.12,"href":"s12/p001.json"},
+    {"index":2,"start":265.94,"end":570.76,"text_start":266.44,"href":"s12/p002.json"},
+    {"index":3,"start":570.76,"end":864.3,"text_start":571.26,"href":"s12/p003.json"},
+    {"index":4,"start":864.3,"end":1165.06,"text_start":864.8,"href":"s12/p004.json"}
+   ]
+  },
+  {
+   "id": "s13",
+   "index": 13,
+   "title": "The Search for the Wicked Witch",
+   "reader": "J. Hall",
+   "audio_url": "https://archive.org/download/wizard_of_oz/wizardofoz_12_baum_64kb.mp3",
+   "duration": 1222.21,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":308.54,"text_start":18.8,"href":"s13/p001.json"},
+    {"index":2,"start":308.54,"end":613.34,"text_start":309.02,"href":"s13/p002.json"},
+    {"index":3,"start":613.34,"end":924.0,"text_start":613.84,"href":"s13/p003.json"},
+    {"index":4,"start":924.0,"end":1222.21,"text_start":924.5,"href":"s13/p004.json"}
+   ]
+  },
+  {
+   "id": "s14",
+   "index": 14,
+   "title": "The Rescue",
+   "reader": "J. Hall",
+   "audio_url": "https://archive.org/download/wizard_of_oz/wizardofoz_13_baum_64kb.mp3",
+   "duration": 414.22,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":414.22,"text_start":18.62,"href":"s14/p001.json"}
+   ]
+  },
+  {
+   "id": "s15",
+   "index": 15,
+   "title": "The Winged Monkeys",
+   "reader": "J. Hall",
+   "audio_url": "https://archive.org/download/wizard_of_oz/wizardofoz_14_baum_64kb.mp3",
+   "duration": 632.21,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":320.16,"text_start":18.7,"href":"s15/p001.json"},
+    {"index":2,"start":320.16,"end":632.21,"text_start":320.66,"href":"s15/p002.json"}
+   ]
+  },
+  {
+   "id": "s16",
+   "index": 16,
+   "title": "The Discovery of Oz the Terrible",
+   "reader": "J. Hall",
+   "audio_url": "https://archive.org/download/wizard_of_oz/wizardofoz_15_baum_64kb.mp3",
+   "duration": 914.02,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":299.78,"text_start":18.64,"href":"s16/p001.json"},
+    {"index":2,"start":299.78,"end":611.22,"text_start":300.22,"href":"s16/p002.json"},
+    {"index":3,"start":611.22,"end":914.02,"text_start":611.72,"href":"s16/p003.json"}
+   ]
+  },
+  {
+   "id": "s17",
+   "index": 17,
+   "title": "The Magic Art of the Great Humbug",
+   "reader": "J. Hall",
+   "audio_url": "https://archive.org/download/wizard_of_oz/wizardofoz_16_baum_64kb.mp3",
+   "duration": 340.21,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":340.21,"text_start":18.48,"href":"s17/p001.json"}
+   ]
+  },
+  {
+   "id": "s18",
+   "index": 18,
+   "title": "How the Balloon Was Launched",
+   "reader": "J. Hall",
+   "audio_url": "https://archive.org/download/wizard_of_oz/wizardofoz_17_baum_64kb.mp3",
+   "duration": 394.21,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":394.21,"text_start":19.0,"href":"s18/p001.json"}
+   ]
+  },
+  {
+   "id": "s19",
+   "index": 19,
+   "title": "Away to the South",
+   "reader": "J. Hall",
+   "audio_url": "https://archive.org/download/wizard_of_oz/wizardofoz_18_baum_64kb.mp3",
+   "duration": 406.23,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":406.23,"text_start":18.74,"href":"s19/p001.json"}
+   ]
+  },
+  {
+   "id": "s20",
+   "index": 20,
+   "title": "Attacked by the Fighting Trees",
+   "reader": "J. Hall",
+   "audio_url": "https://archive.org/download/wizard_of_oz/wizardofoz_19_baum_64kb.mp3",
+   "duration": 354.66,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":354.66,"text_start":18.82,"href":"s20/p001.json"}
+   ]
+  },
+  {
+   "id": "s21",
+   "index": 21,
+   "title": "The Dainty China Country",
+   "reader": "J. Hall",
+   "audio_url": "https://archive.org/download/wizard_of_oz/wizardofoz_20_baum_64kb.mp3",
+   "duration": 548.02,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":272.99,"text_start":18.88,"href":"s21/p001.json"},
+    {"index":2,"start":272.99,"end":548.02,"text_start":273.42,"href":"s21/p002.json"}
+   ]
+  },
+  {
+   "id": "s22",
+   "index": 22,
+   "title": "The Lion Becomes the King of Beasts",
+   "reader": "J. Hall",
+   "audio_url": "https://archive.org/download/wizard_of_oz/wizardofoz_21_baum_64kb.mp3",
+   "duration": 334.21,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":334.21,"text_start":18.54,"href":"s22/p001.json"}
+   ]
+  },
+  {
+   "id": "s23",
+   "index": 23,
+   "title": "The Country of the Quadlings",
+   "reader": "J. Hall",
+   "audio_url": "https://archive.org/download/wizard_of_oz/wizardofoz_22_baum_64kb.mp3",
+   "duration": 346.22,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":346.22,"text_start":18.74,"href":"s23/p001.json"}
+   ]
+  },
+  {
+   "id": "s24",
+   "index": 24,
+   "title": "Glinda The Good Witch Grants Dorothy's Wish",
+   "reader": "J. Hall",
+   "audio_url": "https://archive.org/download/wizard_of_oz/wizardofoz_23_baum_64kb.mp3",
+   "duration": 436.21,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":436.21,"text_start":18.24,"href":"s24/p001.json"}
+   ]
+  },
+  {
+   "id": "s25",
+   "index": 25,
+   "title": "Home Again",
+   "reader": "J. Hall",
+   "audio_url": "https://archive.org/download/wizard_of_oz/wizardofoz_24_baum_64kb.mp3",
+   "duration": 60.21,
+   "page_count": 0,
+   "status": "pending",
+   "pages": []
+  }
+ ]
+}
