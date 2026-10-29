@@ -35,7 +35,7 @@
    "page_count": 2,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":312.19,"text_start":7.978,"href":"s02/p001.json"},
+    {"index":1,"start":0.0,"end":312.19,"text_start":8.66,"href":"s02/p001.json"},
     {"index":2,"start":312.19,"end":606.83,"text_start":312.66,"href":"s02/p002.json"}
    ]
   },
@@ -49,7 +49,7 @@
    "page_count": 2,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":295.04,"text_start":8.225,"href":"s03/p001.json"},
+    {"index":1,"start":0.0,"end":295.04,"text_start":9.16,"href":"s03/p001.json"},
     {"index":2,"start":295.04,"end":594.03,"text_start":295.54,"href":"s03/p002.json"}
    ]
   },
@@ -63,7 +63,7 @@
    "page_count": 3,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":290.44,"text_start":9.652,"href":"s04/p001.json"},
+    {"index":1,"start":0.0,"end":290.44,"text_start":10.46,"href":"s04/p001.json"},
     {"index":2,"start":290.44,"end":569.4,"text_start":290.94,"href":"s04/p002.json"},
     {"index":3,"start":569.4,"end":844.03,"text_start":569.9,"href":"s04/p003.json"}
    ]
@@ -78,7 +78,7 @@
    "page_count": 2,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":381.68,"text_start":8.713,"href":"s05/p001.json"},
+    {"index":1,"start":0.0,"end":381.68,"text_start":9.6,"href":"s05/p001.json"},
     {"index":2,"start":381.68,"end":772.92,"text_start":382.18,"href":"s05/p002.json"}
    ]
   },
@@ -92,7 +92,7 @@
    "page_count": 3,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":287.34,"text_start":8.268,"href":"s06/p001.json"},
+    {"index":1,"start":0.0,"end":287.34,"text_start":9.04,"href":"s06/p001.json"},
     {"index":2,"start":287.34,"end":577.52,"text_start":287.84,"href":"s06/p002.json"},
     {"index":3,"start":577.52,"end":864.32,"text_start":578.02,"href":"s06/p003.json"}
    ]
@@ -107,7 +107,7 @@
    "page_count": 3,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":281.32,"text_start":8.763,"href":"s07/p001.json"},
+    {"index":1,"start":0.0,"end":281.32,"text_start":9.74,"href":"s07/p001.json"},
     {"index":2,"start":281.32,"end":561.04,"text_start":281.82,"href":"s07/p002.json"},
     {"index":3,"start":561.04,"end":837.13,"text_start":561.54,"href":"s07/p003.json"}
    ]
@@ -122,7 +122,7 @@
    "page_count": 3,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":271.9,"text_start":6.386,"href":"s08/p001.json"},
+    {"index":1,"start":0.0,"end":271.9,"text_start":7.26,"href":"s08/p001.json"},
     {"index":2,"start":271.9,"end":544.54,"text_start":272.4,"href":"s08/p002.json"},
     {"index":3,"start":544.54,"end":827.18,"text_start":545.04,"href":"s08/p003.json"}
    ]
@@ -137,7 +137,7 @@
    "page_count": 3,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":283.19,"text_start":9.136,"href":"s09/p001.json"},
+    {"index":1,"start":0.0,"end":283.19,"text_start":10.04,"href":"s09/p001.json"},
     {"index":2,"start":283.19,"end":567.34,"text_start":283.56,"href":"s09/p002.json"},
     {"index":3,"start":567.34,"end":839.07,"text_start":567.84,"href":"s09/p003.json"}
    ]
@@ -152,7 +152,7 @@
    "page_count": 3,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":275.3,"text_start":5.307,"href":"s10/p001.json"},
+    {"index":1,"start":0.0,"end":275.3,"text_start":6.22,"href":"s10/p001.json"},
     {"index":2,"start":275.3,"end":551.3,"text_start":275.8,"href":"s10/p002.json"},
     {"index":3,"start":551.3,"end":811.69,"text_start":551.8,"href":"s10/p003.json"}
    ]
@@ -167,7 +167,7 @@
    "page_count": 2,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":321.5,"text_start":9.759,"href":"s11/p001.json"},
+    {"index":1,"start":0.0,"end":321.5,"text_start":10.72,"href":"s11/p001.json"},
     {"index":2,"start":321.5,"end":637.06,"text_start":322.0,"href":"s11/p002.json"}
    ]
   },
@@ -181,7 +181,7 @@
    "page_count": 2,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":362.94,"text_start":8.85,"href":"s12/p001.json"},
+    {"index":1,"start":0.0,"end":362.94,"text_start":9.8,"href":"s12/p001.json"},
     {"index":2,"start":362.94,"end":727.99,"text_start":363.44,"href":"s12/p002.json"}
    ]
   }
