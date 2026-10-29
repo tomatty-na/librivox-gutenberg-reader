@@ -98,6 +98,7 @@
     sentenceEls: [],
     nonEls: [],
     darkEls: [],
+    wordOn: [],        // 光っている語の要素（[[join]] の組は複数）
     active: { word: -1, phrase: -1, sentence: -1, non: -1, dark: -1 },
     lastFollowEl: null,
     pendingSeek: null,
@@ -521,6 +522,20 @@
     return true;
   }
 
+  // 語のハイライト。[[join]] の組（D-127）は、組のどの語が光る間も組の語を全部光らせる
+  function setWord(idx) {
+    if (S.active.word === idx) return;
+    for (var i = 0; i < S.wordOn.length; i++) S.wordOn[i].classList.remove('on');
+    S.wordOn = [];
+    var w = idx >= 0 ? S.tl.words[idx] : null;
+    if (w) {
+      for (var k = w.g0; k < w.g1; k++) {
+        if (S.wordEls[k]) { S.wordEls[k].classList.add('on'); S.wordOn.push(S.wordEls[k]); }
+      }
+    }
+    S.active.word = idx;
+  }
+
   function updateHighlight(t) {
     var tl = S.tl;
     var mode = S.settings.mode;
@@ -534,7 +549,7 @@
     var ni = C.findActive(S.nonIndex, te, 0);
     setActive('phrase', S.phraseEls, ci);
     setActive('sentence', S.sentenceEls, si);
-    setActive('word', S.wordEls, wi);
+    setWord(wi);
     setActive('non', S.nonEls, ni);
     setActive('dark', S.darkEls, dk);
     var target = wi >= 0 ? S.wordEls[wi] : ci >= 0 ? S.phraseEls[ci] : si >= 0 ? S.sentenceEls[si] : ni >= 0 ? S.nonEls[ni] : null;

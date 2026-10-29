@@ -23,8 +23,8 @@
   var MAX_URL_LENGTH = 6000;
   var MAX_QUOTE_CHARS = 300;
   var DARK_LABEL = '原本に無い歌（本文なし）';   // ♪ の印（page.dark。D-122）。render.py と同じ
-  // [[extra]] の種類ごとの文言（page.dark[].kind。D-125）。印の文字は style.css の .dk-<kind>::before
-  var DARK_LABELS = { reread: '読み直し（録音の重複・本文なし）', voice: '本文に無いほかの声', other: '本文に無い音' };
+  // [[extra]] の種類ごとの文言（page.dark[].kind。D-125、D-126）。印の文字は style.css の .dk-<kind>::before
+  var DARK_LABELS = { surplus: '録音の余分（本文なし）', other: '本文に無い音' };
   var DARK_EPS = 0.005;
 
   function pad(n, w) {
@@ -132,7 +132,15 @@
         var w = para.words[li];
         var t0 = num(w.t0), t1 = num(w.t1);
         if (t0 === null || t1 === null || t1 < t0) { t0 = null; t1 = null; }
-        words.push({ pi: pi, li: li, ci: -1, t0: t0, t1: t1, aligned: t0 !== null, hlp: false, len: Math.max(1, (w.x || '').length) });
+        words.push({ pi: pi, li: li, ci: -1, t0: t0, t1: t1, aligned: t0 !== null, hlp: false, len: Math.max(1, (w.x || '').length),
+                     g0: base + li, g1: base + li + 1 });
+      }
+      // j: 1 の語は次の語と組になり、どれかが光る間は組の語を全部光らせる（[[join]]。D-127）。g0〜g1 が組の範囲
+      for (var gj = base; gj < words.length; ) {
+        var ge = gj;
+        while (ge < words.length - 1 && para.words[ge - base].j) ge++;
+        for (var gk = gj; gk <= ge; gk++) { words[gk].g0 = gj; words[gk].g1 = ge + 1; }
+        gj = ge + 1;
       }
       var phs = para.phrases || [];
       for (var cj = 0; cj < phs.length; cj++) {
