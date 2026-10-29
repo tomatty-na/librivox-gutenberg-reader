@@ -1,0 +1,818 @@
+{
+ "format": "librivox-gutenberg/work",
+ "version": "1.0",
+ "work": {
+  "slug": "moby-dick-by-herman-melville",
+  "title": "Moby Dick, or the Whale",
+  "author": "Herman Melville",
+  "gutenberg_id": 2701,
+  "librivox_url": "https://librivox.org/moby-dick-by-herman-melville/",
+  "language": "en",
+  "category": "fiction",
+  "authors": [
+   {
+    "name": "Herman Melville",
+    "slug": "herman-melville",
+    "id": 329,
+    "first_name": "Herman",
+    "last_name": "Melville",
+    "dob": "1819",
+    "dod": "1891"
+   }
+  ],
+  "updated": "2026-10-29"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "index": 1,
+   "title": "Chapter 000: Etymology and Extracts",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_000_melville_64kb.mp3",
+   "duration": 1753.6,
+   "page_count": 0,
+   "status": "pending",
+   "pages": []
+  },
+  {
+   "id": "s02",
+   "index": 2,
+   "title": "Chapter 001-002 — CHAPTER 1. Loomings. / CHAPTER 2. The Carpet-Bag.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_001_002_melville_64kb.mp3",
+   "duration": 1436.67,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":269.62,"text_start":24.56,"href":"s02/p001.json"},
+    {"index":2,"start":269.62,"end":570.46,"text_start":270.12,"href":"s02/p002.json"},
+    {"index":3,"start":570.46,"end":885.2,"text_start":570.96,"href":"s02/p003.json"},
+    {"index":4,"start":885.2,"end":1161.92,"text_start":885.7,"href":"s02/p004.json"},
+    {"index":5,"start":1161.92,"end":1436.67,"text_start":1162.42,"href":"s02/p005.json"}
+   ]
+  },
+  {
+   "id": "s03",
+   "index": 3,
+   "title": "Chapter 003 — CHAPTER 3. The Spouter-Inn.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_003_melville_64kb.mp3",
+   "duration": 2093.69,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":267.46,"text_start":19.44,"href":"s03/p001.json"},
+    {"index":2,"start":267.46,"end":572.08,"text_start":267.96,"href":"s03/p002.json"},
+    {"index":3,"start":572.08,"end":875.34,"text_start":572.58,"href":"s03/p003.json"},
+    {"index":4,"start":875.34,"end":1158.06,"text_start":875.84,"href":"s03/p004.json"},
+    {"index":5,"start":1158.06,"end":1479.02,"text_start":1158.56,"href":"s03/p005.json"},
+    {"index":6,"start":1479.02,"end":1801.44,"text_start":1479.52,"href":"s03/p006.json"},
+    {"index":7,"start":1801.44,"end":2093.69,"text_start":1801.94,"href":"s03/p007.json"}
+   ]
+  },
+  {
+   "id": "s04",
+   "index": 4,
+   "title": "Chapter 004-007 — CHAPTER 4. The Counterpane. / CHAPTER 5. Breakfast. / CHAPTER 6. The Street. / CHAPTER 7. The Chapel.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_004_007_melville_64kb.mp3",
+   "duration": 1630.2,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":272.36,"text_start":25.02,"href":"s04/p001.json"},
+    {"index":2,"start":272.36,"end":624.78,"text_start":272.86,"href":"s04/p002.json"},
+    {"index":3,"start":624.78,"end":906.52,"text_start":625.28,"href":"s04/p003.json"},
+    {"index":4,"start":906.52,"end":1236.38,"text_start":907.02,"href":"s04/p004.json"},
+    {"index":5,"start":1236.38,"end":1630.2,"text_start":1236.88,"href":"s04/p005.json"}
+   ]
+  },
+  {
+   "id": "s05",
+   "index": 5,
+   "title": "Chapter 008-009 — CHAPTER 8. The Pulpit. / CHAPTER 9. The Sermon.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_008_009_melville_64kb.mp3",
+   "duration": 1776.76,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":383.72,"text_start":22.9,"href":"s05/p001.json"},
+    {"index":2,"start":383.72,"end":621.28,"text_start":384.22,"href":"s05/p002.json"},
+    {"index":3,"start":621.28,"end":891.8,"text_start":621.78,"href":"s05/p003.json"},
+    {"index":4,"start":891.8,"end":1219.95,"text_start":892.3,"href":"s05/p004.json"},
+    {"index":5,"start":1219.95,"end":1472.78,"text_start":1220.38,"href":"s05/p005.json"},
+    {"index":6,"start":1472.78,"end":1776.76,"text_start":1473.28,"href":"s05/p006.json"}
+   ]
+  },
+  {
+   "id": "s06",
+   "index": 6,
+   "title": "Chapter 010-012 — CHAPTER 10. A Bosom Friend. / CHAPTER 11. Nightgown. / CHAPTER 12. Biographical.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_010_012_melville_64kb.mp3",
+   "duration": 1168.76,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":281.92,"text_start":22.02,"href":"s06/p001.json"},
+    {"index":2,"start":281.92,"end":590.3,"text_start":282.42,"href":"s06/p002.json"},
+    {"index":3,"start":590.3,"end":842.94,"text_start":590.8,"href":"s06/p003.json"},
+    {"index":4,"start":842.94,"end":1168.76,"text_start":843.44,"href":"s06/p004.json"}
+   ]
+  },
+  {
+   "id": "s07",
+   "index": 7,
+   "title": "Chapter 013-015 — CHAPTER 13. Wheelbarrow. / CHAPTER 14. Nantucket. / CHAPTER 15. Chowder.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_013_015_melville_64kb.mp3",
+   "duration": 1388.28,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":327.45,"text_start":20.92,"href":"s07/p001.json"},
+    {"index":2,"start":327.45,"end":657.6,"text_start":327.9,"href":"s07/p002.json"},
+    {"index":3,"start":657.6,"end":950.64,"text_start":658.1,"href":"s07/p003.json"},
+    {"index":4,"start":950.64,"end":1388.28,"text_start":951.14,"href":"s07/p004.json"}
+   ]
+  },
+  {
+   "id": "s08",
+   "index": 8,
+   "title": "Chapter 016 — CHAPTER 16. The Ship.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_016_melville_64kb.mp3",
+   "duration": 2119.04,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":379.22,"text_start":20.1,"href":"s08/p001.json"},
+    {"index":2,"start":379.22,"end":654.96,"text_start":379.72,"href":"s08/p002.json"},
+    {"index":3,"start":654.96,"end":931.72,"text_start":655.46,"href":"s08/p003.json"},
+    {"index":4,"start":931.72,"end":1236.76,"text_start":932.22,"href":"s08/p004.json"},
+    {"index":5,"start":1236.76,"end":1521.48,"text_start":1237.26,"href":"s08/p005.json"},
+    {"index":6,"start":1521.48,"end":1819.28,"text_start":1521.98,"href":"s08/p006.json"},
+    {"index":7,"start":1819.28,"end":2119.04,"text_start":1819.78,"href":"s08/p007.json"}
+   ]
+  },
+  {
+   "id": "s09",
+   "index": 9,
+   "title": "Chapter 017-021 — CHAPTER 17. The Ramadan. / CHAPTER 18. His Mark. / CHAPTER 19. The Prophet. / CHAPTER 20. All Astir. / CHAPTER 21. Going Aboard.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_017_021_melville_64kb.mp3",
+   "duration": 2569.98,
+   "page_count": 8,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":280.86,"text_start":23.24,"href":"s09/p001.json"},
+    {"index":2,"start":280.86,"end":548.44,"text_start":281.36,"href":"s09/p002.json"},
+    {"index":3,"start":548.44,"end":839.52,"text_start":548.94,"href":"s09/p003.json"},
+    {"index":4,"start":839.52,"end":1170.56,"text_start":840.02,"href":"s09/p004.json"},
+    {"index":5,"start":1170.56,"end":1497.66,"text_start":1171.02,"href":"s09/p005.json"},
+    {"index":6,"start":1497.66,"end":1823.44,"text_start":1498.16,"href":"s09/p006.json"},
+    {"index":7,"start":1823.44,"end":2152.2,"text_start":1823.94,"href":"s09/p007.json"},
+    {"index":8,"start":2152.2,"end":2569.98,"text_start":2152.7,"href":"s09/p008.json"}
+   ]
+  },
+  {
+   "id": "s10",
+   "index": 10,
+   "title": "Chapter 022-025 — CHAPTER 22. Merry Christmas. / CHAPTER 23. The Lee Shore. / CHAPTER 24. The Advocate. / CHAPTER 25. Postscript.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_022_025_melville_64kb.mp3",
+   "duration": 1645.95,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":334.52,"text_start":22.8,"href":"s10/p001.json"},
+    {"index":2,"start":334.52,"end":661.8,"text_start":335.02,"href":"s10/p002.json"},
+    {"index":3,"start":661.8,"end":985.78,"text_start":662.3,"href":"s10/p003.json"},
+    {"index":4,"start":985.78,"end":1315.92,"text_start":986.28,"href":"s10/p004.json"},
+    {"index":5,"start":1315.92,"end":1645.95,"text_start":1316.42,"href":"s10/p005.json"}
+   ]
+  },
+  {
+   "id": "s11",
+   "index": 11,
+   "title": "Chapter 026-027 — CHAPTER 26. Knights and Squires. / CHAPTER 27. Knights and Squires.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_026_027_melville_64kb.mp3",
+   "duration": 1160.06,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":283.0,"text_start":21.38,"href":"s11/p001.json"},
+    {"index":2,"start":283.0,"end":513.12,"text_start":283.46,"href":"s11/p002.json"},
+    {"index":3,"start":513.12,"end":826.68,"text_start":513.62,"href":"s11/p003.json"},
+    {"index":4,"start":826.68,"end":1160.06,"text_start":827.14,"href":"s11/p004.json"}
+   ]
+  },
+  {
+   "id": "s12",
+   "index": 12,
+   "title": "Chapter 028-031 — CHAPTER 28. Ahab. / CHAPTER 29. Enter Ahab; to Him, Stubb. / CHAPTER 30. The Pipe. / CHAPTER 31. Queen Mab.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_028_031_melville_64kb.mp3",
+   "duration": 1500.03,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":224.8,"text_start":23.82,"href":"s12/p001.json"},
+    {"index":2,"start":224.8,"end":591.1,"text_start":225.3,"href":"s12/p002.json"},
+    {"index":3,"start":591.1,"end":880.38,"text_start":591.6,"href":"s12/p003.json"},
+    {"index":4,"start":880.38,"end":1184.1,"text_start":880.88,"href":"s12/p004.json"},
+    {"index":5,"start":1184.1,"end":1500.03,"text_start":1184.6,"href":"s12/p005.json"}
+   ]
+  },
+  {
+   "id": "s13",
+   "index": 13,
+   "title": "Chapter 032 — CHAPTER 32. Cetology.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_032_melville_64kb.mp3",
+   "duration": 2218.24,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":296.7,"text_start":20.26,"href":"s13/p001.json"},
+    {"index":2,"start":296.7,"end":609.84,"text_start":297.2,"href":"s13/p002.json"},
+    {"index":3,"start":609.84,"end":939.72,"text_start":610.34,"href":"s13/p003.json"},
+    {"index":4,"start":939.72,"end":1233.5,"text_start":940.22,"href":"s13/p004.json"},
+    {"index":5,"start":1233.5,"end":1578.04,"text_start":1234.0,"href":"s13/p005.json"},
+    {"index":6,"start":1578.04,"end":1892.18,"text_start":1578.54,"href":"s13/p006.json"},
+    {"index":7,"start":1892.18,"end":2218.24,"text_start":1892.68,"href":"s13/p007.json"}
+   ]
+  },
+  {
+   "id": "s14",
+   "index": 14,
+   "title": "Chapter 033-035 — CHAPTER 33. The Specksnyder. / CHAPTER 34. The Cabin-Table. / CHAPTER 35. The Mast-Head.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_033_035_melville_64kb.mp3",
+   "duration": 2291.45,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":283.26,"text_start":23.24,"href":"s14/p001.json"},
+    {"index":2,"start":283.26,"end":574.84,"text_start":283.76,"href":"s14/p002.json"},
+    {"index":3,"start":574.84,"end":917.68,"text_start":575.34,"href":"s14/p003.json"},
+    {"index":4,"start":917.68,"end":1289.18,"text_start":918.18,"href":"s14/p004.json"},
+    {"index":5,"start":1289.18,"end":1671.36,"text_start":1289.68,"href":"s14/p005.json"},
+    {"index":6,"start":1671.36,"end":1992.56,"text_start":1671.86,"href":"s14/p006.json"},
+    {"index":7,"start":1992.56,"end":2291.45,"text_start":1993.06,"href":"s14/p007.json"}
+   ]
+  },
+  {
+   "id": "s15",
+   "index": 15,
+   "title": "Chapter 036-040 — CHAPTER 36. The Quarter-Deck. / CHAPTER 37. Sunset. / CHAPTER 38. Dusk. / CHAPTER 39. First Night-Watch. / CHAPTER 40. Midnight, Forecastle.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_036_040_melville_64kb.mp3",
+   "duration": 2537.34,
+   "page_count": 8,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":318.37,"text_start":25.2,"href":"s15/p001.json"},
+    {"index":2,"start":318.37,"end":628.12,"text_start":318.78,"href":"s15/p002.json"},
+    {"index":3,"start":628.12,"end":953.4,"text_start":628.62,"href":"s15/p003.json"},
+    {"index":4,"start":953.4,"end":1273.26,"text_start":953.9,"href":"s15/p004.json"},
+    {"index":5,"start":1273.26,"end":1527.5,"text_start":1273.76,"href":"s15/p005.json"},
+    {"index":6,"start":1527.5,"end":1815.82,"text_start":1528.0,"href":"s15/p006.json"},
+    {"index":7,"start":1815.82,"end":2177.3,"text_start":1816.32,"href":"s15/p007.json"},
+    {"index":8,"start":2177.3,"end":2537.34,"text_start":2177.8,"href":"s15/p008.json"}
+   ]
+  },
+  {
+   "id": "s16",
+   "index": 16,
+   "title": "Chapter 041 — CHAPTER 41. Moby Dick.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_041_melville_64kb.mp3",
+   "duration": 1589.24,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":325.54,"text_start":21.62,"href":"s16/p001.json"},
+    {"index":2,"start":325.54,"end":632.35,"text_start":326.04,"href":"s16/p002.json"},
+    {"index":3,"start":632.35,"end":908.86,"text_start":632.82,"href":"s16/p003.json"},
+    {"index":4,"start":908.86,"end":1240.16,"text_start":909.36,"href":"s16/p004.json"},
+    {"index":5,"start":1240.16,"end":1589.24,"text_start":1240.66,"href":"s16/p005.json"}
+   ]
+  },
+  {
+   "id": "s17",
+   "index": 17,
+   "title": "Chapter 042-044 — CHAPTER 42. The Whiteness of the Whale. / CHAPTER 43. Hark! / CHAPTER 44. The Chart.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_042_044_melville_64kb.mp3",
+   "duration": 2616.44,
+   "page_count": 9,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":294.3,"text_start":30.08,"href":"s17/p001.json"},
+    {"index":2,"start":294.3,"end":588.6,"text_start":294.8,"href":"s17/p002.json"},
+    {"index":3,"start":588.6,"end":886.18,"text_start":589.1,"href":"s17/p003.json"},
+    {"index":4,"start":886.18,"end":1148.04,"text_start":886.68,"href":"s17/p004.json"},
+    {"index":5,"start":1148.04,"end":1437.36,"text_start":1148.54,"href":"s17/p005.json"},
+    {"index":6,"start":1437.36,"end":1721.3,"text_start":1437.86,"href":"s17/p006.json"},
+    {"index":7,"start":1721.3,"end":2055.22,"text_start":1721.8,"href":"s17/p007.json"},
+    {"index":8,"start":2055.22,"end":2340.96,"text_start":2055.72,"href":"s17/p008.json"},
+    {"index":9,"start":2340.96,"end":2616.44,"text_start":2341.46,"href":"s17/p009.json"}
+   ]
+  },
+  {
+   "id": "s18",
+   "index": 18,
+   "title": "Chapter 045-047 — CHAPTER 45. The Affidavit. / CHAPTER 46. Surmises. / CHAPTER 47. The Mat-Maker.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_045_047_melville_64kb.mp3",
+   "duration": 2230.01,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":306.02,"text_start":29.38,"href":"s18/p001.json"},
+    {"index":2,"start":306.02,"end":610.45,"text_start":306.52,"href":"s18/p002.json"},
+    {"index":3,"start":610.45,"end":911.4,"text_start":610.9,"href":"s18/p003.json"},
+    {"index":4,"start":911.4,"end":1156.46,"text_start":911.9,"href":"s18/p004.json"},
+    {"index":5,"start":1156.46,"end":1423.0,"text_start":1156.96,"href":"s18/p005.json"},
+    {"index":6,"start":1423.0,"end":1839.12,"text_start":1423.5,"href":"s18/p006.json"},
+    {"index":7,"start":1839.12,"end":2230.01,"text_start":1839.62,"href":"s18/p007.json"}
+   ]
+  },
+  {
+   "id": "s19",
+   "index": 19,
+   "title": "Chapter 048-050 — CHAPTER 48. The First Lowering. / CHAPTER 49. The Hyena. / CHAPTER 50. Ahab’s Boat and Crew. Fedallah.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_048_050_melville_64kb.mp3",
+   "duration": 2309.63,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":338.68,"text_start":28.16,"href":"s19/p001.json"},
+    {"index":2,"start":338.68,"end":663.34,"text_start":339.18,"href":"s19/p002.json"},
+    {"index":3,"start":663.34,"end":985.52,"text_start":663.84,"href":"s19/p003.json"},
+    {"index":4,"start":985.52,"end":1294.86,"text_start":986.02,"href":"s19/p004.json"},
+    {"index":5,"start":1294.86,"end":1587.88,"text_start":1295.36,"href":"s19/p005.json"},
+    {"index":6,"start":1587.88,"end":1912.7,"text_start":1588.38,"href":"s19/p006.json"},
+    {"index":7,"start":1912.7,"end":2309.63,"text_start":1913.2,"href":"s19/p007.json"}
+   ]
+  },
+  {
+   "id": "s20",
+   "index": 20,
+   "title": "Chapter 051-053 — CHAPTER 51. The Spirit-Spout. / CHAPTER 52. The Albatross. / CHAPTER 53. The Gam.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_051_053_melville_64kb.mp3",
+   "duration": 1625.08,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":340.64,"text_start":28.04,"href":"s20/p001.json"},
+    {"index":2,"start":340.64,"end":667.88,"text_start":341.14,"href":"s20/p002.json"},
+    {"index":3,"start":667.88,"end":959.98,"text_start":668.38,"href":"s20/p003.json"},
+    {"index":4,"start":959.98,"end":1305.26,"text_start":960.48,"href":"s20/p004.json"},
+    {"index":5,"start":1305.26,"end":1625.08,"text_start":1305.76,"href":"s20/p005.json"}
+   ]
+  },
+  {
+   "id": "s21",
+   "index": 21,
+   "title": "Chapter 054 — CHAPTER 54. The Town-Ho’s Story.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_054_melville_64kb.mp3",
+   "duration": 3254.65,
+   "page_count": 11,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":292.84,"text_start":24.7,"href":"s21/p001.json"},
+    {"index":2,"start":292.84,"end":567.88,"text_start":293.34,"href":"s21/p002.json"},
+    {"index":3,"start":567.88,"end":857.88,"text_start":568.38,"href":"s21/p003.json"},
+    {"index":4,"start":857.88,"end":1136.14,"text_start":858.38,"href":"s21/p004.json"},
+    {"index":5,"start":1136.14,"end":1439.82,"text_start":1136.64,"href":"s21/p005.json"},
+    {"index":6,"start":1439.82,"end":1761.14,"text_start":1440.32,"href":"s21/p006.json"},
+    {"index":7,"start":1761.14,"end":2072.02,"text_start":1761.64,"href":"s21/p007.json"},
+    {"index":8,"start":2072.02,"end":2355.18,"text_start":2072.52,"href":"s21/p008.json"},
+    {"index":9,"start":2355.18,"end":2660.08,"text_start":2355.68,"href":"s21/p009.json"},
+    {"index":10,"start":2660.08,"end":2962.82,"text_start":2660.52,"href":"s21/p010.json"},
+    {"index":11,"start":2962.82,"end":3254.65,"text_start":2963.32,"href":"s21/p011.json"}
+   ]
+  },
+  {
+   "id": "s22",
+   "index": 22,
+   "title": "Chapter 055-058 — CHAPTER 55. Of the Monstrous Pictures of Whales. / CHAPTER 56. Of the Less Erroneous Pictures of Whales, and the True Pictures of Whaling Scenes. / CHAPTER 57. Of Whales in Paint; in Teeth; in Wood; in Sheet-Iron; in Stone; in Mountains; in Stars. / CHAPTER 58. Brit.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_055_058_melville_64kb.mp3",
+   "duration": 2229.63,
+   "page_count": 8,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":302.76,"text_start":27.62,"href":"s22/p001.json"},
+    {"index":2,"start":302.76,"end":573.98,"text_start":303.26,"href":"s22/p002.json"},
+    {"index":3,"start":573.98,"end":834.84,"text_start":574.48,"href":"s22/p003.json"},
+    {"index":4,"start":834.84,"end":1124.12,"text_start":835.34,"href":"s22/p004.json"},
+    {"index":5,"start":1124.12,"end":1377.08,"text_start":1124.62,"href":"s22/p005.json"},
+    {"index":6,"start":1377.08,"end":1647.54,"text_start":1377.58,"href":"s22/p006.json"},
+    {"index":7,"start":1647.54,"end":1938.72,"text_start":1648.04,"href":"s22/p007.json"},
+    {"index":8,"start":1938.72,"end":2229.63,"text_start":1939.22,"href":"s22/p008.json"}
+   ]
+  },
+  {
+   "id": "s23",
+   "index": 23,
+   "title": "Chapter 059-063 — CHAPTER 59. Squid. / CHAPTER 60. The Line. / CHAPTER 61. Stubb Kills a Whale. / CHAPTER 62. The Dart. / CHAPTER 63. The Crotch.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_059_063_melville_64kb.mp3",
+   "duration": 2325.63,
+   "page_count": 8,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":440.36,"text_start":28.04,"href":"s23/p001.json"},
+    {"index":2,"start":440.36,"end":748.24,"text_start":440.86,"href":"s23/p002.json"},
+    {"index":3,"start":748.24,"end":1039.62,"text_start":748.74,"href":"s23/p003.json"},
+    {"index":4,"start":1039.62,"end":1336.68,"text_start":1040.12,"href":"s23/p004.json"},
+    {"index":5,"start":1336.68,"end":1605.08,"text_start":1337.18,"href":"s23/p005.json"},
+    {"index":6,"start":1605.08,"end":1873.76,"text_start":1605.58,"href":"s23/p006.json"},
+    {"index":7,"start":1873.76,"end":2100.96,"text_start":1874.26,"href":"s23/p007.json"},
+    {"index":8,"start":2100.96,"end":2325.63,"text_start":2101.46,"href":"s23/p008.json"}
+   ]
+  },
+  {
+   "id": "s24",
+   "index": 24,
+   "title": "Chapter 064-067 — CHAPTER 64. Stubb’s Supper. / CHAPTER 65. The Whale as a Dish. / CHAPTER 66. The Shark Massacre. / CHAPTER 67. Cutting In.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_064_067_melville_64kb.mp3",
+   "duration": 2225.92,
+   "page_count": 0,
+   "status": "pending",
+   "pages": []
+  },
+  {
+   "id": "s25",
+   "index": 25,
+   "title": "Chapter 068-071 — CHAPTER 68. The Blanket. / CHAPTER 69. The Funeral. / CHAPTER 70. The Sphynx. / CHAPTER 71. The Jeroboam’s Story.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_068_071_melville_64kb.mp3",
+   "duration": 2062.08,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":221.94,"text_start":27.44,"href":"s25/p001.json"},
+    {"index":2,"start":221.94,"end":529.0,"text_start":222.44,"href":"s25/p002.json"},
+    {"index":3,"start":529.0,"end":809.1,"text_start":529.5,"href":"s25/p003.json"},
+    {"index":4,"start":809.1,"end":1106.84,"text_start":809.6,"href":"s25/p004.json"},
+    {"index":5,"start":1106.84,"end":1351.66,"text_start":1107.34,"href":"s25/p005.json"},
+    {"index":6,"start":1351.66,"end":1769.18,"text_start":1352.16,"href":"s25/p006.json"},
+    {"index":7,"start":1769.18,"end":2062.08,"text_start":1769.68,"href":"s25/p007.json"}
+   ]
+  },
+  {
+   "id": "s26",
+   "index": 26,
+   "title": "Chapter 072-073 — CHAPTER 72. The Monkey-Rope. / CHAPTER 73. Stubb and Flask kill a Right Whale; and Then Have a Talk over Him.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_072_073_melville_64kb.mp3",
+   "duration": 1474.81,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":339.8,"text_start":28.1,"href":"s26/p001.json"},
+    {"index":2,"start":339.8,"end":694.94,"text_start":340.3,"href":"s26/p002.json"},
+    {"index":3,"start":694.94,"end":960.06,"text_start":695.44,"href":"s26/p003.json"},
+    {"index":4,"start":960.06,"end":1214.22,"text_start":960.56,"href":"s26/p004.json"},
+    {"index":5,"start":1214.22,"end":1474.81,"text_start":1214.72,"href":"s26/p005.json"}
+   ]
+  },
+  {
+   "id": "s27",
+   "index": 27,
+   "title": "Chapter 074-077 — CHAPTER 74. The Sperm Whale’s Head—Contrasted View. / CHAPTER 75. The Right Whale’s Head—Contrasted View. / CHAPTER 76. The Battering-Ram. / CHAPTER 77. The Great Heidelburgh Tun.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_074_077_melville_64kb.mp3",
+   "duration": 1827.2,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":388.94,"text_start":29.08,"href":"s27/p001.json"},
+    {"index":2,"start":388.94,"end":677.56,"text_start":389.44,"href":"s27/p002.json"},
+    {"index":3,"start":677.56,"end":931.6,"text_start":678.06,"href":"s27/p003.json"},
+    {"index":4,"start":931.6,"end":1173.2,"text_start":932.1,"href":"s27/p004.json"},
+    {"index":5,"start":1173.2,"end":1536.24,"text_start":1173.7,"href":"s27/p005.json"},
+    {"index":6,"start":1536.24,"end":1827.2,"text_start":1536.74,"href":"s27/p006.json"}
+   ]
+  },
+  {
+   "id": "s28",
+   "index": 28,
+   "title": "Chapter 078-080 — CHAPTER 78. Cistern and Buckets. / CHAPTER 79. The Prairie. / CHAPTER 80. The Nut.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_078_080_melville_64kb.mp3",
+   "duration": 1443.32,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":333.26,"text_start":27.02,"href":"s28/p001.json"},
+    {"index":2,"start":333.26,"end":668.36,"text_start":333.76,"href":"s28/p002.json"},
+    {"index":3,"start":668.36,"end":1070.08,"text_start":668.86,"href":"s28/p003.json"},
+    {"index":4,"start":1070.08,"end":1443.32,"text_start":1070.58,"href":"s28/p004.json"}
+   ]
+  },
+  {
+   "id": "s29",
+   "index": 29,
+   "title": "Chapter 081-082 — CHAPTER 81. The Pequod Meets The Virgin. / CHAPTER 82. The Honor and Glory of Whaling.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_081_082_melville_64kb.mp3",
+   "duration": 2205.56,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":320.72,"text_start":27.82,"href":"s29/p001.json"},
+    {"index":2,"start":320.72,"end":642.84,"text_start":321.22,"href":"s29/p002.json"},
+    {"index":3,"start":642.84,"end":939.44,"text_start":643.34,"href":"s29/p003.json"},
+    {"index":4,"start":939.44,"end":1248.76,"text_start":939.94,"href":"s29/p004.json"},
+    {"index":5,"start":1248.76,"end":1551.64,"text_start":1249.26,"href":"s29/p005.json"},
+    {"index":6,"start":1551.64,"end":1863.3,"text_start":1552.14,"href":"s29/p006.json"},
+    {"index":7,"start":1863.3,"end":2205.56,"text_start":1863.8,"href":"s29/p007.json"}
+   ]
+  },
+  {
+   "id": "s30",
+   "index": 30,
+   "title": "Chapter 083-086 — CHAPTER 83. Jonah Historically Regarded. / CHAPTER 84. Pitchpoling. / CHAPTER 85. The Fountain. / CHAPTER 86. The Tail.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_083_086_melville_64kb.mp3",
+   "duration": 2258.43,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":346.02,"text_start":27.6,"href":"s30/p001.json"},
+    {"index":2,"start":346.02,"end":687.92,"text_start":346.52,"href":"s30/p002.json"},
+    {"index":3,"start":687.92,"end":1018.62,"text_start":688.42,"href":"s30/p003.json"},
+    {"index":4,"start":1018.62,"end":1338.2,"text_start":1019.12,"href":"s30/p004.json"},
+    {"index":5,"start":1338.2,"end":1640.44,"text_start":1338.7,"href":"s30/p005.json"},
+    {"index":6,"start":1640.44,"end":1929.7,"text_start":1640.94,"href":"s30/p006.json"},
+    {"index":7,"start":1929.7,"end":2258.43,"text_start":1930.2,"href":"s30/p007.json"}
+   ]
+  },
+  {
+   "id": "s31",
+   "index": 31,
+   "title": "Chapter 087-088 — CHAPTER 87. The Grand Armada. / CHAPTER 88. Schools and Schoolmasters.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_087_088_melville_64kb.mp3",
+   "duration": 2432.0,
+   "page_count": 8,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":342.62,"text_start":28.22,"href":"s31/p001.json"},
+    {"index":2,"start":342.62,"end":612.5,"text_start":343.12,"href":"s31/p002.json"},
+    {"index":3,"start":612.5,"end":941.32,"text_start":613.0,"href":"s31/p003.json"},
+    {"index":4,"start":941.32,"end":1240.14,"text_start":941.82,"href":"s31/p004.json"},
+    {"index":5,"start":1240.14,"end":1553.6,"text_start":1240.64,"href":"s31/p005.json"},
+    {"index":6,"start":1553.6,"end":1851.0,"text_start":1554.1,"href":"s31/p006.json"},
+    {"index":7,"start":1851.0,"end":2139.2,"text_start":1851.5,"href":"s31/p007.json"},
+    {"index":8,"start":2139.2,"end":2432.0,"text_start":2139.7,"href":"s31/p008.json"}
+   ]
+  },
+  {
+   "id": "s32",
+   "index": 32,
+   "title": "Chapter 089-091 — CHAPTER 89. Fast-Fish and Loose-Fish. / CHAPTER 90. Heads or Tails. / CHAPTER 91. The Pequod Meets The Rose-Bud.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_089_091_melville_64kb.mp3",
+   "duration": 2036.86,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":302.24,"text_start":29.36,"href":"s32/p001.json"},
+    {"index":2,"start":302.24,"end":619.1,"text_start":302.74,"href":"s32/p002.json"},
+    {"index":3,"start":619.1,"end":1043.32,"text_start":619.6,"href":"s32/p003.json"},
+    {"index":4,"start":1043.32,"end":1377.38,"text_start":1043.82,"href":"s32/p004.json"},
+    {"index":5,"start":1377.38,"end":1708.54,"text_start":1377.88,"href":"s32/p005.json"},
+    {"index":6,"start":1708.54,"end":2036.86,"text_start":1708.98,"href":"s32/p006.json"}
+   ]
+  },
+  {
+   "id": "s33",
+   "index": 33,
+   "title": "Chapter 092-096 — CHAPTER 92. Ambergris. / CHAPTER 93. The Castaway. / CHAPTER 94. A Squeeze of the Hand. / CHAPTER 95. The Cassock. / CHAPTER 96. The Try-Works.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_092_096_melville_64kb.mp3",
+   "duration": 2567.55,
+   "page_count": 8,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":424.02,"text_start":25.96,"href":"s33/p001.json"},
+    {"index":2,"start":424.02,"end":746.78,"text_start":424.52,"href":"s33/p002.json"},
+    {"index":3,"start":746.78,"end":1074.58,"text_start":747.28,"href":"s33/p003.json"},
+    {"index":4,"start":1074.58,"end":1339.68,"text_start":1075.08,"href":"s33/p004.json"},
+    {"index":5,"start":1339.68,"end":1606.06,"text_start":1340.1,"href":"s33/p005.json"},
+    {"index":6,"start":1606.06,"end":1942.72,"text_start":1606.56,"href":"s33/p006.json"},
+    {"index":7,"start":1942.72,"end":2272.68,"text_start":1943.22,"href":"s33/p007.json"},
+    {"index":8,"start":2272.68,"end":2567.55,"text_start":2273.18,"href":"s33/p008.json"}
+   ]
+  },
+  {
+   "id": "s34",
+   "index": 34,
+   "title": "Chapter 097-100 — CHAPTER 97. The Lamp. / CHAPTER 98. Stowing Down and Clearing Up. / CHAPTER 99. The Doubloon. / CHAPTER 100. Leg and Arm. The Pequod, of Nantucket, Meets the Samuel Enderby, of London.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_097_100_melville_64kb.mp3",
+   "duration": 2605.18,
+   "page_count": 8,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":284.64,"text_start":27.06,"href":"s34/p001.json"},
+    {"index":2,"start":284.64,"end":541.6,"text_start":285.12,"href":"s34/p002.json"},
+    {"index":3,"start":541.6,"end":871.26,"text_start":542.1,"href":"s34/p003.json"},
+    {"index":4,"start":871.26,"end":1210.58,"text_start":871.76,"href":"s34/p004.json"},
+    {"index":5,"start":1210.58,"end":1568.74,"text_start":1211.08,"href":"s34/p005.json"},
+    {"index":6,"start":1568.74,"end":1908.9,"text_start":1569.24,"href":"s34/p006.json"},
+    {"index":7,"start":1908.9,"end":2251.06,"text_start":1909.4,"href":"s34/p007.json"},
+    {"index":8,"start":2251.06,"end":2605.18,"text_start":2251.54,"href":"s34/p008.json"}
+   ]
+  },
+  {
+   "id": "s35",
+   "index": 35,
+   "title": "Chapter 101-104 — CHAPTER 101. The Decanter. / CHAPTER 102. A Bower in the Arsacides. / CHAPTER 103. Measurement of The Whale’s Skeleton. / CHAPTER 104. The Fossil Whale.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_101_104_melville_64kb.mp3",
+   "duration": 2403.71,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":384.22,"text_start":29.74,"href":"s35/p001.json"},
+    {"index":2,"start":384.22,"end":755.6,"text_start":384.72,"href":"s35/p002.json"},
+    {"index":3,"start":755.6,"end":1131.8,"text_start":756.1,"href":"s35/p003.json"},
+    {"index":4,"start":1131.8,"end":1412.2,"text_start":1132.3,"href":"s35/p004.json"},
+    {"index":5,"start":1412.2,"end":1785.14,"text_start":1412.7,"href":"s35/p005.json"},
+    {"index":6,"start":1785.14,"end":2087.48,"text_start":1785.64,"href":"s35/p006.json"},
+    {"index":7,"start":2087.48,"end":2403.71,"text_start":2087.98,"href":"s35/p007.json"}
+   ]
+  },
+  {
+   "id": "s36",
+   "index": 36,
+   "title": "Chapter 105-108 — CHAPTER 105. Does the Whale’s Magnitude Diminish?—Will He Perish? / CHAPTER 106. Ahab’s Leg. / CHAPTER 107. The Carpenter. / CHAPTER 108. Ahab and the Carpenter. The Deck—First Night Watch.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_105_108_melville_64kb.mp3",
+   "duration": 2227.32,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":316.68,"text_start":26.56,"href":"s36/p001.json"},
+    {"index":2,"start":316.68,"end":671.72,"text_start":317.18,"href":"s36/p002.json"},
+    {"index":3,"start":671.72,"end":983.2,"text_start":672.22,"href":"s36/p003.json"},
+    {"index":4,"start":983.2,"end":1266.02,"text_start":983.7,"href":"s36/p004.json"},
+    {"index":5,"start":1266.02,"end":1506.44,"text_start":1266.52,"href":"s36/p005.json"},
+    {"index":6,"start":1506.44,"end":1866.31,"text_start":1506.94,"href":"s36/p006.json"},
+    {"index":7,"start":1866.31,"end":2227.32,"text_start":1866.72,"href":"s36/p007.json"}
+   ]
+  },
+  {
+   "id": "s37",
+   "index": 37,
+   "title": "Chapter 109-113 — CHAPTER 109. Ahab and Starbuck in the Cabin. / CHAPTER 110. Queequeg in His Coffin. / CHAPTER 111. The Pacific. / CHAPTER 112. The Blacksmith. / CHAPTER 113. The Forge.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_109_113_melville_64kb.mp3",
+   "duration": 2460.67,
+   "page_count": 8,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":432.76,"text_start":28.16,"href":"s37/p001.json"},
+    {"index":2,"start":432.76,"end":706.46,"text_start":433.26,"href":"s37/p002.json"},
+    {"index":3,"start":706.46,"end":992.52,"text_start":706.96,"href":"s37/p003.json"},
+    {"index":4,"start":992.52,"end":1307.98,"text_start":993.02,"href":"s37/p004.json"},
+    {"index":5,"start":1307.98,"end":1607.82,"text_start":1308.48,"href":"s37/p005.json"},
+    {"index":6,"start":1607.82,"end":1900.86,"text_start":1608.32,"href":"s37/p006.json"},
+    {"index":7,"start":1900.86,"end":2177.16,"text_start":1901.36,"href":"s37/p007.json"},
+    {"index":8,"start":2177.16,"end":2460.67,"text_start":2177.66,"href":"s37/p008.json"}
+   ]
+  },
+  {
+   "id": "s38",
+   "index": 38,
+   "title": "Chapter 114-118 — CHAPTER 114. The Gilder. / CHAPTER 115. The Pequod Meets The Bachelor. / CHAPTER 116. The Dying Whale. / CHAPTER 117. The Whale Watch. / CHAPTER 118. The Quadrant.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_114_118_melville_64kb.mp3",
+   "duration": 1557.24,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":317.66,"text_start":29.92,"href":"s38/p001.json"},
+    {"index":2,"start":317.66,"end":686.92,"text_start":318.16,"href":"s38/p002.json"},
+    {"index":3,"start":686.92,"end":937.6,"text_start":687.42,"href":"s38/p003.json"},
+    {"index":4,"start":937.6,"end":1193.86,"text_start":938.1,"href":"s38/p004.json"},
+    {"index":5,"start":1193.86,"end":1557.24,"text_start":1194.36,"href":"s38/p005.json"}
+   ]
+  },
+  {
+   "id": "s39",
+   "index": 39,
+   "title": "Chapter 119-123 — CHAPTER 119. The Candles. / CHAPTER 120. The Deck Towards the End of the First Night Watch. / CHAPTER 121. Midnight.—The Forecastle Bulwarks. / CHAPTER 122. Midnight Aloft.—Thunder and Lightning. / CHAPTER 123. The Musket.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_119_123_melville_64kb.mp3",
+   "duration": 1963.26,
+   "page_count": 0,
+   "status": "pending",
+   "pages": []
+  },
+  {
+   "id": "s40",
+   "index": 40,
+   "title": "Chapter 124-127 — CHAPTER 124. The Needle. / CHAPTER 125. The Log and Line. / CHAPTER 126. The Life-Buoy. / CHAPTER 127. The Deck.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_124_127_melville_64kb.mp3",
+   "duration": 1960.32,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":271.06,"text_start":29.26,"href":"s40/p001.json"},
+    {"index":2,"start":271.06,"end":542.72,"text_start":271.56,"href":"s40/p002.json"},
+    {"index":3,"start":542.72,"end":792.42,"text_start":543.22,"href":"s40/p003.json"},
+    {"index":4,"start":792.42,"end":1047.48,"text_start":792.92,"href":"s40/p004.json"},
+    {"index":5,"start":1047.48,"end":1316.48,"text_start":1047.98,"href":"s40/p005.json"},
+    {"index":6,"start":1316.48,"end":1597.18,"text_start":1316.98,"href":"s40/p006.json"},
+    {"index":7,"start":1597.18,"end":1960.32,"text_start":1597.68,"href":"s40/p007.json"}
+   ]
+  },
+  {
+   "id": "s41",
+   "index": 41,
+   "title": "Chapter 128-132 — CHAPTER 128. The Pequod Meets The Rachel. / CHAPTER 129. The Cabin. / CHAPTER 130. The Hat. / CHAPTER 131. The Pequod Meets The Delight. / CHAPTER 132. The Symphony.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_128_132_melville_64kb.mp3",
+   "duration": 2543.36,
+   "page_count": 8,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":292.43,"text_start":30.94,"href":"s41/p001.json"},
+    {"index":2,"start":292.43,"end":600.92,"text_start":292.68,"href":"s41/p002.json"},
+    {"index":3,"start":600.92,"end":873.42,"text_start":601.42,"href":"s41/p003.json"},
+    {"index":4,"start":873.42,"end":1237.3,"text_start":873.92,"href":"s41/p004.json"},
+    {"index":5,"start":1237.3,"end":1573.72,"text_start":1237.8,"href":"s41/p005.json"},
+    {"index":6,"start":1573.72,"end":1917.42,"text_start":1574.22,"href":"s41/p006.json"},
+    {"index":7,"start":1917.42,"end":2262.52,"text_start":1917.92,"href":"s41/p007.json"},
+    {"index":8,"start":2262.52,"end":2543.36,"text_start":2263.02,"href":"s41/p008.json"}
+   ]
+  },
+  {
+   "id": "s42",
+   "index": 42,
+   "title": "Chapter 133 — CHAPTER 133. The Chase—First Day.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_133_melville_64kb.mp3",
+   "duration": 1498.11,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":289.8,"text_start":22.34,"href":"s42/p001.json"},
+    {"index":2,"start":289.8,"end":580.3,"text_start":290.3,"href":"s42/p002.json"},
+    {"index":3,"start":580.3,"end":879.74,"text_start":580.8,"href":"s42/p003.json"},
+    {"index":4,"start":879.74,"end":1153.04,"text_start":880.24,"href":"s42/p004.json"},
+    {"index":5,"start":1153.04,"end":1498.11,"text_start":1153.54,"href":"s42/p005.json"}
+   ]
+  },
+  {
+   "id": "s43",
+   "index": 43,
+   "title": "Chapter 134 — CHAPTER 134. The Chase—Second Day.",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_134_melville_64kb.mp3",
+   "duration": 1368.32,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":335.96,"text_start":22.22,"href":"s43/p001.json"},
+    {"index":2,"start":335.96,"end":687.56,"text_start":336.46,"href":"s43/p002.json"},
+    {"index":3,"start":687.56,"end":1026.24,"text_start":688.06,"href":"s43/p003.json"},
+    {"index":4,"start":1026.24,"end":1368.32,"text_start":1026.74,"href":"s43/p004.json"}
+   ]
+  },
+  {
+   "id": "s44",
+   "index": 44,
+   "title": "Chapter 135 and Epilogue",
+   "reader": "Stewart Wills",
+   "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_135_melville_64kb.mp3",
+   "duration": 2101.37,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":300.72,"text_start":27.56,"href":"s44/p001.json"},
+    {"index":2,"start":300.72,"end":607.26,"text_start":301.22,"href":"s44/p002.json"},
+    {"index":3,"start":607.26,"end":903.48,"text_start":607.76,"href":"s44/p003.json"},
+    {"index":4,"start":903.48,"end":1207.8,"text_start":903.98,"href":"s44/p004.json"},
+    {"index":5,"start":1207.8,"end":1513.62,"text_start":1208.3,"href":"s44/p005.json"},
+    {"index":6,"start":1513.62,"end":1804.26,"text_start":1514.12,"href":"s44/p006.json"},
+    {"index":7,"start":1804.26,"end":2101.37,"text_start":1804.76,"href":"s44/p007.json"}
+   ]
+  }
+ ]
+}
