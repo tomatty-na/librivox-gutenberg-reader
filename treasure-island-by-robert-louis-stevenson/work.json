@@ -57,7 +57,7 @@
    "page_count": 6,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":243.74,"text_start":29.94,"href":"s03/p001.json"},
+    {"index":1,"start":0.0,"end":243.74,"text_start":30.28,"href":"s03/p001.json"},
     {"index":2,"start":243.74,"end":505.5,"text_start":244.24,"href":"s03/p002.json"},
     {"index":3,"start":505.5,"end":783.64,"text_start":506.0,"href":"s03/p003.json"},
     {"index":4,"start":783.64,"end":1081.28,"text_start":787.82,"href":"s03/p004.json"},
@@ -95,7 +95,7 @@
     {"index":1,"start":0.0,"end":315.88,"text_start":29.84,"href":"s05/p001.json"},
     {"index":2,"start":315.88,"end":622.02,"text_start":316.38,"href":"s05/p002.json"},
     {"index":3,"start":622.02,"end":921.18,"text_start":622.52,"href":"s05/p003.json"},
-    {"index":4,"start":921.18,"end":1228.2,"text_start":929.81,"href":"s05/p004.json"},
+    {"index":4,"start":921.18,"end":1228.2,"text_start":934.7,"href":"s05/p004.json"},
     {"index":5,"start":1228.2,"end":1553.02,"text_start":1228.7,"href":"s05/p005.json"},
     {"index":6,"start":1553.02,"end":1887.62,"text_start":1553.52,"href":"s05/p006.json"}
    ]
@@ -111,7 +111,7 @@
    "status": "mapped",
    "pages": [
     {"index":1,"start":0.0,"end":273.738,"text_start":21.06,"href":"s06/p001.json"},
-    {"index":2,"start":273.738,"end":529.48,"text_start":274.036,"href":"s06/p002.json"},
+    {"index":2,"start":273.738,"end":529.48,"text_start":274.62,"href":"s06/p002.json"},
     {"index":3,"start":529.48,"end":778.48,"text_start":529.98,"href":"s06/p003.json"},
     {"index":4,"start":778.48,"end":1093.32,"text_start":782.5,"href":"s06/p004.json"},
     {"index":5,"start":1093.32,"end":1391.13,"text_start":1093.82,"href":"s06/p005.json"}
@@ -172,7 +172,7 @@
    "status": "mapped",
    "part": "PART FOUR—The Stockade",
    "pages": [
-    {"index":1,"start":0.0,"end":345.0,"text_start":24.045,"href":"s10/p001.json"},
+    {"index":1,"start":0.0,"end":345.0,"text_start":26.46,"href":"s10/p001.json"},
     {"index":2,"start":345.0,"end":685.28,"text_start":345.5,"href":"s10/p002.json"}
    ]
   },
@@ -247,7 +247,7 @@
    "status": "mapped",
    "pages": [
     {"index":1,"start":0.0,"end":340.144,"text_start":15.5,"href":"s15/p001.json"},
-    {"index":2,"start":340.144,"end":671.53,"text_start":340.144,"href":"s15/p002.json"}
+    {"index":2,"start":340.144,"end":671.53,"text_start":341.52,"href":"s15/p002.json"}
    ]
   },
   {
