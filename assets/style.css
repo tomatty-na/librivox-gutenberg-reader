@@ -298,6 +298,21 @@ hr.brk { border: 0; border-top: 1px solid var(--line); width: 30%; margin: 1.5em
   cursor: pointer;
 }
 .nt.on { outline: 2px solid var(--hl-word); }
+/* 原本に無い歌の間（page.dark。D-122）。文字は ::before で出し、本文の文字列には入れない */
+.dk {
+  display: inline-block;
+  font-family: system-ui, -apple-system, sans-serif;
+  font-size: 0.8em;
+  line-height: 1.4;
+  color: var(--muted);
+  background: var(--nt-bg);
+  border-radius: 6px;
+  padding: 0 0.45em;
+  margin: 0 0.3em 0 0.1em;
+  vertical-align: 0.1em;
+}
+.dk::before { content: "\266A"; }
+.dk.on { outline: 2px solid var(--hl-word); }
 
 .fatal { font-family: system-ui, sans-serif; font-size: 15px; color: var(--muted); }
 
@@ -600,6 +615,7 @@ hr.brk { border: 0; border-top: 1px solid var(--line); width: 30%; margin: 1.5em
   .seg-btn[aria-pressed="true"],
   .chip.on { outline: 2px solid Highlight; outline-offset: -2px; }
   .nt.on { outline: 2px solid Highlight; }
+  .dk.on { outline: 2px solid Highlight; }
 }
 
 @media (prefers-reduced-motion: reduce) {

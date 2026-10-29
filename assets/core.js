@@ -22,6 +22,8 @@
   // GitHub の issues/new は長すぎる URL を受け付けないことがあるので控えめにする
   var MAX_URL_LENGTH = 6000;
   var MAX_QUOTE_CHARS = 300;
+  var DARK_LABEL = '原本に無い歌（本文なし）';   // ♪ の印（page.dark。D-122）。render.py と同じ
+  var DARK_EPS = 0.005;
 
   function pad(n, w) {
     var s = String(n);
@@ -382,11 +384,39 @@
       formatTime(r.t1) + '・本文なし）</div>';
   }
 
+  // 光らせない時間（page.dark。D-122）ごとに、♪ の印を置く語（ページ内の通し番号）→ dark の添字の配列。
+  // 印は、その区間より前に終わる最後の語の後ろ（区切りの後）。そういう語がページに無ければ -1（最初の語の前）。
+  // render.py の dark_anchors と同じ規則
+  function darkAnchors(page) {
+    var words = [];
+    var paras = page.paragraphs || [];
+    for (var p = 0; p < paras.length; p++) for (var q = 0; q < paras[p].words.length; q++) words.push(paras[p].words[q]);
+    var out = {};
+    var darks = page.dark || [];
+    for (var k = 0; k < darks.length; k++) {
+      var at = -1;
+      for (var i = 0; i < words.length; i++) {
+        if (isNum(words[i].t1) && words[i].t1 <= darks[k].t0 + DARK_EPS) at = i;
+      }
+      (out[at] = out[at] || []).push(k);
+    }
+    return out;
+  }
+
+  function darkHtml(k) {
+    return '<span class="dk" data-dk="' + k + '" role="img" aria-label="' + DARK_LABEL + '" title="' + DARK_LABEL + '"></span>';
+  }
+
   function renderTranscript(page) {
     var out = [];
     var nts = page.non_text || [];
     var nk = 0;
     var gw = 0, gc = 0, gs = 0;
+    var darks = darkAnchors(page);
+    function pushDark(at) {
+      var ks = darks[at] || [];
+      for (var d = 0; d < ks.length; d++) out.push(darkHtml(ks[d]));
+    }
     function flush(before) {
       while (nk < nts.length && (before === null || nts[nk].t0 <= before)) {
         out.push(nonTextHtml(nts[nk], nk));
@@ -431,6 +461,7 @@
       var cur = -1;
       for (var li = 0; li < para.words.length; li++) {
         var w = para.words[li];
+        if (gw === 0) pushDark(-1);
         if (phStart[li] !== undefined) {
           cur = phStart[li];
           var ph = phs[cur];
@@ -449,6 +480,7 @@
           cur = -1;
         }
         out.push(textHtml(w.s));
+        pushDark(gw - 1);
       }
       gc += phs.length;
       out.push('</' + tag + '>');

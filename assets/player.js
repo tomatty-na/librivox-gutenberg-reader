@@ -97,7 +97,8 @@
     phraseEls: [],
     sentenceEls: [],
     nonEls: [],
-    active: { word: -1, phrase: -1, sentence: -1, non: -1 },
+    darkEls: [],
+    active: { word: -1, phrase: -1, sentence: -1, non: -1, dark: -1 },
     lastFollowEl: null,
     pendingSeek: null,
     verifySeek: null,
@@ -397,7 +398,7 @@
       updateHeader();
       if (!opts.initial) updateUrl();
       S.loading = false;
-      S.active = { word: -1, phrase: -1, sentence: -1, non: -1 };
+      S.active = { word: -1, phrase: -1, sentence: -1, non: -1, dark: -1 };
       S.lastFollowEl = null;
       // 新しいページは先頭から表示し、自動スクロールが有効ならハイライト位置まで追従させる
       if (!same) scroller.scrollTop = 0;
@@ -431,6 +432,7 @@
     S.phraseEls = collect('.ph', 'c');
     S.sentenceEls = collect('.sn', 's');
     S.nonEls = collect('.nt', 'nt');
+    S.darkEls = collect('.dk', 'dk');   // 原本に無い歌の ♪ の印（D-122）
     // 検証表示用：時刻の無い語（na）と補間した語（ip）
     var tw = S.tl.words;
     for (var i = 0; i < tw.length; i++) {
@@ -527,12 +529,14 @@
     var si = mode === 'sentence' ? C.findActive(tl.sentenceIndex, te, PHRASE_HOLD) : -1;
     var wi = mode === 'word' ? C.findActive(tl.wordIndex, te, WORD_HOLD) : -1;
     if (wi >= 0 && tl.words[wi].hlp) wi = -1; // hl: "phrase" の句は句でハイライトする（CSS の .hlp）
-    if (C.inDark(tl, te)) ci = si = wi = -1; // 原本に無い歌の間は何も光らせない（D-122）
+    var dk = C.findActive(tl.darkIndex, te, 0);
+    if (dk >= 0) ci = si = wi = -1; // 原本に無い歌の間は何も光らせず、その間の ♪ の印だけを囲む（D-122）
     var ni = C.findActive(S.nonIndex, te, 0);
     setActive('phrase', S.phraseEls, ci);
     setActive('sentence', S.sentenceEls, si);
     setActive('word', S.wordEls, wi);
     setActive('non', S.nonEls, ni);
+    setActive('dark', S.darkEls, dk);
     var target = wi >= 0 ? S.wordEls[wi] : ci >= 0 ? S.phraseEls[ci] : si >= 0 ? S.sentenceEls[si] : ni >= 0 ? S.nonEls[ni] : null;
     if (target && target !== S.lastFollowEl) {
       S.lastFollowEl = target;
