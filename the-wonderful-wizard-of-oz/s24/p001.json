@@ -31,7 +31,10 @@
    "section": 23,
    "page": 1
   },
-  "next": null
+  "next": {
+   "section": 25,
+   "page": 1
+  }
  },
  "non_text": [
   {"kind":"intro","t0":0.0,"t1":18.24,"label":"LibriVox の前口上"},

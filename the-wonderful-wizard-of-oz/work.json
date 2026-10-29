@@ -349,9 +349,11 @@
    "reader": "J. Hall",
    "audio_url": "https://archive.org/download/wizard_of_oz/wizardofoz_24_baum_64kb.mp3",
    "duration": 60.21,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":60.21,"text_start":18.76,"href":"s25/p001.json"}
+   ]
   }
  ]
 }
