@@ -8,6 +8,18 @@
   "gutenberg_id": 205,
   "librivox_url": "https://librivox.org/walden-by-henry-david-thoreau/",
   "language": "en",
+  "category": "nonfiction",
+  "authors": [
+   {
+    "name": "Henry David Thoreau",
+    "slug": "henry-david-thoreau",
+    "id": 371,
+    "first_name": "Henry David",
+    "last_name": "Thoreau",
+    "dob": "1817",
+    "dod": "1862"
+   }
+  ],
   "updated": "2026-10-28"
  },
  "sections": [

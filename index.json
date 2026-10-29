@@ -9,7 +9,7 @@
   {"slug":"the-maltese-falcon-novel-version-by-dashiell-hammett","title":"The Maltese Falcon","author":"Dashiell Hammett","category":"fiction","authors":[{"slug":"dashiell-hammett","name":"Dashiell Hammett","last_name":"Hammett"}],"href":"the-maltese-falcon-novel-version-by-dashiell-hammett/","sections":20,"published":20,"duration":24518.0,"updated":"2026-10-28"},
   {"slug":"the-wonderful-wizard-of-oz","title":"The Wonderful Wizard of Oz","author":"L. Frank Baum","category":"children","authors":[{"slug":"l-frank-baum","name":"L. Frank Baum","last_name":"Baum"}],"href":"the-wonderful-wizard-of-oz/","sections":25,"published":25,"duration":13500.75,"updated":"2026-10-29"},
   {"slug":"treasure-island-by-robert-louis-stevenson","title":"Treasure Island","author":"Robert Louis Stevenson","category":"children","authors":[{"slug":"robert-louis-stevenson","name":"Robert Louis Stevenson","last_name":"Stevenson"}],"href":"treasure-island-by-robert-louis-stevenson/","sections":26,"published":26,"duration":26964.06,"updated":"2026-10-29"},
-  {"slug":"walden-by-henry-david-thoreau","title":"Walden","author":"Henry David Thoreau","category":null,"authors":[{"slug":"henry-david-thoreau","name":"Henry David Thoreau","last_name":"Thoreau"}],"href":"walden-by-henry-david-thoreau/","sections":23,"published":23,"duration":51485.24,"updated":"2026-10-28"}
+  {"slug":"walden-by-henry-david-thoreau","title":"Walden","author":"Henry David Thoreau","category":"nonfiction","authors":[{"slug":"henry-david-thoreau","name":"Henry David Thoreau","last_name":"Thoreau"}],"href":"walden-by-henry-david-thoreau/","sections":23,"published":23,"duration":51485.24,"updated":"2026-10-28"}
  ],
  "authors": [
   {"slug":"l-frank-baum","name":"L. Frank Baum","first_name":"L. Frank","last_name":"Baum","dob":"1856","dod":"1919","href":"authors/l-frank-baum/","works":["the-wonderful-wizard-of-oz"]},
@@ -19,6 +19,6 @@
   {"slug":"dashiell-hammett","name":"Dashiell Hammett","first_name":"Dashiell","last_name":"Hammett","dob":"1894","dod":"1961","href":"authors/dashiell-hammett/","works":["the-maltese-falcon-novel-version-by-dashiell-hammett"]},
   {"slug":"ernest-hemingway","name":"Ernest Hemingway","first_name":"Ernest","last_name":"Hemingway","dob":"1899","dod":"1961","href":"authors/ernest-hemingway/","works":["men-without-women-by-ernest-hemingway"]},
   {"slug":"robert-louis-stevenson","name":"Robert Louis Stevenson","first_name":"Robert Louis","last_name":"Stevenson","dob":"1850","dod":"1894","href":"authors/robert-louis-stevenson/","works":["treasure-island-by-robert-louis-stevenson"]},
-  {"slug":"henry-david-thoreau","name":"Henry David Thoreau","first_name":"Henry David","last_name":"Thoreau","href":"authors/henry-david-thoreau/","works":["walden-by-henry-david-thoreau"]}
+  {"slug":"henry-david-thoreau","name":"Henry David Thoreau","first_name":"Henry David","last_name":"Thoreau","dob":"1817","dod":"1862","href":"authors/henry-david-thoreau/","works":["walden-by-henry-david-thoreau"]}
  ]
 }
