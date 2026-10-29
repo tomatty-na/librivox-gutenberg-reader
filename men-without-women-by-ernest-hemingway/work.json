@@ -8,6 +8,18 @@
   "gutenberg_id": 69683,
   "librivox_url": "https://librivox.org/men-without-women-by-ernest-hemingway/",
   "language": "en",
+  "category": "fiction",
+  "authors": [
+   {
+    "name": "Ernest Hemingway",
+    "slug": "ernest-hemingway",
+    "id": 1543,
+    "first_name": "Ernest",
+    "last_name": "Hemingway",
+    "dob": "1899",
+    "dod": "1961"
+   }
+  ],
   "updated": "2026-10-28"
  },
  "sections": [

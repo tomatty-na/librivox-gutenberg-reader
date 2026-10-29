@@ -3,7 +3,7 @@
  "version": "1.0",
  "works": [
   {"slug":"alices-adventures-in-wonderland-by-lewis-carroll-5","title":"Alice's Adventures in Wonderland","author":"Lewis Carroll","category":"children","authors":[{"slug":"lewis-carroll","name":"Lewis Carroll","last_name":"Carroll"}],"href":"alices-adventures-in-wonderland-by-lewis-carroll-5/","sections":12,"published":12,"duration":9090.84,"updated":"2026-10-28"},
-  {"slug":"men-without-women-by-ernest-hemingway","title":"Men Without Women","author":"Ernest Hemingway","category":null,"authors":[{"slug":"ernest-hemingway","name":"Ernest Hemingway","last_name":"Hemingway"}],"href":"men-without-women-by-ernest-hemingway/","sections":14,"published":14,"duration":15938.65,"updated":"2026-10-28"},
+  {"slug":"men-without-women-by-ernest-hemingway","title":"Men Without Women","author":"Ernest Hemingway","category":"fiction","authors":[{"slug":"ernest-hemingway","name":"Ernest Hemingway","last_name":"Hemingway"}],"href":"men-without-women-by-ernest-hemingway/","sections":14,"published":14,"duration":15938.65,"updated":"2026-10-28"},
   {"slug":"robinson-crusoe-by-daniel-defoe","title":"Robinson Crusoe","author":"Daniel Defoe","category":null,"authors":[{"slug":"daniel-defoe","name":"Daniel Defoe","last_name":"Defoe"}],"href":"robinson-crusoe-by-daniel-defoe/","sections":20,"published":20,"duration":50116.82,"updated":"2026-10-28"},
   {"slug":"the-great-gatsby-version-5-by-f-scott-fitzgerald","title":"The Great Gatsby","author":"F. Scott Fitzgerald","category":null,"authors":[{"slug":"f-scott-fitzgerald","name":"F. Scott Fitzgerald","last_name":"Fitzgerald"}],"href":"the-great-gatsby-version-5-by-f-scott-fitzgerald/","sections":10,"published":10,"duration":20733.57,"updated":"2026-10-29"},
   {"slug":"the-maltese-falcon-novel-version-by-dashiell-hammett","title":"The Maltese Falcon","author":"Dashiell Hammett","category":null,"authors":[{"slug":"dashiell-hammett","name":"Dashiell Hammett","last_name":"Hammett"}],"href":"the-maltese-falcon-novel-version-by-dashiell-hammett/","sections":20,"published":20,"duration":24518.0,"updated":"2026-10-28"},
@@ -17,7 +17,7 @@
   {"slug":"daniel-defoe","name":"Daniel Defoe","first_name":"Daniel","last_name":"Defoe","href":"authors/daniel-defoe/","works":["robinson-crusoe-by-daniel-defoe"]},
   {"slug":"f-scott-fitzgerald","name":"F. Scott Fitzgerald","first_name":"F. Scott","last_name":"Fitzgerald","href":"authors/f-scott-fitzgerald/","works":["the-great-gatsby-version-5-by-f-scott-fitzgerald"]},
   {"slug":"dashiell-hammett","name":"Dashiell Hammett","first_name":"Dashiell","last_name":"Hammett","href":"authors/dashiell-hammett/","works":["the-maltese-falcon-novel-version-by-dashiell-hammett"]},
-  {"slug":"ernest-hemingway","name":"Ernest Hemingway","first_name":"Ernest","last_name":"Hemingway","href":"authors/ernest-hemingway/","works":["men-without-women-by-ernest-hemingway"]},
+  {"slug":"ernest-hemingway","name":"Ernest Hemingway","first_name":"Ernest","last_name":"Hemingway","dob":"1899","dod":"1961","href":"authors/ernest-hemingway/","works":["men-without-women-by-ernest-hemingway"]},
   {"slug":"robert-louis-stevenson","name":"Robert Louis Stevenson","first_name":"Robert Louis","last_name":"Stevenson","href":"authors/robert-louis-stevenson/","works":["treasure-island-by-robert-louis-stevenson"]},
   {"slug":"henry-david-thoreau","name":"Henry David Thoreau","first_name":"Henry David","last_name":"Thoreau","href":"authors/henry-david-thoreau/","works":["walden-by-henry-david-thoreau"]}
  ]
