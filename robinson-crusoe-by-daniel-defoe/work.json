@@ -404,10 +404,10 @@
    "page_count": 6,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":421.52,"text_start":31.814,"href":"s20/p001.json"},
+    {"index":1,"start":0.0,"end":421.52,"text_start":32.46,"href":"s20/p001.json"},
     {"index":2,"start":421.52,"end":753.84,"text_start":422.02,"href":"s20/p002.json"},
     {"index":3,"start":753.84,"end":1091.33,"text_start":754.34,"href":"s20/p003.json"},
-    {"index":4,"start":1091.33,"end":1396.28,"text_start":1091.66,"href":"s20/p004.json"},
+    {"index":4,"start":1091.33,"end":1396.28,"text_start":1092.52,"href":"s20/p004.json"},
     {"index":5,"start":1396.28,"end":1718.98,"text_start":1396.78,"href":"s20/p005.json"},
     {"index":6,"start":1718.98,"end":2106.72,"text_start":1719.48,"href":"s20/p006.json"}
    ]
