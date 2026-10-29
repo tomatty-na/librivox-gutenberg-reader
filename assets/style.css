@@ -249,6 +249,9 @@ a.pager-btn[aria-disabled="true"] { opacity: 0.35; cursor: default; pointer-even
 .para.k-quote { padding-left: 1.5em; }
 .para.k-stage { font-style: italic; }
 .para.k-signature { text-align: right; }
+/* 原本の右寄せ・中央寄せ（Treasure の手紙の署名と日付など。P4-5） */
+.para.a-right { text-align: right; padding-left: 0; }
+.para.a-center { text-align: center; padding-left: 0; }
 .para.k-table_row { margin-bottom: 0.3em; padding-left: 1em; }
 .ind { display: inline-block; }
 hr.brk { border: 0; border-top: 1px solid var(--line); width: 30%; margin: 1.5em auto; }

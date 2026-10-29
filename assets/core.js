@@ -457,7 +457,8 @@
       if (para.break_before && !para.cont_prev) out.push('<hr class="brk brk-' + escAttr(para.break_before) + '">');
       if (para.cont_prev) out.push('<div class="cont-note">' + NOTE_CONT_PREV + '</div>');
       var tag = kind === 'heading' ? 'h2' : 'p';
-      var cls = 'para k-' + kind + (para.role ? ' r-' + para.role : '') + (para.cont_prev ? ' cont-prev' : '') +
+      var cls = 'para k-' + kind + (para.role ? ' r-' + para.role : '') + (para.align ? ' a-' + para.align : '') +
+        (para.cont_prev ? ' cont-prev' : '') +
         (para.cont_next ? ' cont-next' : '');
       out.push('<' + tag + ' class="' + escAttr(cls) + '" id="' + escAttr(para.id + (para.w_off ? '-' + para.w_off : '')) + '">');
       out.push(textHtml(para.lead));
