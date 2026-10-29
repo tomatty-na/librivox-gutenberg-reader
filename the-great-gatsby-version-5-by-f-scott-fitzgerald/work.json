@@ -32,7 +32,7 @@
    "page_count": 8,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":329.16,"text_start":17.294,"href":"s02/p001.json"},
+    {"index":1,"start":0.0,"end":329.16,"text_start":17.6,"href":"s02/p001.json"},
     {"index":2,"start":329.16,"end":634.02,"text_start":329.66,"href":"s02/p002.json"},
     {"index":3,"start":634.02,"end":948.42,"text_start":634.52,"href":"s02/p003.json"},
     {"index":4,"start":948.42,"end":1255.4,"text_start":948.92,"href":"s02/p004.json"},
@@ -52,7 +52,7 @@
    "page_count": 6,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":316.24,"text_start":9.239,"href":"s03/p001.json"},
+    {"index":1,"start":0.0,"end":316.24,"text_start":9.56,"href":"s03/p001.json"},
     {"index":2,"start":316.24,"end":627.86,"text_start":316.74,"href":"s03/p002.json"},
     {"index":3,"start":627.86,"end":936.7,"text_start":628.36,"href":"s03/p003.json"},
     {"index":4,"start":936.7,"end":1240.68,"text_start":937.2,"href":"s03/p004.json"},
@@ -70,7 +70,7 @@
    "page_count": 8,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":300.22,"text_start":9.945,"href":"s04/p001.json"},
+    {"index":1,"start":0.0,"end":300.22,"text_start":10.4,"href":"s04/p001.json"},
     {"index":2,"start":300.22,"end":583.44,"text_start":300.72,"href":"s04/p002.json"},
     {"index":3,"start":583.44,"end":859.24,"text_start":583.92,"href":"s04/p003.json"},
     {"index":4,"start":859.24,"end":1168.66,"text_start":859.74,"href":"s04/p004.json"},
@@ -90,7 +90,7 @@
    "page_count": 8,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":326.08,"text_start":9.378,"href":"s05/p001.json"},
+    {"index":1,"start":0.0,"end":326.08,"text_start":9.78,"href":"s05/p001.json"},
     {"index":2,"start":326.08,"end":615.66,"text_start":326.58,"href":"s05/p002.json"},
     {"index":3,"start":615.66,"end":902.0,"text_start":616.16,"href":"s05/p003.json"},
     {"index":4,"start":902.0,"end":1181.44,"text_start":902.5,"href":"s05/p004.json"},
@@ -110,7 +110,7 @@
    "page_count": 6,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":286.55,"text_start":10.031,"href":"s06/p001.json"},
+    {"index":1,"start":0.0,"end":286.55,"text_start":10.42,"href":"s06/p001.json"},
     {"index":2,"start":286.55,"end":573.14,"text_start":286.94,"href":"s06/p002.json"},
     {"index":3,"start":573.14,"end":861.46,"text_start":573.64,"href":"s06/p003.json"},
     {"index":4,"start":861.46,"end":1152.06,"text_start":861.96,"href":"s06/p004.json"},
@@ -128,7 +128,7 @@
    "page_count": 6,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":295.62,"text_start":9.694,"href":"s07/p001.json"},
+    {"index":1,"start":0.0,"end":295.62,"text_start":10.02,"href":"s07/p001.json"},
     {"index":2,"start":295.62,"end":598.29,"text_start":296.12,"href":"s07/p002.json"},
     {"index":3,"start":598.29,"end":902.93,"text_start":598.78,"href":"s07/p003.json"},
     {"index":4,"start":902.93,"end":1207.76,"text_start":903.04,"href":"s07/p004.json"},
@@ -146,7 +146,7 @@
    "page_count": 12,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":337.34,"text_start":7.707,"href":"s08/p001.json"},
+    {"index":1,"start":0.0,"end":337.34,"text_start":8.2,"href":"s08/p001.json"},
     {"index":2,"start":337.34,"end":677.82,"text_start":337.84,"href":"s08/p002.json"},
     {"index":3,"start":677.82,"end":1016.29,"text_start":678.32,"href":"s08/p003.json"},
     {"index":4,"start":1016.29,"end":1352.52,"text_start":1016.76,"href":"s08/p004.json"},
@@ -170,7 +170,7 @@
    "page_count": 6,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":321.36,"text_start":9.295,"href":"s09/p001.json"},
+    {"index":1,"start":0.0,"end":321.36,"text_start":9.78,"href":"s09/p001.json"},
     {"index":2,"start":321.36,"end":608.64,"text_start":321.86,"href":"s09/p002.json"},
     {"index":3,"start":608.64,"end":953.3,"text_start":609.14,"href":"s09/p003.json"},
     {"index":4,"start":953.3,"end":1304.06,"text_start":953.8,"href":"s09/p004.json"},
@@ -188,7 +188,7 @@
    "page_count": 7,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":302.42,"text_start":9.259,"href":"s10/p001.json"},
+    {"index":1,"start":0.0,"end":302.42,"text_start":9.66,"href":"s10/p001.json"},
     {"index":2,"start":302.42,"end":637.6,"text_start":302.92,"href":"s10/p002.json"},
     {"index":3,"start":637.6,"end":969.68,"text_start":638.08,"href":"s10/p003.json"},
     {"index":4,"start":969.68,"end":1296.74,"text_start":970.18,"href":"s10/p004.json"},
