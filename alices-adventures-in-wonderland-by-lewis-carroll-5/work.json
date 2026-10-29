@@ -8,6 +8,18 @@
   "gutenberg_id": 28885,
   "librivox_url": "https://librivox.org/alices-adventures-in-wonderland-by-lewis-carroll-5/",
   "language": "en",
+  "category": "children",
+  "authors": [
+   {
+    "name": "Lewis Carroll",
+    "slug": "lewis-carroll",
+    "id": 71,
+    "first_name": "Lewis",
+    "last_name": "Carroll",
+    "dob": "1832",
+    "dod": "1898"
+   }
+  ],
   "updated": "2026-10-28"
  },
  "sections": [

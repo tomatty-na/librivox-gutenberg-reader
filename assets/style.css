@@ -561,6 +561,14 @@ hr.brk { border: 0; border-top: 1px solid var(--line); width: 30%; margin: 1.5em
 .work-title { display: block; font-size: 17px; font-weight: 600; color: var(--accent); }
 .work .by { display: block; font-size: 13px; color: var(--muted); margin: 2px 0 0; }
 .work-info { display: block; font-size: 12px; color: var(--muted); margin-top: 4px; }
+/* トップページのカテゴリと作者一覧（D-139、D-140） */
+.index-nav { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 14px; margin: 0 0 8px; }
+.cat-title { font-size: 16px; margin: 20px 0 10px; padding-bottom: 4px; border-bottom: 2px solid var(--line); }
+.author-list { list-style: none; margin: 0; padding: 0; }
+.author { border-top: 1px solid var(--line); }
+.author-link { display: flex; justify-content: space-between; gap: 8px; align-items: baseline; padding: 10px 0; text-decoration: none; }
+.author-name { font-size: 16px; font-weight: 600; color: var(--accent); }
+.author-info { font-size: 12px; color: var(--muted); white-space: nowrap; font-variant-numeric: tabular-nums; }
 .sec-list { list-style: none; margin: 6px 0 0; padding: 0; }
 .sec-list li { padding: 8px 0; border-top: 1px solid var(--line); font-size: 14px; }
 .sec-list li.part { padding: 16px 0 6px; border-top: 2px solid var(--line); font-size: 15px; font-weight: 700; color: var(--accent); }
