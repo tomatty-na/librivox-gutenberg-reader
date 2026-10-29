@@ -8,6 +8,18 @@
   "gutenberg_id": 77600,
   "librivox_url": "https://librivox.org/the-maltese-falcon-novel-version-by-dashiell-hammett/",
   "language": "en",
+  "category": "fiction",
+  "authors": [
+   {
+    "name": "Dashiell Hammett",
+    "slug": "dashiell-hammett",
+    "id": 13997,
+    "first_name": "Dashiell",
+    "last_name": "Hammett",
+    "dob": "1894",
+    "dod": "1961"
+   }
+  ],
   "updated": "2026-10-28"
  },
  "sections": [
