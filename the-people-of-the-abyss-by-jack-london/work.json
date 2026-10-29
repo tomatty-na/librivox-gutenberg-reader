@@ -1,0 +1,415 @@
+{
+ "format": "librivox-gutenberg/work",
+ "version": "1.0",
+ "work": {
+  "slug": "the-people-of-the-abyss-by-jack-london",
+  "title": "The People of the Abyss",
+  "author": "Jack London",
+  "gutenberg_id": 1688,
+  "librivox_url": "https://librivox.org/the-people-of-the-abyss-by-jack-london/",
+  "language": "en",
+  "category": "nonfiction",
+  "authors": [
+   {
+    "name": "Jack London",
+    "slug": "jack-london",
+    "id": 143,
+    "first_name": "Jack",
+    "last_name": "London",
+    "dob": "1876",
+    "dod": "1916"
+   }
+  ],
+  "updated": "2026-10-29"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "index": 1,
+   "title": "01 - Preface; Chapter One - The Descent",
+   "reader": "Peter Yearsley",
+   "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_01_london_64kb.mp3",
+   "duration": 1206.79,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":245.0,"text_start":77.4,"href":"s01/p001.json"},
+    {"index":2,"start":245.0,"end":557.87,"text_start":245.5,"href":"s01/p002.json"},
+    {"index":3,"start":557.87,"end":871.44,"text_start":558.16,"href":"s01/p003.json"},
+    {"index":4,"start":871.44,"end":1206.79,"text_start":871.94,"href":"s01/p004.json"}
+   ]
+  },
+  {
+   "id": "s02",
+   "index": 2,
+   "title": "02 - Chapter Two - Johnny Upright",
+   "reader": "Peter Yearsley",
+   "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_02_london_64kb.mp3",
+   "duration": 477.64,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":243.58,"text_start":11.16,"href":"s02/p001.json"},
+    {"index":2,"start":243.58,"end":477.64,"text_start":244.08,"href":"s02/p002.json"}
+   ]
+  },
+  {
+   "id": "s03",
+   "index": 3,
+   "title": "03 - Chapter Three - My Lodging and Some Others",
+   "reader": "Peter Yearsley",
+   "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_03_london_64kb.mp3",
+   "duration": 413.45,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":413.45,"text_start":11.74,"href":"s03/p001.json"}
+   ]
+  },
+  {
+   "id": "s04",
+   "index": 4,
+   "title": "04 - Chapter Four - A Man and the Abyss",
+   "reader": "Peter Yearsley",
+   "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_04_london_64kb.mp3",
+   "duration": 949.2,
+   "page_count": 0,
+   "status": "pending",
+   "pages": []
+  },
+  {
+   "id": "s05",
+   "index": 5,
+   "title": "05 - Chapter Five - Those on the Edge",
+   "reader": "Peter Yearsley",
+   "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_05_london_64kb.mp3",
+   "duration": 691.03,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":355.22,"text_start":10.42,"href":"s05/p001.json"},
+    {"index":2,"start":355.22,"end":691.03,"text_start":355.44,"href":"s05/p002.json"}
+   ]
+  },
+  {
+   "id": "s06",
+   "index": 6,
+   "title": "06 - Chapter Six - Frying-Pan Alley and a Glimpse of Inferno",
+   "reader": "Peter Yearsley",
+   "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_06_london_64kb.mp3",
+   "duration": 749.15,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":372.1,"text_start":11.24,"href":"s06/p001.json"},
+    {"index":2,"start":372.1,"end":749.15,"text_start":372.48,"href":"s06/p002.json"}
+   ]
+  },
+  {
+   "id": "s07",
+   "index": 7,
+   "title": "07 - Chapter Seven - A Winner of the Victoria Cross",
+   "reader": "Peter Yearsley",
+   "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_07_london_64kb.mp3",
+   "duration": 635.99,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":297.96,"text_start":11.42,"href":"s07/p001.json"},
+    {"index":2,"start":297.96,"end":635.99,"text_start":298.46,"href":"s07/p002.json"}
+   ]
+  },
+  {
+   "id": "s08",
+   "index": 8,
+   "title": "08 - Chapter Eight - The Carter and the Carpenter",
+   "reader": "Peter Yearsley",
+   "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_08_london_64kb.mp3",
+   "duration": 1334.69,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":330.32,"text_start":11.12,"href":"s08/p001.json"},
+    {"index":2,"start":330.32,"end":672.21,"text_start":330.8,"href":"s08/p002.json"},
+    {"index":3,"start":672.21,"end":1009.38,"text_start":672.54,"href":"s08/p003.json"},
+    {"index":4,"start":1009.38,"end":1334.69,"text_start":1009.84,"href":"s08/p004.json"}
+   ]
+  },
+  {
+   "id": "s09",
+   "index": 9,
+   "title": "09 - Chapter Nine - The Spike",
+   "reader": "Peter Yearsley",
+   "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_09_london_64kb.mp3",
+   "duration": 1598.13,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":318.82,"text_start":11.26,"href":"s09/p001.json"},
+    {"index":2,"start":318.82,"end":642.42,"text_start":319.32,"href":"s09/p002.json"},
+    {"index":3,"start":642.42,"end":961.71,"text_start":642.92,"href":"s09/p003.json"},
+    {"index":4,"start":961.71,"end":1274.68,"text_start":962.14,"href":"s09/p004.json"},
+    {"index":5,"start":1274.68,"end":1598.13,"text_start":1275.18,"href":"s09/p005.json"}
+   ]
+  },
+  {
+   "id": "s10",
+   "index": 10,
+   "title": "10 - Chapter Ten - Carrying the Banner",
+   "reader": "Peter Yearsley",
+   "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_10_london_64kb.mp3",
+   "duration": 501.72,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":248.21,"text_start":11.64,"href":"s10/p001.json"},
+    {"index":2,"start":248.21,"end":501.72,"text_start":248.7,"href":"s10/p002.json"}
+   ]
+  },
+  {
+   "id": "s11",
+   "index": 11,
+   "title": "11 - Chapter Eleven - The Peg",
+   "reader": "Peter Yearsley",
+   "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_11_london_64kb.mp3",
+   "duration": 1267.0,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":311.1,"text_start":12.26,"href":"s11/p001.json"},
+    {"index":2,"start":311.1,"end":613.02,"text_start":311.6,"href":"s11/p002.json"},
+    {"index":3,"start":613.02,"end":939.91,"text_start":613.52,"href":"s11/p003.json"},
+    {"index":4,"start":939.91,"end":1267.0,"text_start":940.16,"href":"s11/p004.json"}
+   ]
+  },
+  {
+   "id": "s12",
+   "index": 12,
+   "title": "12 - Chapter Twelve - Coronation Day",
+   "reader": "Peter Yearsley",
+   "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_12_london_64kb.mp3",
+   "duration": 1520.05,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":281.64,"text_start":11.6,"href":"s12/p001.json"},
+    {"index":2,"start":281.64,"end":585.54,"text_start":282.14,"href":"s12/p002.json"},
+    {"index":3,"start":585.54,"end":892.6,"text_start":586.04,"href":"s12/p003.json"},
+    {"index":4,"start":892.6,"end":1206.8,"text_start":893.02,"href":"s12/p004.json"},
+    {"index":5,"start":1206.8,"end":1520.05,"text_start":1207.08,"href":"s12/p005.json"}
+   ]
+  },
+  {
+   "id": "s13",
+   "index": 13,
+   "title": "13 - Chapter Thirteen - Dan Cullen, Docker",
+   "reader": "Peter Yearsley",
+   "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_13_london_64kb.mp3",
+   "duration": 580.45,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":284.02,"text_start":11.88,"href":"s13/p001.json"},
+    {"index":2,"start":284.02,"end":580.45,"text_start":284.52,"href":"s13/p002.json"}
+   ]
+  },
+  {
+   "id": "s14",
+   "index": 14,
+   "title": "14 - Chapter Fourteen - Hops and Hoppers",
+   "reader": "Peter Yearsley",
+   "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_14_london_64kb.mp3",
+   "duration": 892.33,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":300.07,"text_start":11.9,"href":"s14/p001.json"},
+    {"index":2,"start":300.07,"end":597.26,"text_start":300.54,"href":"s14/p002.json"},
+    {"index":3,"start":597.26,"end":892.33,"text_start":597.76,"href":"s14/p003.json"}
+   ]
+  },
+  {
+   "id": "s15",
+   "index": 15,
+   "title": "15 - Chapter Fifteen - The Sea Wife",
+   "reader": "Peter Yearsley",
+   "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_15_london_64kb.mp3",
+   "duration": 444.8,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":444.8,"text_start":11.46,"href":"s15/p001.json"}
+   ]
+  },
+  {
+   "id": "s16",
+   "index": 16,
+   "title": "16 - Chapter Sixteen - Property versus People",
+   "reader": "Peter Yearsley",
+   "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_16_london_64kb.mp3",
+   "duration": 563.71,
+   "page_count": 0,
+   "status": "pending",
+   "pages": []
+  },
+  {
+   "id": "s17",
+   "index": 17,
+   "title": "17 - Chapter Seventeen - Inefficiency",
+   "reader": "Peter Yearsley",
+   "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_17_london_64kb.mp3",
+   "duration": 714.15,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":373.5,"text_start":11.28,"href":"s17/p001.json"},
+    {"index":2,"start":373.5,"end":714.15,"text_start":373.98,"href":"s17/p002.json"}
+   ]
+  },
+  {
+   "id": "s18",
+   "index": 18,
+   "title": "18 - Chapter Eighteen - Wages",
+   "reader": "Peter Yearsley",
+   "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_18_london_64kb.mp3",
+   "duration": 693.27,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":346.136,"text_start":11.62,"href":"s18/p001.json"},
+    {"index":2,"start":346.136,"end":693.27,"text_start":346.3,"href":"s18/p002.json"}
+   ]
+  },
+  {
+   "id": "s19",
+   "index": 19,
+   "title": "19 - Chapter Nineteen - The Ghetto",
+   "reader": "Peter Yearsley",
+   "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_19_london_64kb.mp3",
+   "duration": 1534.76,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":309.78,"text_start":10.96,"href":"s19/p001.json"},
+    {"index":2,"start":309.78,"end":585.56,"text_start":310.28,"href":"s19/p002.json"},
+    {"index":3,"start":585.56,"end":873.02,"text_start":586.06,"href":"s19/p003.json"},
+    {"index":4,"start":873.02,"end":1168.79,"text_start":873.52,"href":"s19/p004.json"},
+    {"index":5,"start":1168.79,"end":1534.76,"text_start":1169.12,"href":"s19/p005.json"}
+   ]
+  },
+  {
+   "id": "s20",
+   "index": 20,
+   "title": "20 - Chapter Twenty - Coffee-Houses and Doss-Houses",
+   "reader": "Peter Yearsley",
+   "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_20_london_64kb.mp3",
+   "duration": 1070.85,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":263.6,"text_start":10.18,"href":"s20/p001.json"},
+    {"index":2,"start":263.6,"end":529.02,"text_start":264.1,"href":"s20/p002.json"},
+    {"index":3,"start":529.02,"end":797.7,"text_start":529.44,"href":"s20/p003.json"},
+    {"index":4,"start":797.7,"end":1070.85,"text_start":798.2,"href":"s20/p004.json"}
+   ]
+  },
+  {
+   "id": "s21",
+   "index": 21,
+   "title": "21 - Chapter Twenty One - The Precariousness of Life",
+   "reader": "Peter Yearsley",
+   "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_21_london_64kb.mp3",
+   "duration": 1111.89,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":296.38,"text_start":11.26,"href":"s21/p001.json"},
+    {"index":2,"start":296.38,"end":583.02,"text_start":296.88,"href":"s21/p002.json"},
+    {"index":3,"start":583.02,"end":877.02,"text_start":583.52,"href":"s21/p003.json"},
+    {"index":4,"start":877.02,"end":1111.89,"text_start":877.52,"href":"s21/p004.json"}
+   ]
+  },
+  {
+   "id": "s22",
+   "index": 22,
+   "title": "22 - Chapter Twenty Two - Suicide",
+   "reader": "Peter Yearsley",
+   "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_22_london_64kb.mp3",
+   "duration": 838.54,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":273.72,"text_start":10.36,"href":"s22/p001.json"},
+    {"index":2,"start":273.72,"end":552.74,"text_start":274.22,"href":"s22/p002.json"},
+    {"index":3,"start":552.74,"end":838.54,"text_start":553.24,"href":"s22/p003.json"}
+   ]
+  },
+  {
+   "id": "s23",
+   "index": 23,
+   "title": "23 - Chapter Twenty Three: The Children",
+   "reader": "Peter Yearsley",
+   "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_23_london_64kb.mp3",
+   "duration": 695.39,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":313.08,"text_start":10.56,"href":"s23/p001.json"},
+    {"index":2,"start":313.08,"end":695.39,"text_start":313.58,"href":"s23/p002.json"}
+   ]
+  },
+  {
+   "id": "s24",
+   "index": 24,
+   "title": "24 - Chapter Twenty Four: A Vision of the Night",
+   "reader": "Peter Yearsley",
+   "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_24_london_64kb.mp3",
+   "duration": 403.32,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":403.32,"text_start":10.14,"href":"s24/p001.json"}
+   ]
+  },
+  {
+   "id": "s25",
+   "index": 25,
+   "title": "25 - Chapter Twenty Five: The Hunger Wail",
+   "reader": "Peter Yearsley",
+   "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_25_london_64kb.mp3",
+   "duration": 873.18,
+   "page_count": 0,
+   "status": "pending",
+   "pages": []
+  },
+  {
+   "id": "s26",
+   "index": 26,
+   "title": "26 - Chapter Twenty Six: Drink, Temperance and Thrift",
+   "reader": "Peter Yearsley",
+   "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_26_london_64kb.mp3",
+   "duration": 833.71,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":239.57,"text_start":10.92,"href":"s26/p001.json"},
+    {"index":2,"start":239.57,"end":521.34,"text_start":240.04,"href":"s26/p002.json"},
+    {"index":3,"start":521.34,"end":833.71,"text_start":521.84,"href":"s26/p003.json"}
+   ]
+  },
+  {
+   "id": "s27",
+   "index": 27,
+   "title": "27 - Chapter Twenty Seven: The Management",
+   "reader": "Peter Yearsley",
+   "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_27_london_64kb.mp3",
+   "duration": 709.31,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":341.98,"text_start":10.5,"href":"s27/p001.json"},
+    {"index":2,"start":341.98,"end":709.31,"text_start":342.48,"href":"s27/p002.json"}
+   ]
+  }
+ ]
+}
