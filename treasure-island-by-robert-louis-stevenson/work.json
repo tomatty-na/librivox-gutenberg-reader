@@ -8,6 +8,18 @@
   "gutenberg_id": 120,
   "librivox_url": "https://librivox.org/treasure-island-by-robert-louis-stevenson/",
   "language": "en",
+  "category": "children",
+  "authors": [
+   {
+    "name": "Robert Louis Stevenson",
+    "slug": "robert-louis-stevenson",
+    "id": 115,
+    "first_name": "Robert Louis",
+    "last_name": "Stevenson",
+    "dob": "1850",
+    "dod": "1894"
+   }
+  ],
   "updated": "2026-10-29"
  },
  "sections": [
