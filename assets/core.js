@@ -184,7 +184,14 @@
       wordIndex: buildIndex(words),
       phraseIndex: buildIndex(phrases),
       sentenceIndex: buildIndex(sentences),
+      // 原本に無い歌の間（page.dark。D-122）。この間はどの語・句・文も光らせない
+      darkIndex: buildIndex((page.dark || []).map(function (r) { return { t0: num(r.t0), t1: num(r.t1) }; })),
     };
+  }
+
+  // t が光らせない時間（page.dark）の中か
+  function inDark(tl, t) {
+    return !!tl.darkIndex && findActive(tl.darkIndex, t, 0) >= 0;
   }
 
   function interpolateWords(words, phrases, maxGap) {
@@ -565,6 +572,7 @@
     buildTimeline: buildTimeline,
     buildIndex: buildIndex,
     findActive: findActive,
+    inDark: inDark,
     findNearest: findNearest,
     pageForTime: pageForTime,
     formatTime: formatTime,

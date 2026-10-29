@@ -1,0 +1,201 @@
+{
+ "format": "librivox-gutenberg/work",
+ "version": "1.0",
+ "work": {
+  "slug": "the-great-gatsby-version-5-by-f-scott-fitzgerald",
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "gutenberg_id": 64317,
+  "librivox_url": "https://librivox.org/the-great-gatsby-version-5-by-f-scott-fitzgerald/",
+  "language": "en",
+  "updated": "2026-10-29"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "index": 1,
+   "title": "Dramatis Personae",
+   "reader": "Matthew Reece, realisticspeakers, Michele Eaton, Chuck Williamson, Alan Mapstone, Larry Wilson, Son of the Exiles, David Purdy, Amelia Chesley, Tomas Peter, Craig Franklin, Kyle Donelan, TJ Burns, Jasmin Salma, Jenn Broda, KevinS, Matea Bracic, Magda Wilde, ambsweet13, Andrew Gaunce, Retroindiereader, Eleonora Bettenzoli, False Citrine, Kim Lamb, Hannah F, Weston L, Sirena Rose, Diana Helen Kennedy",
+   "audio_url": "https://archive.org/download/greatgatsby5_2510_librivox/greatgatsby_00_fitzgerald_64kb.mp3",
+   "duration": 164.23,
+   "page_count": 0,
+   "status": "non_text_section",
+   "pages": []
+  },
+  {
+   "id": "s02",
+   "index": 2,
+   "title": "Chapter 1",
+   "reader": "Larry Wilson, Craig Franklin, TJ Burns, Jasmin Salma, Jenn Broda, Diana Helen Kennedy",
+   "audio_url": "https://archive.org/download/greatgatsby5_2510_librivox/greatgatsby_01_fitzgerald_64kb.mp3",
+   "duration": 2441.9,
+   "page_count": 8,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":329.16,"text_start":17.294,"href":"s02/p001.json"},
+    {"index":2,"start":329.16,"end":634.02,"text_start":329.66,"href":"s02/p002.json"},
+    {"index":3,"start":634.02,"end":948.42,"text_start":634.52,"href":"s02/p003.json"},
+    {"index":4,"start":948.42,"end":1255.4,"text_start":948.92,"href":"s02/p004.json"},
+    {"index":5,"start":1255.4,"end":1542.38,"text_start":1255.9,"href":"s02/p005.json"},
+    {"index":6,"start":1542.38,"end":1839.1,"text_start":1542.88,"href":"s02/p006.json"},
+    {"index":7,"start":1839.1,"end":2131.52,"text_start":1839.6,"href":"s02/p007.json"},
+    {"index":8,"start":2131.52,"end":2441.9,"text_start":2132.02,"href":"s02/p008.json"}
+   ]
+  },
+  {
+   "id": "s03",
+   "index": 3,
+   "title": "Chapter 2",
+   "reader": "Chuck Williamson, Alan Mapstone, Larry Wilson, Amelia Chesley, TJ Burns, Matea Bracic, ambsweet13, Kim Lamb, Diana Helen Kennedy",
+   "audio_url": "https://archive.org/download/greatgatsby5_2510_librivox/greatgatsby_02_fitzgerald_64kb.mp3",
+   "duration": 1832.07,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":316.24,"text_start":9.239,"href":"s03/p001.json"},
+    {"index":2,"start":316.24,"end":627.86,"text_start":316.74,"href":"s03/p002.json"},
+    {"index":3,"start":627.86,"end":936.7,"text_start":628.36,"href":"s03/p003.json"},
+    {"index":4,"start":936.7,"end":1240.68,"text_start":937.2,"href":"s03/p004.json"},
+    {"index":5,"start":1240.68,"end":1544.66,"text_start":1241.18,"href":"s03/p005.json"},
+    {"index":6,"start":1544.66,"end":1832.07,"text_start":1545.16,"href":"s03/p006.json"}
+   ]
+  },
+  {
+   "id": "s04",
+   "index": 4,
+   "title": "Chapter 3",
+   "reader": "Matthew Reece, Michele Eaton, David Purdy, Tomas Peter, Craig Franklin, TJ Burns, Jenn Broda, Magda Wilde, Eleonora Bettenzoli, Hannah F, Weston L, Sirena Rose, Diana Helen Kennedy",
+   "audio_url": "https://archive.org/download/greatgatsby5_2510_librivox/greatgatsby_03_fitzgerald_64kb.mp3",
+   "duration": 2384.09,
+   "page_count": 8,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":300.22,"text_start":9.945,"href":"s04/p001.json"},
+    {"index":2,"start":300.22,"end":583.44,"text_start":300.72,"href":"s04/p002.json"},
+    {"index":3,"start":583.44,"end":859.24,"text_start":583.92,"href":"s04/p003.json"},
+    {"index":4,"start":859.24,"end":1168.66,"text_start":859.74,"href":"s04/p004.json"},
+    {"index":5,"start":1168.66,"end":1480.16,"text_start":1169.04,"href":"s04/p005.json"},
+    {"index":6,"start":1480.16,"end":1766.77,"text_start":1480.66,"href":"s04/p006.json"},
+    {"index":7,"start":1766.77,"end":2052.68,"text_start":1767.22,"href":"s04/p007.json"},
+    {"index":8,"start":2052.68,"end":2384.09,"text_start":2053.18,"href":"s04/p008.json"}
+   ]
+  },
+  {
+   "id": "s05",
+   "index": 5,
+   "title": "Chapter 4",
+   "reader": "Larry Wilson, Tomas Peter, Kyle Donelan, TJ Burns, Jasmin Salma, Jenn Broda, False Citrine, Hannah F, Sirena Rose, Diana Helen Kennedy",
+   "audio_url": "https://archive.org/download/greatgatsby5_2510_librivox/greatgatsby_04_fitzgerald_64kb.mp3",
+   "duration": 2356.43,
+   "page_count": 8,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":326.08,"text_start":9.378,"href":"s05/p001.json"},
+    {"index":2,"start":326.08,"end":615.66,"text_start":326.58,"href":"s05/p002.json"},
+    {"index":3,"start":615.66,"end":902.0,"text_start":616.16,"href":"s05/p003.json"},
+    {"index":4,"start":902.0,"end":1181.44,"text_start":902.5,"href":"s05/p004.json"},
+    {"index":5,"start":1181.44,"end":1464.34,"text_start":1181.94,"href":"s05/p005.json"},
+    {"index":6,"start":1464.34,"end":1748.8,"text_start":1464.84,"href":"s05/p006.json"},
+    {"index":7,"start":1748.8,"end":2051.68,"text_start":1749.3,"href":"s05/p007.json"},
+    {"index":8,"start":2051.68,"end":2356.43,"text_start":2052.18,"href":"s05/p008.json"}
+   ]
+  },
+  {
+   "id": "s06",
+   "index": 6,
+   "title": "Chapter 5",
+   "reader": "Tomas Peter, TJ Burns, Jasmin Salma, Andrew Gaunce",
+   "audio_url": "https://archive.org/download/greatgatsby5_2510_librivox/greatgatsby_05_fitzgerald_64kb.mp3",
+   "duration": 1754.44,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":286.55,"text_start":10.031,"href":"s06/p001.json"},
+    {"index":2,"start":286.55,"end":573.14,"text_start":286.94,"href":"s06/p002.json"},
+    {"index":3,"start":573.14,"end":861.46,"text_start":573.64,"href":"s06/p003.json"},
+    {"index":4,"start":861.46,"end":1152.06,"text_start":861.96,"href":"s06/p004.json"},
+    {"index":5,"start":1152.06,"end":1455.46,"text_start":1152.56,"href":"s06/p005.json"},
+    {"index":6,"start":1455.46,"end":1754.44,"text_start":1455.72,"href":"s06/p006.json"}
+   ]
+  },
+  {
+   "id": "s07",
+   "index": 7,
+   "title": "Chapter 6",
+   "reader": "realisticspeakers, Larry Wilson, David Purdy, Amelia Chesley, Tomas Peter, Kyle Donelan, TJ Burns, Jasmin Salma, Andrew Gaunce, Eleonora Bettenzoli, Hannah F, Sirena Rose, Diana Helen Kennedy",
+   "audio_url": "https://archive.org/download/greatgatsby5_2510_librivox/greatgatsby_06_fitzgerald_64kb.mp3",
+   "duration": 1790.09,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":295.62,"text_start":9.694,"href":"s07/p001.json"},
+    {"index":2,"start":295.62,"end":598.29,"text_start":296.12,"href":"s07/p002.json"},
+    {"index":3,"start":598.29,"end":902.93,"text_start":598.78,"href":"s07/p003.json"},
+    {"index":4,"start":902.93,"end":1207.76,"text_start":903.04,"href":"s07/p004.json"},
+    {"index":5,"start":1207.76,"end":1505.74,"text_start":1208.26,"href":"s07/p005.json"},
+    {"index":6,"start":1505.74,"end":1790.09,"text_start":1506.24,"href":"s07/p006.json"}
+   ]
+  },
+  {
+   "id": "s08",
+   "index": 8,
+   "title": "Chapter 7",
+   "reader": "realisticspeakers, Alan Mapstone, Larry Wilson, David Purdy, Tomas Peter, Craig Franklin, Kyle Donelan, TJ Burns, Jasmin Salma, Jenn Broda, KevinS, Matea Bracic, Eleonora Bettenzoli, Hannah F, Weston L, Sirena Rose, Diana Helen Kennedy",
+   "audio_url": "https://archive.org/download/greatgatsby5_2510_librivox/greatgatsby_07_fitzgerald_64kb.mp3",
+   "duration": 3795.12,
+   "page_count": 12,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":337.34,"text_start":7.707,"href":"s08/p001.json"},
+    {"index":2,"start":337.34,"end":677.82,"text_start":337.84,"href":"s08/p002.json"},
+    {"index":3,"start":677.82,"end":1016.29,"text_start":678.32,"href":"s08/p003.json"},
+    {"index":4,"start":1016.29,"end":1352.52,"text_start":1016.76,"href":"s08/p004.json"},
+    {"index":5,"start":1352.52,"end":1656.2,"text_start":1353.02,"href":"s08/p005.json"},
+    {"index":6,"start":1656.2,"end":1957.08,"text_start":1656.7,"href":"s08/p006.json"},
+    {"index":7,"start":1957.08,"end":2257.05,"text_start":1957.58,"href":"s08/p007.json"},
+    {"index":8,"start":2257.05,"end":2559.96,"text_start":2257.52,"href":"s08/p008.json"},
+    {"index":9,"start":2559.96,"end":2864.66,"text_start":2560.46,"href":"s08/p009.json"},
+    {"index":10,"start":2864.66,"end":3180.62,"text_start":2865.16,"href":"s08/p010.json"},
+    {"index":11,"start":3180.62,"end":3487.82,"text_start":3181.02,"href":"s08/p011.json"},
+    {"index":12,"start":3487.82,"end":3795.12,"text_start":3488.32,"href":"s08/p012.json"}
+   ]
+  },
+  {
+   "id": "s09",
+   "index": 9,
+   "title": "Chapter 8",
+   "reader": "realisticspeakers, Chuck Williamson, Alan Mapstone, Tomas Peter, Kyle Donelan, TJ Burns, Jasmin Salma, Jenn Broda, KevinS, Eleonora Bettenzoli, Weston L",
+   "audio_url": "https://archive.org/download/greatgatsby5_2510_librivox/greatgatsby_08_fitzgerald_64kb.mp3",
+   "duration": 1962.87,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":321.36,"text_start":9.295,"href":"s09/p001.json"},
+    {"index":2,"start":321.36,"end":608.64,"text_start":321.86,"href":"s09/p002.json"},
+    {"index":3,"start":608.64,"end":953.3,"text_start":609.14,"href":"s09/p003.json"},
+    {"index":4,"start":953.3,"end":1304.06,"text_start":953.8,"href":"s09/p004.json"},
+    {"index":5,"start":1304.06,"end":1625.38,"text_start":1304.56,"href":"s09/p005.json"},
+    {"index":6,"start":1625.38,"end":1962.87,"text_start":1625.88,"href":"s09/p006.json"}
+   ]
+  },
+  {
+   "id": "s10",
+   "index": 10,
+   "title": "Chapter 9",
+   "reader": "Matthew Reece, realisticspeakers, Larry Wilson, Son of the Exiles, Tomas Peter, Kyle Donelan, TJ Burns, Jenn Broda, Magda Wilde, Andrew Gaunce, Retroindiereader, False Citrine, Kim Lamb, Hannah F",
+   "audio_url": "https://archive.org/download/greatgatsby5_2510_librivox/greatgatsby_09_fitzgerald_64kb.mp3",
+   "duration": 2252.33,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":302.42,"text_start":9.259,"href":"s10/p001.json"},
+    {"index":2,"start":302.42,"end":637.6,"text_start":302.92,"href":"s10/p002.json"},
+    {"index":3,"start":637.6,"end":969.68,"text_start":638.08,"href":"s10/p003.json"},
+    {"index":4,"start":969.68,"end":1296.74,"text_start":970.18,"href":"s10/p004.json"},
+    {"index":5,"start":1296.74,"end":1640.62,"text_start":1297.24,"href":"s10/p005.json"},
+    {"index":6,"start":1640.62,"end":1975.42,"text_start":1641.12,"href":"s10/p006.json"},
+    {"index":7,"start":1975.42,"end":2252.33,"text_start":1975.92,"href":"s10/p007.json"}
+   ]
+  }
+ ]
+}

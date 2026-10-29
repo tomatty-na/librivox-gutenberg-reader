@@ -527,6 +527,7 @@
     var si = mode === 'sentence' ? C.findActive(tl.sentenceIndex, te, PHRASE_HOLD) : -1;
     var wi = mode === 'word' ? C.findActive(tl.wordIndex, te, WORD_HOLD) : -1;
     if (wi >= 0 && tl.words[wi].hlp) wi = -1; // hl: "phrase" の句は句でハイライトする（CSS の .hlp）
+    if (C.inDark(tl, te)) ci = si = wi = -1; // 原本に無い歌の間は何も光らせない（D-122）
     var ni = C.findActive(S.nonIndex, te, 0);
     setActive('phrase', S.phraseEls, ci);
     setActive('sentence', S.sentenceEls, si);
