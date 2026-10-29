@@ -8,6 +8,18 @@
   "gutenberg_id": 64317,
   "librivox_url": "https://librivox.org/the-great-gatsby-version-5-by-f-scott-fitzgerald/",
   "language": "en",
+  "category": "fiction",
+  "authors": [
+   {
+    "name": "F. Scott Fitzgerald",
+    "slug": "f-scott-fitzgerald",
+    "id": 148,
+    "first_name": "F. Scott",
+    "last_name": "Fitzgerald",
+    "dob": "1896",
+    "dod": "1940"
+   }
+  ],
   "updated": "2026-10-29"
  },
  "sections": [
