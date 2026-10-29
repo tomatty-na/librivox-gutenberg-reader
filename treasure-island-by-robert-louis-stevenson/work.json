@@ -20,6 +20,7 @@
    "duration": 1520.67,
    "page_count": 5,
    "status": "mapped",
+   "part": "PART ONE—The Old Buccaneer",
    "pages": [
     {"index":1,"start":0.0,"end":256.98,"text_start":23.06,"href":"s01/p001.json"},
     {"index":2,"start":256.98,"end":509.9,"text_start":257.48,"href":"s01/p002.json"},
@@ -73,6 +74,7 @@
    "duration": 1385.9,
    "page_count": 4,
    "status": "mapped",
+   "part": "PART TWO—The Sea-cook",
    "pages": [
     {"index":1,"start":0.0,"end":381.55,"text_start":34.76,"href":"s04/p001.json"},
     {"index":2,"start":381.55,"end":752.24,"text_start":381.84,"href":"s04/p002.json"},
@@ -124,6 +126,7 @@
    "duration": 639.35,
    "page_count": 2,
    "status": "mapped",
+   "part": "PART THREE—My Shore Adventure",
    "pages": [
     {"index":1,"start":0.0,"end":317.98,"text_start":23.18,"href":"s07/p001.json"},
     {"index":2,"start":317.98,"end":639.35,"text_start":318.48,"href":"s07/p002.json"}
@@ -167,6 +170,7 @@
    "duration": 685.28,
    "page_count": 2,
    "status": "mapped",
+   "part": "PART FOUR—The Stockade",
    "pages": [
     {"index":1,"start":0.0,"end":345.0,"text_start":24.045,"href":"s10/p001.json"},
     {"index":2,"start":345.0,"end":685.28,"text_start":345.5,"href":"s10/p002.json"}
@@ -255,6 +259,7 @@
    "duration": 650.17,
    "page_count": 2,
    "status": "mapped",
+   "part": "PART FIVE—My Sea Adventure",
    "pages": [
     {"index":1,"start":0.0,"end":307.8,"text_start":15.04,"href":"s16/p001.json"},
     {"index":2,"start":307.8,"end":650.17,"text_start":308.3,"href":"s16/p002.json"}
@@ -317,6 +322,7 @@
    "duration": 924.3,
    "page_count": 3,
    "status": "mapped",
+   "part": "PART SIX—Captain Silver",
    "pages": [
     {"index":1,"start":0.0,"end":285.16,"text_start":20.32,"href":"s20/p001.json"},
     {"index":2,"start":285.16,"end":590.8,"text_start":285.66,"href":"s20/p002.json"},
