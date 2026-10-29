@@ -8,6 +8,18 @@
   "gutenberg_id": 55,
   "librivox_url": "https://librivox.org/the-wonderful-wizard-of-oz/",
   "language": "en",
+  "category": "children",
+  "authors": [
+   {
+    "name": "L. Frank Baum",
+    "slug": "l-frank-baum",
+    "id": 406,
+    "first_name": "L. Frank",
+    "last_name": "Baum",
+    "dob": "1856",
+    "dod": "1919"
+   }
+  ],
   "updated": "2026-10-29"
  },
  "sections": [
