@@ -1,0 +1,598 @@
+{
+ "format": "librivox-gutenberg/work",
+ "version": "1.0",
+ "work": {
+  "slug": "anne-of-green-gables-dramatic-reading-by-lucy-maud-montgomery",
+  "title": "Anne of Green Gables",
+  "author": "Lucy Maud Montgomery",
+  "gutenberg_id": 45,
+  "librivox_url": "https://librivox.org/anne-of-green-gables-dramatic-reading-by-lucy-maud-montgomery/",
+  "language": "en",
+  "category": "children",
+  "authors": [
+   {
+    "name": "Lucy Maud Montgomery",
+    "slug": "lucy-maud-montgomery",
+    "id": 75,
+    "first_name": "Lucy Maud",
+    "last_name": "Montgomery",
+    "dob": "1874",
+    "dod": "1942"
+   }
+  ],
+  "updated": "2026-10-29"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "index": 1,
+   "title": "Dramatis Personae",
+   "reader": "Elizabeth Klett, Sarah Jennings, mb, David Lawrence, TriciaG, Arielle Lipshaw, Bruce Pirie, Availle, SallyMc, Amy Gramour, rashada, Elizabeth Barr, ESFJ Girl, Phil Chenevert, Linette Geisel, ashleyspence, sherlock85, bish, Laura Payne",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_00_montgomery_64kb.mp3",
+   "duration": 107.99,
+   "page_count": 0,
+   "status": "pending",
+   "pages": []
+  },
+  {
+   "id": "s02",
+   "index": 2,
+   "title": "Chapter 1 - Rachel Lynde is Surprised",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_01_montgomery_64kb.mp3",
+   "duration": 920.94,
+   "page_count": 0,
+   "status": "pending",
+   "pages": []
+  },
+  {
+   "id": "s03",
+   "index": 3,
+   "title": "Chapter 2 - Matthew Cuthbert is Surprised",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_02_montgomery_64kb.mp3",
+   "duration": 1601.75,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":323.27,"text_start":18.72,"href":"s03/p001.json"},
+    {"index":2,"start":323.27,"end":673.34,"text_start":323.68,"href":"s03/p002.json"},
+    {"index":3,"start":673.34,"end":987.94,"text_start":673.64,"href":"s03/p003.json"},
+    {"index":4,"start":987.94,"end":1299.91,"text_start":988.44,"href":"s03/p004.json"},
+    {"index":5,"start":1299.91,"end":1601.75,"text_start":1300.24,"href":"s03/p005.json"}
+   ]
+  },
+  {
+   "id": "s04",
+   "index": 4,
+   "title": "Chapter 3 - Marilla Cuthbert is Surprised",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_03_montgomery_64kb.mp3",
+   "duration": 752.64,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":378.75,"text_start":18.46,"href":"s04/p001.json"},
+    {"index":2,"start":378.75,"end":752.64,"text_start":379.06,"href":"s04/p002.json"}
+   ]
+  },
+  {
+   "id": "s05",
+   "index": 5,
+   "title": "Chapter 4 - Morning at Green Gables",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_04_montgomery_64kb.mp3",
+   "duration": 752.87,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":368.89,"text_start":18.8,"href":"s05/p001.json"},
+    {"index":2,"start":368.89,"end":752.87,"text_start":369.34,"href":"s05/p002.json"}
+   ]
+  },
+  {
+   "id": "s06",
+   "index": 6,
+   "title": "Chapter 5 - Anne’s History",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_05_montgomery_64kb.mp3",
+   "duration": 664.0,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":323.9,"text_start":18.88,"href":"s06/p001.json"},
+    {"index":2,"start":323.9,"end":664.0,"text_start":324.4,"href":"s06/p002.json"}
+   ]
+  },
+  {
+   "id": "s07",
+   "index": 7,
+   "title": "Chapter 6 - Marilla Makes Up Her Mind",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_06_montgomery_64kb.mp3",
+   "duration": 660.55,
+   "page_count": 0,
+   "status": "pending",
+   "pages": []
+  },
+  {
+   "id": "s08",
+   "index": 8,
+   "title": "Chapter 7 - Anne Says Her Prayers",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_07_montgomery_64kb.mp3",
+   "duration": 411.4,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":411.4,"text_start":20.1,"href":"s08/p001.json"}
+   ]
+  },
+  {
+   "id": "s09",
+   "index": 9,
+   "title": "Chapter 8 - Anne’s Bringing-Up Is Begun",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_08_montgomery_64kb.mp3",
+   "duration": 953.33,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":301.13,"text_start":18.96,"href":"s09/p001.json"},
+    {"index":2,"start":301.13,"end":594.95,"text_start":301.54,"href":"s09/p002.json"},
+    {"index":3,"start":594.95,"end":953.33,"text_start":595.38,"href":"s09/p003.json"}
+   ]
+  },
+  {
+   "id": "s10",
+   "index": 10,
+   "title": "Chapter 9 - Mrs. Rachel Lynde is Properly Horrified",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_09_montgomery_64kb.mp3",
+   "duration": 806.42,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":250.92,"text_start":18.34,"href":"s10/p001.json"},
+    {"index":2,"start":250.92,"end":523.06,"text_start":251.2,"href":"s10/p002.json"},
+    {"index":3,"start":523.06,"end":806.42,"text_start":523.56,"href":"s10/p003.json"}
+   ]
+  },
+  {
+   "id": "s11",
+   "index": 11,
+   "title": "Chapter 10 - Anne’s Apology",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_10_montgomery_64kb.mp3",
+   "duration": 854.51,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":281.22,"text_start":18.28,"href":"s11/p001.json"},
+    {"index":2,"start":281.22,"end":569.14,"text_start":281.56,"href":"s11/p002.json"},
+    {"index":3,"start":569.14,"end":854.51,"text_start":569.44,"href":"s11/p003.json"}
+   ]
+  },
+  {
+   "id": "s12",
+   "index": 12,
+   "title": "Chapter 11 - Anne’s Impression of Sunday School",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_11_montgomery_64kb.mp3",
+   "duration": 626.57,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":328.78,"text_start":18.76,"href":"s12/p001.json"},
+    {"index":2,"start":328.78,"end":626.57,"text_start":329.28,"href":"s12/p002.json"}
+   ]
+  },
+  {
+   "id": "s13",
+   "index": 13,
+   "title": "Chapter 12 - A Solemn Vow and Promise",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_12_montgomery_64kb.mp3",
+   "duration": 707.89,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":334.13,"text_start":18.14,"href":"s13/p001.json"},
+    {"index":2,"start":334.13,"end":707.89,"text_start":334.62,"href":"s13/p002.json"}
+   ]
+  },
+  {
+   "id": "s14",
+   "index": 14,
+   "title": "Chapter 13 - The Delights of Anticipation",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_13_montgomery_64kb.mp3",
+   "duration": 613.35,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":233.74,"text_start":18.92,"href":"s14/p001.json"},
+    {"index":2,"start":233.74,"end":613.35,"text_start":234.06,"href":"s14/p002.json"}
+   ]
+  },
+  {
+   "id": "s15",
+   "index": 15,
+   "title": "Chapter 14 - Anne’s Confession",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_14_montgomery_64kb.mp3",
+   "duration": 1027.16,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":343.99,"text_start":19.3,"href":"s15/p001.json"},
+    {"index":2,"start":343.99,"end":680.56,"text_start":344.26,"href":"s15/p002.json"},
+    {"index":3,"start":680.56,"end":1027.16,"text_start":680.86,"href":"s15/p003.json"}
+   ]
+  },
+  {
+   "id": "s16",
+   "index": 16,
+   "title": "Chapter 15 - A Tempest in the School Teapot",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_15_montgomery_64kb.mp3",
+   "duration": 1813.44,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":304.43,"text_start":18.86,"href":"s16/p001.json"},
+    {"index":2,"start":304.43,"end":596.67,"text_start":304.78,"href":"s16/p002.json"},
+    {"index":3,"start":596.67,"end":895.24,"text_start":597.0,"href":"s16/p003.json"},
+    {"index":4,"start":895.24,"end":1195.36,"text_start":895.54,"href":"s16/p004.json"},
+    {"index":5,"start":1195.36,"end":1504.47,"text_start":1195.78,"href":"s16/p005.json"},
+    {"index":6,"start":1504.47,"end":1813.44,"text_start":1504.78,"href":"s16/p006.json"}
+   ]
+  },
+  {
+   "id": "s17",
+   "index": 17,
+   "title": "Chapter 16 - Diana is Invited to Tea with Tragic Results",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_16_montgomery_64kb.mp3",
+   "duration": 1387.52,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":260.82,"text_start":19.8,"href":"s17/p001.json"},
+    {"index":2,"start":260.82,"end":534.85,"text_start":261.16,"href":"s17/p002.json"},
+    {"index":3,"start":534.85,"end":820.25,"text_start":535.18,"href":"s17/p003.json"},
+    {"index":4,"start":820.25,"end":1099.87,"text_start":820.72,"href":"s17/p004.json"},
+    {"index":5,"start":1099.87,"end":1387.52,"text_start":1100.32,"href":"s17/p005.json"}
+   ]
+  },
+  {
+   "id": "s18",
+   "index": 18,
+   "title": "Chapter 17 - A New Interest in Life",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_17_montgomery_64kb.mp3",
+   "duration": 750.13,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":372.699,"text_start":18.96,"href":"s18/p001.json"},
+    {"index":2,"start":372.699,"end":750.13,"text_start":372.74,"href":"s18/p002.json"}
+   ]
+  },
+  {
+   "id": "s19",
+   "index": 19,
+   "title": "Chapter 18 - Anne to the Rescue",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_18_montgomery_64kb.mp3",
+   "duration": 1114.77,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":275.86,"text_start":18.24,"href":"s19/p001.json"},
+    {"index":2,"start":275.86,"end":557.64,"text_start":276.36,"href":"s19/p002.json"},
+    {"index":3,"start":557.64,"end":837.82,"text_start":558.08,"href":"s19/p003.json"},
+    {"index":4,"start":837.82,"end":1114.77,"text_start":838.14,"href":"s19/p004.json"}
+   ]
+  },
+  {
+   "id": "s20",
+   "index": 20,
+   "title": "Chapter 19 - A Concert, a Catastrophe, and a Confession",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_19_montgomery_64kb.mp3",
+   "duration": 1341.75,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":333.98,"text_start":17.72,"href":"s20/p001.json"},
+    {"index":2,"start":333.98,"end":671.48,"text_start":334.34,"href":"s20/p002.json"},
+    {"index":3,"start":671.48,"end":1008.19,"text_start":671.78,"href":"s20/p003.json"},
+    {"index":4,"start":1008.19,"end":1341.75,"text_start":1008.5,"href":"s20/p004.json"}
+   ]
+  },
+  {
+   "id": "s21",
+   "index": 21,
+   "title": "Chapter 20 - A Good Imagination Gone Wrong",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_20_montgomery_64kb.mp3",
+   "duration": 761.91,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":385.66,"text_start":18.46,"href":"s21/p001.json"},
+    {"index":2,"start":385.66,"end":761.91,"text_start":385.98,"href":"s21/p002.json"}
+   ]
+  },
+  {
+   "id": "s22",
+   "index": 22,
+   "title": "Chapter 21 - A New Departure in Flavorings",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_21_montgomery_64kb.mp3",
+   "duration": 1194.97,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":304.39,"text_start":18.62,"href":"s22/p001.json"},
+    {"index":2,"start":304.39,"end":602.71,"text_start":304.76,"href":"s22/p002.json"},
+    {"index":3,"start":602.71,"end":902.59,"text_start":603.16,"href":"s22/p003.json"},
+    {"index":4,"start":902.59,"end":1194.97,"text_start":903.02,"href":"s22/p004.json"}
+   ]
+  },
+  {
+   "id": "s23",
+   "index": 23,
+   "title": "Chapter 22 - Anne is Invited Out to Tea",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_22_montgomery_64kb.mp3",
+   "duration": 510.19,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":257.34,"text_start":19.22,"href":"s23/p001.json"},
+    {"index":2,"start":257.34,"end":510.19,"text_start":257.7,"href":"s23/p002.json"}
+   ]
+  },
+  {
+   "id": "s24",
+   "index": 24,
+   "title": "Chapter 23 - Anne Comes to Grief in an Affair of Honor",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_23_montgomery_64kb.mp3",
+   "duration": 777.22,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":247.58,"text_start":18.64,"href":"s24/p001.json"},
+    {"index":2,"start":247.58,"end":512.92,"text_start":248.02,"href":"s24/p002.json"},
+    {"index":3,"start":512.92,"end":777.22,"text_start":513.42,"href":"s24/p003.json"}
+   ]
+  },
+  {
+   "id": "s25",
+   "index": 25,
+   "title": "Chapter 24 - Miss Stacy and Her Pupils Get Up a Concert",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_24_montgomery_64kb.mp3",
+   "duration": 538.33,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":267.0,"text_start":18.8,"href":"s25/p001.json"},
+    {"index":2,"start":267.0,"end":538.33,"text_start":267.5,"href":"s25/p002.json"}
+   ]
+  },
+  {
+   "id": "s26",
+   "index": 26,
+   "title": "Chapter 25 - Matthew Insists on Puffed Sleeves",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_25_montgomery_64kb.mp3",
+   "duration": 1219.63,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":316.27,"text_start":18.94,"href":"s26/p001.json"},
+    {"index":2,"start":316.27,"end":617.52,"text_start":316.52,"href":"s26/p002.json"},
+    {"index":3,"start":617.52,"end":907.37,"text_start":617.88,"href":"s26/p003.json"},
+    {"index":4,"start":907.37,"end":1219.63,"text_start":907.7,"href":"s26/p004.json"}
+   ]
+  },
+  {
+   "id": "s27",
+   "index": 27,
+   "title": "Chapter 26 - The Story Club is Formed",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_26_montgomery_64kb.mp3",
+   "duration": 870.63,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":294.55,"text_start":18.46,"href":"s27/p001.json"},
+    {"index":2,"start":294.55,"end":595.39,"text_start":294.84,"href":"s27/p002.json"},
+    {"index":3,"start":595.39,"end":870.63,"text_start":595.74,"href":"s27/p003.json"}
+   ]
+  },
+  {
+   "id": "s28",
+   "index": 28,
+   "title": "Chapter 27 - Vanity and Vexation of Spirit",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_27_montgomery_64kb.mp3",
+   "duration": 831.29,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":275.6,"text_start":19.88,"href":"s28/p001.json"},
+    {"index":2,"start":275.6,"end":551.98,"text_start":275.98,"href":"s28/p002.json"},
+    {"index":3,"start":551.98,"end":831.29,"text_start":552.32,"href":"s28/p003.json"}
+   ]
+  },
+  {
+   "id": "s29",
+   "index": 29,
+   "title": "Chapter 28 - An Unfortunate Lily Maid",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_28_montgomery_64kb.mp3",
+   "duration": 986.8,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":326.48,"text_start":18.98,"href":"s29/p001.json"},
+    {"index":2,"start":326.48,"end":652.88,"text_start":326.88,"href":"s29/p002.json"},
+    {"index":3,"start":652.88,"end":986.8,"text_start":653.38,"href":"s29/p003.json"}
+   ]
+  },
+  {
+   "id": "s30",
+   "index": 30,
+   "title": "Chapter 29 - An Epoch in Anne’s Life",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_29_montgomery_64kb.mp3",
+   "duration": 1035.2,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":366.96,"text_start":18.44,"href":"s30/p001.json"},
+    {"index":2,"start":366.96,"end":713.42,"text_start":367.46,"href":"s30/p002.json"},
+    {"index":3,"start":713.42,"end":1035.2,"text_start":713.92,"href":"s30/p003.json"}
+   ]
+  },
+  {
+   "id": "s31",
+   "index": 31,
+   "title": "Chapter 30 - The Queen’s Class is Organized",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_30_montgomery_64kb.mp3",
+   "duration": 1347.5,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":298.23,"text_start":18.62,"href":"s31/p001.json"},
+    {"index":2,"start":298.23,"end":632.2,"text_start":298.56,"href":"s31/p002.json"},
+    {"index":3,"start":632.2,"end":992.05,"text_start":632.54,"href":"s31/p003.json"},
+    {"index":4,"start":992.05,"end":1347.5,"text_start":992.44,"href":"s31/p004.json"}
+   ]
+  },
+  {
+   "id": "s32",
+   "index": 32,
+   "title": "Chapter 31 - Where the Brook and River Meet",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_31_montgomery_64kb.mp3",
+   "duration": 750.34,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":376.13,"text_start":18.18,"href":"s32/p001.json"},
+    {"index":2,"start":376.13,"end":750.34,"text_start":376.62,"href":"s32/p002.json"}
+   ]
+  },
+  {
+   "id": "s33",
+   "index": 33,
+   "title": "Chapter 32 - The Pass List is Out",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_32_montgomery_64kb.mp3",
+   "duration": 863.11,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":309.6,"text_start":18.24,"href":"s33/p001.json"},
+    {"index":2,"start":309.6,"end":583.7,"text_start":310.1,"href":"s33/p002.json"},
+    {"index":3,"start":583.7,"end":863.11,"text_start":583.94,"href":"s33/p003.json"}
+   ]
+  },
+  {
+   "id": "s34",
+   "index": 34,
+   "title": "Chapter 33 - The Hotel Concert",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_33_montgomery_64kb.mp3",
+   "duration": 1225.14,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":321.89,"text_start":19.68,"href":"s34/p001.json"},
+    {"index":2,"start":321.89,"end":644.0,"text_start":322.14,"href":"s34/p002.json"},
+    {"index":3,"start":644.0,"end":934.18,"text_start":644.5,"href":"s34/p003.json"},
+    {"index":4,"start":934.18,"end":1225.14,"text_start":934.68,"href":"s34/p004.json"}
+   ]
+  },
+  {
+   "id": "s35",
+   "index": 35,
+   "title": "Chapter 34 - A Queen’s Girl",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_34_montgomery_64kb.mp3",
+   "duration": 887.98,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":268.56,"text_start":18.66,"href":"s35/p001.json"},
+    {"index":2,"start":268.56,"end":569.96,"text_start":268.88,"href":"s35/p002.json"},
+    {"index":3,"start":569.96,"end":887.98,"text_start":570.36,"href":"s35/p003.json"}
+   ]
+  },
+  {
+   "id": "s36",
+   "index": 36,
+   "title": "Chapter 35 - The Winter at Queen’s",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_35_montgomery_64kb.mp3",
+   "duration": 599.14,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":317.66,"text_start":19.3,"href":"s36/p001.json"},
+    {"index":2,"start":317.66,"end":599.14,"text_start":318.16,"href":"s36/p002.json"}
+   ]
+  },
+  {
+   "id": "s37",
+   "index": 37,
+   "title": "Chapter 36 - The Glory and the Dream",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_36_montgomery_64kb.mp3",
+   "duration": 694.17,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":352.88,"text_start":18.68,"href":"s37/p001.json"},
+    {"index":2,"start":352.88,"end":694.17,"text_start":353.14,"href":"s37/p002.json"}
+   ]
+  },
+  {
+   "id": "s38",
+   "index": 38,
+   "title": "Chapter 37- The Reaper Whose Name is Death",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_37_montgomery_64kb.mp3",
+   "duration": 832.41,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":270.62,"text_start":19.34,"href":"s38/p001.json"},
+    {"index":2,"start":270.62,"end":549.58,"text_start":271.12,"href":"s38/p002.json"},
+    {"index":3,"start":549.58,"end":832.41,"text_start":549.96,"href":"s38/p003.json"}
+   ]
+  },
+  {
+   "id": "s39",
+   "index": 39,
+   "title": "Chapter 38 - The Bend in the Road",
+   "reader": "",
+   "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_38_montgomery_64kb.mp3",
+   "duration": 991.08,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":310.2,"text_start":19.5,"href":"s39/p001.json"},
+    {"index":2,"start":310.2,"end":660.6,"text_start":310.48,"href":"s39/p002.json"},
+    {"index":3,"start":660.6,"end":991.08,"text_start":660.9,"href":"s39/p003.json"}
+   ]
+  }
+ ]
+}

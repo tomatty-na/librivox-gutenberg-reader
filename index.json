@@ -3,6 +3,7 @@
  "version": "1.0",
  "works": [
   {"slug":"alices-adventures-in-wonderland-by-lewis-carroll-5","title":"Alice's Adventures in Wonderland","author":"Lewis Carroll","category":"children","authors":[{"slug":"lewis-carroll","name":"Lewis Carroll","last_name":"Carroll"}],"href":"alices-adventures-in-wonderland-by-lewis-carroll-5/","sections":12,"published":12,"duration":9090.84,"updated":"2026-10-28"},
+  {"slug":"anne-of-green-gables-dramatic-reading-by-lucy-maud-montgomery","title":"Anne of Green Gables","author":"Lucy Maud Montgomery","category":"children","authors":[{"slug":"lucy-maud-montgomery","name":"Lucy Maud Montgomery","last_name":"Montgomery"}],"href":"anne-of-green-gables-dramatic-reading-by-lucy-maud-montgomery/","sections":39,"published":36,"duration":34786.02,"updated":"2026-10-29"},
   {"slug":"men-without-women-by-ernest-hemingway","title":"Men Without Women","author":"Ernest Hemingway","category":"fiction","authors":[{"slug":"ernest-hemingway","name":"Ernest Hemingway","last_name":"Hemingway"}],"href":"men-without-women-by-ernest-hemingway/","sections":14,"published":14,"duration":15938.65,"updated":"2026-10-28"},
   {"slug":"moby-dick-by-herman-melville","title":"Moby Dick, or the Whale","author":"Herman Melville","category":"fiction","authors":[{"slug":"herman-melville","name":"Herman Melville","last_name":"Melville"}],"href":"moby-dick-by-herman-melville/","sections":44,"published":41,"duration":88692.95,"updated":"2026-10-29"},
   {"slug":"robinson-crusoe-by-daniel-defoe","title":"Robinson Crusoe","author":"Daniel Defoe","category":"fiction","authors":[{"slug":"daniel-defoe","name":"Daniel Defoe","last_name":"Defoe"}],"href":"robinson-crusoe-by-daniel-defoe/","sections":20,"published":20,"duration":50116.82,"updated":"2026-10-28"},
@@ -22,6 +23,7 @@
   {"slug":"ernest-hemingway","name":"Ernest Hemingway","first_name":"Ernest","last_name":"Hemingway","dob":"1899","dod":"1961","href":"authors/ernest-hemingway/","works":["men-without-women-by-ernest-hemingway"]},
   {"slug":"jack-london","name":"Jack London","first_name":"Jack","last_name":"London","dob":"1876","dod":"1916","href":"authors/jack-london/","works":["the-people-of-the-abyss-by-jack-london"]},
   {"slug":"herman-melville","name":"Herman Melville","first_name":"Herman","last_name":"Melville","dob":"1819","dod":"1891","href":"authors/herman-melville/","works":["moby-dick-by-herman-melville"]},
+  {"slug":"lucy-maud-montgomery","name":"Lucy Maud Montgomery","first_name":"Lucy Maud","last_name":"Montgomery","dob":"1874","dod":"1942","href":"authors/lucy-maud-montgomery/","works":["anne-of-green-gables-dramatic-reading-by-lucy-maud-montgomery"]},
   {"slug":"robert-louis-stevenson","name":"Robert Louis Stevenson","first_name":"Robert Louis","last_name":"Stevenson","dob":"1850","dod":"1894","href":"authors/robert-louis-stevenson/","works":["treasure-island-by-robert-louis-stevenson"]},
   {"slug":"henry-david-thoreau","name":"Henry David Thoreau","first_name":"Henry David","last_name":"Thoreau","dob":"1817","dod":"1862","href":"authors/henry-david-thoreau/","works":["walden-by-henry-david-thoreau"]}
  ]
