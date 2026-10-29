@@ -34,8 +34,7 @@
   }
  },
  "non_text": [
-  {"kind":"intro","t0":0.0,"t1":20.14,"label":"LibriVox の前口上"},
-  {"kind":"outro","t0":93.18,"t1":94.06,"label":"LibriVox の結び"}
+  {"kind":"intro","t0":0.0,"t1":20.14,"label":"LibriVox の前口上"}
  ],
  "paragraphs": [
   {"id":"c01.p001","kind":"heading","role":"label","cont_prev":false,"cont_next":false,"w_off":0,"c_off":0,"s_off":0,"x_off":0,"lead":"","words":[{"x":"Introduction","s":"","t0":20.14,"t1":20.76}],"phrases":[{"id":"c01.p001.c001","w":[0,1],"s":0,"t0":20.14,"t1":20.76}]},

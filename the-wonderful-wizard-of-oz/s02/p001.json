@@ -23,7 +23,7 @@
   "id": "s02.p001",
   "start": 0.0,
   "end": 384.77,
-  "text_start": 18.288,
+  "text_start": 19.98,
   "href": "s02/p001.json"
  },
  "nav": {
@@ -37,8 +37,7 @@
   }
  },
  "non_text": [
-  {"kind":"intro","t0":0.0,"t1":19.98,"label":"LibriVox の前口上"},
-  {"kind":"outro","t0":383.94,"t1":384.62,"label":"LibriVox の結び"}
+  {"kind":"intro","t0":0.0,"t1":19.98,"label":"LibriVox の前口上"}
  ],
  "paragraphs": [
   {"id":"c02.p001","kind":"subheading","role":null,"cont_prev":false,"cont_next":false,"w_off":0,"c_off":0,"s_off":0,"x_off":0,"lead":"","words":[{"x":"The","s":" ","t0":null,"t1":null},{"x":"Wonderful","s":" ","t0":null,"t1":null},{"x":"Wizard","s":" ","t0":null,"t1":null},{"x":"of","s":" ","t0":null,"t1":null},{"x":"Oz","s":"","t0":null,"t1":null}],"phrases":[{"id":"c02.p001.c001","w":[0,5],"s":0,"t0":null,"t1":null}]},
