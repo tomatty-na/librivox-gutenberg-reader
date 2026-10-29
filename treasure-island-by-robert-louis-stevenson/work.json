@@ -1,0 +1,415 @@
+{
+ "format": "librivox-gutenberg/work",
+ "version": "1.0",
+ "work": {
+  "slug": "treasure-island-by-robert-louis-stevenson",
+  "title": "Treasure Island",
+  "author": "Robert Louis Stevenson",
+  "gutenberg_id": 120,
+  "librivox_url": "https://librivox.org/treasure-island-by-robert-louis-stevenson/",
+  "language": "en",
+  "updated": "2026-10-29"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "index": 1,
+   "title": "Chapters 1-2 — Dedication / The Old Sea-dog at the “Admiral Benbow” / Black Dog Appears and Disappears",
+   "reader": "Mark Bradford",
+   "audio_url": "https://archive.org/download/treasureisland_librivox/treasure_island_01-02_stevenson_64kb.mp3",
+   "duration": 1520.67,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":256.98,"text_start":23.06,"href":"s01/p001.json"},
+    {"index":2,"start":256.98,"end":509.9,"text_start":257.48,"href":"s01/p002.json"},
+    {"index":3,"start":509.9,"end":791.82,"text_start":510.4,"href":"s01/p003.json"},
+    {"index":4,"start":791.82,"end":1159.24,"text_start":792.66,"href":"s01/p004.json"},
+    {"index":5,"start":1159.24,"end":1520.67,"text_start":1159.74,"href":"s01/p005.json"}
+   ]
+  },
+  {
+   "id": "s02",
+   "index": 2,
+   "title": "Chapters 3-4 — The Black Spot / The Sea-chest",
+   "reader": "Gord Mackenzie",
+   "audio_url": "https://archive.org/download/treasureisland_librivox/treasure_island_03-04_stevenson_64kb.mp3",
+   "duration": 1760.02,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":295.24,"text_start":19.54,"href":"s02/p001.json"},
+    {"index":2,"start":295.24,"end":617.12,"text_start":295.74,"href":"s02/p002.json"},
+    {"index":3,"start":617.12,"end":893.54,"text_start":617.62,"href":"s02/p003.json"},
+    {"index":4,"start":893.54,"end":1181.16,"text_start":898.68,"href":"s02/p004.json"},
+    {"index":5,"start":1181.16,"end":1479.28,"text_start":1181.66,"href":"s02/p005.json"},
+    {"index":6,"start":1479.28,"end":1760.02,"text_start":1479.78,"href":"s02/p006.json"}
+   ]
+  },
+  {
+   "id": "s03",
+   "index": 3,
+   "title": "Chapters 5-6 — The Last of the Blind Man / The Captain’s Papers",
+   "reader": "Kara Shallenberg (1969-2023)",
+   "audio_url": "https://archive.org/download/treasureisland_librivox/treasure_island_05-06_stevenson_64kb.mp3",
+   "duration": 1693.28,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":243.74,"text_start":29.94,"href":"s03/p001.json"},
+    {"index":2,"start":243.74,"end":505.5,"text_start":244.24,"href":"s03/p002.json"},
+    {"index":3,"start":505.5,"end":783.64,"text_start":506.0,"href":"s03/p003.json"},
+    {"index":4,"start":783.64,"end":1081.28,"text_start":787.82,"href":"s03/p004.json"},
+    {"index":5,"start":1081.28,"end":1391.72,"text_start":1081.78,"href":"s03/p005.json"},
+    {"index":6,"start":1391.72,"end":1693.28,"text_start":1392.22,"href":"s03/p006.json"}
+   ]
+  },
+  {
+   "id": "s04",
+   "index": 4,
+   "title": "Chapters 7-8 — I Go to Bristol / At the Sign of the Spy-glass",
+   "reader": "Mitchell Dwyer",
+   "audio_url": "https://archive.org/download/treasureisland_librivox/treasure_island_07-08_stevenson_64kb.mp3",
+   "duration": 1385.9,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":381.55,"text_start":34.76,"href":"s04/p001.json"},
+    {"index":2,"start":381.55,"end":752.24,"text_start":381.84,"href":"s04/p002.json"},
+    {"index":3,"start":752.24,"end":1065.08,"text_start":753.3,"href":"s04/p003.json"},
+    {"index":4,"start":1065.08,"end":1385.9,"text_start":1065.58,"href":"s04/p004.json"}
+   ]
+  },
+  {
+   "id": "s05",
+   "index": 5,
+   "title": "Chapters 9-10 — Powder and Arms / The Voyage",
+   "reader": "Ivan",
+   "audio_url": "https://archive.org/download/treasureisland_librivox/treasure_island_09-10_stevenson_64kb.mp3",
+   "duration": 1887.62,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":315.88,"text_start":29.84,"href":"s05/p001.json"},
+    {"index":2,"start":315.88,"end":622.02,"text_start":316.38,"href":"s05/p002.json"},
+    {"index":3,"start":622.02,"end":921.18,"text_start":622.52,"href":"s05/p003.json"},
+    {"index":4,"start":921.18,"end":1228.2,"text_start":929.81,"href":"s05/p004.json"},
+    {"index":5,"start":1228.2,"end":1553.02,"text_start":1228.7,"href":"s05/p005.json"},
+    {"index":6,"start":1553.02,"end":1887.62,"text_start":1553.52,"href":"s05/p006.json"}
+   ]
+  },
+  {
+   "id": "s06",
+   "index": 6,
+   "title": "Chapters 11-12 — What I Heard in the Apple-Barrel / Council of War",
+   "reader": "Neal Foley",
+   "audio_url": "https://archive.org/download/treasureisland_librivox/treasure_island_11-12_stevenson_64kb.mp3",
+   "duration": 1391.13,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":273.738,"text_start":21.06,"href":"s06/p001.json"},
+    {"index":2,"start":273.738,"end":529.48,"text_start":274.036,"href":"s06/p002.json"},
+    {"index":3,"start":529.48,"end":778.48,"text_start":529.98,"href":"s06/p003.json"},
+    {"index":4,"start":778.48,"end":1093.32,"text_start":782.5,"href":"s06/p004.json"},
+    {"index":5,"start":1093.32,"end":1391.13,"text_start":1093.82,"href":"s06/p005.json"}
+   ]
+  },
+  {
+   "id": "s07",
+   "index": 7,
+   "title": "Chapter 13 — How I Began My Shore Adventure",
+   "reader": "Mark Bradford",
+   "audio_url": "https://archive.org/download/treasureisland_librivox/treasure_island_13_stevenson_64kb.mp3",
+   "duration": 639.35,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":317.98,"text_start":23.18,"href":"s07/p001.json"},
+    {"index":2,"start":317.98,"end":639.35,"text_start":318.48,"href":"s07/p002.json"}
+   ]
+  },
+  {
+   "id": "s08",
+   "index": 8,
+   "title": "Chapter 14 — The First Blow",
+   "reader": "Mark Bradford",
+   "audio_url": "https://archive.org/download/treasureisland_librivox/treasure_island_14_stevenson_64kb.mp3",
+   "duration": 742.35,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":396.06,"text_start":22.12,"href":"s08/p001.json"},
+    {"index":2,"start":396.06,"end":742.35,"text_start":396.56,"href":"s08/p002.json"}
+   ]
+  },
+  {
+   "id": "s09",
+   "index": 9,
+   "title": "Chapter 15 — The Man of the Island",
+   "reader": "Hugh McGuire",
+   "audio_url": "https://archive.org/download/treasureisland_librivox/treasure_island_15_stevenson_64kb.mp3",
+   "duration": 997.93,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":334.12,"text_start":22.56,"href":"s09/p001.json"},
+    {"index":2,"start":334.12,"end":668.94,"text_start":334.62,"href":"s09/p002.json"},
+    {"index":3,"start":668.94,"end":997.93,"text_start":669.44,"href":"s09/p003.json"}
+   ]
+  },
+  {
+   "id": "s10",
+   "index": 10,
+   "title": "Chapter 16 — Narrative Continued by the Doctor: How the Ship Was Abandoned",
+   "reader": "Hugh McGuire",
+   "audio_url": "https://archive.org/download/treasureisland_librivox/treasure_island_16_stevenson_64kb.mp3",
+   "duration": 685.28,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":345.0,"text_start":24.045,"href":"s10/p001.json"},
+    {"index":2,"start":345.0,"end":685.28,"text_start":345.5,"href":"s10/p002.json"}
+   ]
+  },
+  {
+   "id": "s11",
+   "index": 11,
+   "title": "Chapter 17 — Narrative Continued by the Doctor: The Jolly-boat’s Last Trip",
+   "reader": "Chris Vee",
+   "audio_url": "https://archive.org/download/treasureisland_librivox/treasure_island_17_stevenson_64kb.mp3",
+   "duration": 803.03,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":272.86,"text_start":19.28,"href":"s11/p001.json"},
+    {"index":2,"start":272.86,"end":547.8,"text_start":273.36,"href":"s11/p002.json"},
+    {"index":3,"start":547.8,"end":803.03,"text_start":548.3,"href":"s11/p003.json"}
+   ]
+  },
+  {
+   "id": "s12",
+   "index": 12,
+   "title": "Chapter 18 — Narrative Continued by the Doctor: End of the First Day’s Fighting",
+   "reader": "Chris Vee",
+   "audio_url": "https://archive.org/download/treasureisland_librivox/treasure_island_18_stevenson_64kb.mp3",
+   "duration": 855.35,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":303.0,"text_start":21.82,"href":"s12/p001.json"},
+    {"index":2,"start":303.0,"end":582.72,"text_start":303.5,"href":"s12/p002.json"},
+    {"index":3,"start":582.72,"end":855.35,"text_start":583.22,"href":"s12/p003.json"}
+   ]
+  },
+  {
+   "id": "s13",
+   "index": 13,
+   "title": "Chapter 19 — Narrative Resumed by Jim Hawkins: The Garrison in the Stockade",
+   "reader": "mjd-s",
+   "audio_url": "https://archive.org/download/treasureisland_librivox/treasure_island_19_stevenson_64kb.mp3",
+   "duration": 771.19,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":243.12,"text_start":20.98,"href":"s13/p001.json"},
+    {"index":2,"start":243.12,"end":498.26,"text_start":243.62,"href":"s13/p002.json"},
+    {"index":3,"start":498.26,"end":771.19,"text_start":498.76,"href":"s13/p003.json"}
+   ]
+  },
+  {
+   "id": "s14",
+   "index": 14,
+   "title": "Chapter 20 — Silver’s Embassy",
+   "reader": "mjd-s",
+   "audio_url": "https://archive.org/download/treasureisland_librivox/treasure_island_20_stevenson_64kb.mp3",
+   "duration": 768.16,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":262.34,"text_start":22.34,"href":"s14/p001.json"},
+    {"index":2,"start":262.34,"end":515.34,"text_start":262.84,"href":"s14/p002.json"},
+    {"index":3,"start":515.34,"end":768.16,"text_start":515.84,"href":"s14/p003.json"}
+   ]
+  },
+  {
+   "id": "s15",
+   "index": 15,
+   "title": "Chapter 21 — The Attack",
+   "reader": "Kristen McQuillin",
+   "audio_url": "https://archive.org/download/treasureisland_librivox/treasure_island_21_stevenson_64kb.mp3",
+   "duration": 671.53,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":340.144,"text_start":15.5,"href":"s15/p001.json"},
+    {"index":2,"start":340.144,"end":671.53,"text_start":340.144,"href":"s15/p002.json"}
+   ]
+  },
+  {
+   "id": "s16",
+   "index": 16,
+   "title": "Chapter 22 — How I Began My Sea Adventure",
+   "reader": "Kristen McQuillin",
+   "audio_url": "https://archive.org/download/treasureisland_librivox/treasure_island_22_stevenson_64kb.mp3",
+   "duration": 650.17,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":307.8,"text_start":15.04,"href":"s16/p001.json"},
+    {"index":2,"start":307.8,"end":650.17,"text_start":308.3,"href":"s16/p002.json"}
+   ]
+  },
+  {
+   "id": "s17",
+   "index": 17,
+   "title": "Chapters 23-24 — The Ebb-tide Runs / The Cruise of the Coracle",
+   "reader": "Neal Foley",
+   "audio_url": "https://archive.org/download/treasureisland_librivox/treasure_island_23-24_stevenson_64kb.mp3",
+   "duration": 1329.32,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":313.16,"text_start":28.08,"href":"s17/p001.json"},
+    {"index":2,"start":313.16,"end":613.83,"text_start":313.66,"href":"s17/p002.json"},
+    {"index":3,"start":613.83,"end":987.7,"text_start":618.78,"href":"s17/p003.json"},
+    {"index":4,"start":987.7,"end":1329.32,"text_start":988.2,"href":"s17/p004.json"}
+   ]
+  },
+  {
+   "id": "s18",
+   "index": 18,
+   "title": "Chapters 25-26 — I Strike the Jolly Roger / Israel Hands",
+   "reader": "Gord Mackenzie",
+   "audio_url": "https://archive.org/download/treasureisland_librivox/treasure_island_25-26_stevenson_64kb.mp3",
+   "duration": 1967.5,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":365.54,"text_start":23.94,"href":"s18/p001.json"},
+    {"index":2,"start":365.54,"end":749.3,"text_start":366.04,"href":"s18/p002.json"},
+    {"index":3,"start":749.3,"end":1067.32,"text_start":755.78,"href":"s18/p003.json"},
+    {"index":4,"start":1067.32,"end":1344.74,"text_start":1067.82,"href":"s18/p004.json"},
+    {"index":5,"start":1344.74,"end":1655.18,"text_start":1345.24,"href":"s18/p005.json"},
+    {"index":6,"start":1655.18,"end":1967.5,"text_start":1655.68,"href":"s18/p006.json"}
+   ]
+  },
+  {
+   "id": "s19",
+   "index": 19,
+   "title": "Chapter 27 — “Pieces of Eight”",
+   "reader": "Alex Foster",
+   "audio_url": "https://archive.org/download/treasureisland_librivox/treasure_island_27_stevenson_64kb.mp3",
+   "duration": 701.1,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":358.38,"text_start":17.68,"href":"s19/p001.json"},
+    {"index":2,"start":358.38,"end":701.1,"text_start":358.88,"href":"s19/p002.json"}
+   ]
+  },
+  {
+   "id": "s20",
+   "index": 20,
+   "title": "Chapter 28 — In the Enemy’s Camp",
+   "reader": "Alex Foster",
+   "audio_url": "https://archive.org/download/treasureisland_librivox/treasure_island_28_stevenson_64kb.mp3",
+   "duration": 924.3,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":285.16,"text_start":20.32,"href":"s20/p001.json"},
+    {"index":2,"start":285.16,"end":590.8,"text_start":285.66,"href":"s20/p002.json"},
+    {"index":3,"start":590.8,"end":924.3,"text_start":591.3,"href":"s20/p003.json"}
+   ]
+  },
+  {
+   "id": "s21",
+   "index": 21,
+   "title": "Chapter 29 — The Black Spot Again",
+   "reader": "Randy Phillips",
+   "audio_url": "https://archive.org/download/treasureisland_librivox/treasure_island_29_stevenson_64kb.mp3",
+   "duration": 839.13,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":280.24,"text_start":16.4,"href":"s21/p001.json"},
+    {"index":2,"start":280.24,"end":570.22,"text_start":280.74,"href":"s21/p002.json"},
+    {"index":3,"start":570.22,"end":839.13,"text_start":570.72,"href":"s21/p003.json"}
+   ]
+  },
+  {
+   "id": "s22",
+   "index": 22,
+   "title": "Chapter 30 — On Parole",
+   "reader": "Randy Phillips",
+   "audio_url": "https://archive.org/download/treasureisland_librivox/treasure_island_30_stevenson_64kb.mp3",
+   "duration": 884.04,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":302.84,"text_start":16.04,"href":"s22/p001.json"},
+    {"index":2,"start":302.84,"end":583.62,"text_start":303.34,"href":"s22/p002.json"},
+    {"index":3,"start":583.62,"end":884.04,"text_start":584.12,"href":"s22/p003.json"}
+   ]
+  },
+  {
+   "id": "s23",
+   "index": 23,
+   "title": "Chapter 31 — The Treasure-hunt—Flint’s Pointer",
+   "reader": "Jean O'Sullivan",
+   "audio_url": "https://archive.org/download/treasureisland_librivox/treasure_island_31_stevenson_64kb.mp3",
+   "duration": 871.63,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":288.86,"text_start":20.74,"href":"s23/p001.json"},
+    {"index":2,"start":288.86,"end":576.8,"text_start":289.36,"href":"s23/p002.json"},
+    {"index":3,"start":576.8,"end":871.63,"text_start":577.28,"href":"s23/p003.json"}
+   ]
+  },
+  {
+   "id": "s24",
+   "index": 24,
+   "title": "Chapter 32 — The Treasure-hunt—The Voice Among the Trees",
+   "reader": "Jean O'Sullivan",
+   "audio_url": "https://archive.org/download/treasureisland_librivox/treasure_island_32_stevenson_64kb.mp3",
+   "duration": 748.44,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":378.08,"text_start":20.2,"href":"s24/p001.json"},
+    {"index":2,"start":378.08,"end":748.44,"text_start":378.52,"href":"s24/p002.json"}
+   ]
+  },
+  {
+   "id": "s25",
+   "index": 25,
+   "title": "Chapter 33 — The Fall of a Chieftain",
+   "reader": "Randy Phillips",
+   "audio_url": "https://archive.org/download/treasureisland_librivox/treasure_island_33_stevenson_64kb.mp3",
+   "duration": 770.67,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":259.98,"text_start":15.1,"href":"s25/p001.json"},
+    {"index":2,"start":259.98,"end":515.64,"text_start":260.48,"href":"s25/p002.json"},
+    {"index":3,"start":515.64,"end":770.67,"text_start":516.14,"href":"s25/p003.json"}
+   ]
+  },
+  {
+   "id": "s26",
+   "index": 26,
+   "title": "Chapter 34 — And Last",
+   "reader": "Randy Phillips",
+   "audio_url": "https://archive.org/download/treasureisland_librivox/treasure_island_34_stevenson_64kb.mp3",
+   "duration": 704.97,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":350.56,"text_start":14.34,"href":"s26/p001.json"},
+    {"index":2,"start":350.56,"end":704.97,"text_start":351.06,"href":"s26/p002.json"}
+   ]
+  }
+ ]
+}
