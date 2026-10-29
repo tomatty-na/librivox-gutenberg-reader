@@ -8,6 +8,18 @@
   "gutenberg_id": 521,
   "librivox_url": "https://librivox.org/robinson-crusoe-by-daniel-defoe/",
   "language": "en",
+  "category": "fiction",
+  "authors": [
+   {
+    "name": "Daniel Defoe",
+    "slug": "daniel-defoe",
+    "id": 895,
+    "first_name": "Daniel",
+    "last_name": "Defoe",
+    "dob": "c.1660",
+    "dod": "1731"
+   }
+  ],
   "updated": "2026-10-28"
  },
  "sections": [
