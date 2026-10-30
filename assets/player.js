@@ -522,7 +522,7 @@
     return true;
   }
 
-  // 語のハイライト。[[join]] の組（D-127）は、組のどの語が光る間も組の語を全部光らせる
+  // 語のハイライト。[[join]] の組（D-127）と表の行（D-147）は、組のどの語が光る間も組の語を全部光らせる
   function setWord(idx) {
     if (S.active.word === idx) return;
     for (var i = 0; i < S.wordOn.length; i++) S.wordOn[i].classList.remove('on');
@@ -530,7 +530,7 @@
     var w = idx >= 0 ? S.tl.words[idx] : null;
     if (w) {
       for (var k = w.g0; k < w.g1; k++) {
-        if (S.wordEls[k]) { S.wordEls[k].classList.add('on'); S.wordOn.push(S.wordEls[k]); }
+        if (S.wordEls[k] && !S.tl.words[k].none) { S.wordEls[k].classList.add('on'); S.wordOn.push(S.wordEls[k]); }
       }
     }
     S.active.word = idx;

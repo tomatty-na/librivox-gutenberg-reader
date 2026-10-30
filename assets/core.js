@@ -173,7 +173,7 @@
     for (var n = 0; n < phrases.length; n++) {
       if (!phrases[n].none) continue;
       phrases[n].t0 = phrases[n].t1 = null;
-      for (var m = phrases[n].w0; m < phrases[n].w1; m++) { words[m].t0 = words[m].t1 = null; }
+      for (var m = phrases[n].w0; m < phrases[n].w1; m++) { words[m].t0 = words[m].t1 = null; words[m].none = true; }
     }
 
     // 句の時刻が無ければ、語の時刻から作る
@@ -210,7 +210,7 @@
       }
       if (ra === null) continue;
       for (var rw = r0; rw < r1; rw++) {
-        if (words[rw].ci >= 0 && phrases[words[rw].ci].none) continue;   // [[highlight]] の none は光らせないまま
+        if (words[rw].none) continue;   // [[highlight]] の none は光らせないまま（player も組の中で飛ばす）
         words[rw].t0 = ra; words[rw].t1 = rb; words[rw].g0 = r0; words[rw].g1 = r1; words[rw].row = true;
       }
     }
