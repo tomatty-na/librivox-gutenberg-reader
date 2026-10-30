@@ -157,9 +157,16 @@
    "reader": "hosmer_angel",
    "audio_url": "https://archive.org/download/wuthering_heights_0801_librivox/wutheringheights_09_bronte_64kb.mp3",
    "duration": 1952.78,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":321.76,"text_start":19.12,"href":"s09/p001.json"},
+    {"index":2,"start":321.76,"end":644.04,"text_start":322.02,"href":"s09/p002.json"},
+    {"index":3,"start":644.04,"end":961.58,"text_start":644.54,"href":"s09/p003.json"},
+    {"index":4,"start":961.58,"end":1300.34,"text_start":961.98,"href":"s09/p004.json"},
+    {"index":5,"start":1300.34,"end":1644.06,"text_start":1300.84,"href":"s09/p005.json"},
+    {"index":6,"start":1644.06,"end":1952.78,"text_start":1644.44,"href":"s09/p006.json"}
+   ]
   },
   {
    "id": "s10",
@@ -501,9 +508,14 @@
    "reader": "hosmer_angel",
    "audio_url": "https://archive.org/download/wuthering_heights_0801_librivox/wutheringheights_32_bronte_64kb.mp3",
    "duration": 1328.39,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":337.94,"text_start":23.44,"href":"s32/p001.json"},
+    {"index":2,"start":337.94,"end":694.88,"text_start":338.44,"href":"s32/p002.json"},
+    {"index":3,"start":694.88,"end":1012.98,"text_start":695.38,"href":"s32/p003.json"},
+    {"index":4,"start":1012.98,"end":1328.39,"text_start":1013.48,"href":"s32/p004.json"}
+   ]
   },
   {
    "id": "s33",
@@ -512,9 +524,14 @@
    "reader": "Lady Maria",
    "audio_url": "https://archive.org/download/wuthering_heights_0801_librivox/wutheringheights_33_bronte_64kb.mp3",
    "duration": 1325.45,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":321.18,"text_start":25.92,"href":"s33/p001.json"},
+    {"index":2,"start":321.18,"end":642.3,"text_start":321.66,"href":"s33/p002.json"},
+    {"index":3,"start":642.3,"end":952.58,"text_start":642.8,"href":"s33/p003.json"},
+    {"index":4,"start":952.58,"end":1325.45,"text_start":953.08,"href":"s33/p004.json"}
+   ]
   },
   {
    "id": "s34",
