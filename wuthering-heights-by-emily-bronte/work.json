@@ -175,9 +175,18 @@
    "reader": "Lady Maria",
    "audio_url": "https://archive.org/download/wuthering_heights_0801_librivox/wutheringheights_10_bronte_64kb.mp3",
    "duration": 2302.85,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 8,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":312.84,"text_start":24.1,"href":"s10/p001.json"},
+    {"index":2,"start":312.84,"end":597.96,"text_start":313.34,"href":"s10/p002.json"},
+    {"index":3,"start":597.96,"end":873.7,"text_start":598.46,"href":"s10/p003.json"},
+    {"index":4,"start":873.7,"end":1160.38,"text_start":874.2,"href":"s10/p004.json"},
+    {"index":5,"start":1160.38,"end":1441.3,"text_start":1160.88,"href":"s10/p005.json"},
+    {"index":6,"start":1441.3,"end":1719.76,"text_start":1441.8,"href":"s10/p006.json"},
+    {"index":7,"start":1719.76,"end":2011.86,"text_start":1720.26,"href":"s10/p007.json"},
+    {"index":8,"start":2011.86,"end":2302.85,"text_start":2012.36,"href":"s10/p008.json"}
+   ]
   },
   {
    "id": "s11",
@@ -302,9 +311,14 @@
    "reader": "Lady Maria",
    "audio_url": "https://archive.org/download/wuthering_heights_0801_librivox/wutheringheights_18_bronte_64kb.mp3",
    "duration": 1191.94,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":285.02,"text_start":21.16,"href":"s18/p001.json"},
+    {"index":2,"start":285.02,"end":585.43,"text_start":285.52,"href":"s18/p002.json"},
+    {"index":3,"start":585.43,"end":892.72,"text_start":585.82,"href":"s18/p003.json"},
+    {"index":4,"start":892.72,"end":1191.94,"text_start":893.22,"href":"s18/p004.json"}
+   ]
   },
   {
    "id": "s19",
