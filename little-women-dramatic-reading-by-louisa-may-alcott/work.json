@@ -1,0 +1,792 @@
+{
+ "format": "librivox-gutenberg/work",
+ "version": "1.0",
+ "work": {
+  "slug": "little-women-dramatic-reading-by-louisa-may-alcott",
+  "title": "Little Women",
+  "author": "Louisa May Alcott",
+  "gutenberg_id": 514,
+  "librivox_url": "https://librivox.org/little-women-dramatic-reading-by-louisa-may-alcott/",
+  "language": "en",
+  "category": "children",
+  "authors": [
+   {
+    "name": "Louisa May Alcott",
+    "slug": "louisa-may-alcott",
+    "id": 93,
+    "first_name": "Louisa May",
+    "last_name": "Alcott",
+    "dob": "1832",
+    "dod": "1888"
+   }
+  ],
+  "updated": "2026-10-30"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "index": 1,
+   "title": "Introduction",
+   "reader": "Kara Shallenberg (1969-2023), Henry Frigon, Denny Sayers (d. 2015), Karen Savage, Rainer, Elizabeth Klett, mb, Kalynda, David Lawrence, Tom Crawford, Arielle Lipshaw, MaryAnn, Nadine Eckert-Boulet, Bruce Pirie, Elli, BookAngel7, SallyMc, Amy Gramour, rashada, E.Lee, Susanna, BumbleVee, ESFJ Girl, Phil Chenevert, John Fricker, Lavinia, croudy, coolkid2219, sherlock85, bish",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_00_alcott_64kb.mp3",
+   "duration": 200.96,
+   "page_count": 0,
+   "status": "non_text_section",
+   "pages": []
+  },
+  {
+   "id": "s02",
+   "index": 2,
+   "title": "Chapter 1 - Playing Pilgrims",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_01_alcott_64kb.mp3",
+   "duration": 1343.62,
+   "page_count": 4,
+   "status": "mapped",
+   "part": "PART 1",
+   "pages": [
+    {"index":1,"start":0.0,"end":334.04,"text_start":18.64,"href":"s02/p001.json"},
+    {"index":2,"start":334.04,"end":666.48,"text_start":334.54,"href":"s02/p002.json"},
+    {"index":3,"start":666.48,"end":1008.8,"text_start":666.72,"href":"s02/p003.json"},
+    {"index":4,"start":1008.8,"end":1343.62,"text_start":1009.12,"href":"s02/p004.json"}
+   ]
+  },
+  {
+   "id": "s03",
+   "index": 3,
+   "title": "Chapter 2 - A Merry Christmas",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_02_alcott_64kb.mp3",
+   "duration": 1365.99,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":353.45,"text_start":9.44,"href":"s03/p001.json"},
+    {"index":2,"start":353.45,"end":687.84,"text_start":353.64,"href":"s03/p002.json"},
+    {"index":3,"start":687.84,"end":1024.37,"text_start":688.34,"href":"s03/p003.json"},
+    {"index":4,"start":1024.37,"end":1365.99,"text_start":1024.86,"href":"s03/p004.json"}
+   ]
+  },
+  {
+   "id": "s04",
+   "index": 4,
+   "title": "Chapter 3 - The Laurence Boy",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_03_alcott_64kb.mp3",
+   "duration": 1261.32,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":319.22,"text_start":9.42,"href":"s04/p001.json"},
+    {"index":2,"start":319.22,"end":634.61,"text_start":319.46,"href":"s04/p002.json"},
+    {"index":3,"start":634.61,"end":950.96,"text_start":634.86,"href":"s04/p003.json"},
+    {"index":4,"start":950.96,"end":1261.32,"text_start":951.22,"href":"s04/p004.json"}
+   ]
+  },
+  {
+   "id": "s05",
+   "index": 5,
+   "title": "Chapter 4 - Burdens",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_04_alcott_64kb.mp3",
+   "duration": 1541.12,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":296.43,"text_start":9.34,"href":"s05/p001.json"},
+    {"index":2,"start":296.43,"end":599.91,"text_start":296.8,"href":"s05/p002.json"},
+    {"index":3,"start":599.91,"end":905.96,"text_start":600.28,"href":"s05/p003.json"},
+    {"index":4,"start":905.96,"end":1210.13,"text_start":906.26,"href":"s05/p004.json"},
+    {"index":5,"start":1210.13,"end":1541.12,"text_start":1210.44,"href":"s05/p005.json"}
+   ]
+  },
+  {
+   "id": "s06",
+   "index": 6,
+   "title": "Chapter 5 - Being Neighborly",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_05_alcott_64kb.mp3",
+   "duration": 1461.02,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":295.62,"text_start":9.92,"href":"s06/p001.json"},
+    {"index":2,"start":295.62,"end":585.01,"text_start":296.12,"href":"s06/p002.json"},
+    {"index":3,"start":585.01,"end":879.86,"text_start":585.48,"href":"s06/p003.json"},
+    {"index":4,"start":879.86,"end":1169.75,"text_start":880.18,"href":"s06/p004.json"},
+    {"index":5,"start":1169.75,"end":1461.02,"text_start":1170.08,"href":"s06/p005.json"}
+   ]
+  },
+  {
+   "id": "s07",
+   "index": 7,
+   "title": "Chapter 6 - Beth Finds the Palace Beautiful",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_06_alcott_64kb.mp3",
+   "duration": 930.01,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":318.61,"text_start":9.08,"href":"s07/p001.json"},
+    {"index":2,"start":318.61,"end":621.3,"text_start":318.88,"href":"s07/p002.json"},
+    {"index":3,"start":621.3,"end":930.01,"text_start":621.8,"href":"s07/p003.json"}
+   ]
+  },
+  {
+   "id": "s08",
+   "index": 8,
+   "title": "Chapter 7 - Amy's Valley of Humiliation",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_07_alcott_64kb.mp3",
+   "duration": 935.07,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":273.94,"text_start":9.84,"href":"s08/p001.json"},
+    {"index":2,"start":273.94,"end":609.46,"text_start":274.44,"href":"s08/p002.json"},
+    {"index":3,"start":609.46,"end":935.07,"text_start":609.96,"href":"s08/p003.json"}
+   ]
+  },
+  {
+   "id": "s09",
+   "index": 9,
+   "title": "Chapter 8 - Jo Meets Apollyon",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_08_alcott_64kb.mp3",
+   "duration": 1454.94,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":299.75,"text_start":13.24,"href":"s09/p001.json"},
+    {"index":2,"start":299.75,"end":584.18,"text_start":300.22,"href":"s09/p002.json"},
+    {"index":3,"start":584.18,"end":874.85,"text_start":584.68,"href":"s09/p003.json"},
+    {"index":4,"start":874.85,"end":1162.47,"text_start":875.26,"href":"s09/p004.json"},
+    {"index":5,"start":1162.47,"end":1454.94,"text_start":1162.8,"href":"s09/p005.json"}
+   ]
+  },
+  {
+   "id": "s10",
+   "index": 10,
+   "title": "Chapter 9 - Meg Goes to Vanity Fair",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_09_alcott_64kb.mp3",
+   "duration": 2101.02,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":306.28,"text_start":9.54,"href":"s10/p001.json"},
+    {"index":2,"start":306.28,"end":610.19,"text_start":306.78,"href":"s10/p002.json"},
+    {"index":3,"start":610.19,"end":901.57,"text_start":610.5,"href":"s10/p003.json"},
+    {"index":4,"start":901.57,"end":1185.14,"text_start":901.92,"href":"s10/p004.json"},
+    {"index":5,"start":1185.14,"end":1493.71,"text_start":1185.46,"href":"s10/p005.json"},
+    {"index":6,"start":1493.71,"end":1802.76,"text_start":1494.04,"href":"s10/p006.json"},
+    {"index":7,"start":1802.76,"end":2101.02,"text_start":1803.08,"href":"s10/p007.json"}
+   ]
+  },
+  {
+   "id": "s11",
+   "index": 11,
+   "title": "Chapter 10 - The P.C. and P.O.",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_10_alcott_64kb.mp3",
+   "duration": 1268.23,
+   "page_count": 0,
+   "status": "pending",
+   "pages": []
+  },
+  {
+   "id": "s12",
+   "index": 12,
+   "title": "Chapter 11 - Experiments",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_11_alcott_64kb.mp3",
+   "duration": 1452.16,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":285.54,"text_start":9.32,"href":"s12/p001.json"},
+    {"index":2,"start":285.54,"end":580.68,"text_start":286.04,"href":"s12/p002.json"},
+    {"index":3,"start":580.68,"end":870.02,"text_start":581.18,"href":"s12/p003.json"},
+    {"index":4,"start":870.02,"end":1156.36,"text_start":870.38,"href":"s12/p004.json"},
+    {"index":5,"start":1156.36,"end":1452.16,"text_start":1156.86,"href":"s12/p005.json"}
+   ]
+  },
+  {
+   "id": "s13",
+   "index": 13,
+   "title": "Chapter 12 - Camp Laurence",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_12_alcott_64kb.mp3",
+   "duration": 2436.1,
+   "page_count": 8,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":290.69,"text_start":9.24,"href":"s13/p001.json"},
+    {"index":2,"start":290.69,"end":596.24,"text_start":291.18,"href":"s13/p002.json"},
+    {"index":3,"start":596.24,"end":893.49,"text_start":596.5,"href":"s13/p003.json"},
+    {"index":4,"start":893.49,"end":1188.4,"text_start":893.72,"href":"s13/p004.json"},
+    {"index":5,"start":1188.4,"end":1487.84,"text_start":1188.7,"href":"s13/p005.json"},
+    {"index":6,"start":1487.84,"end":1800.49,"text_start":1488.02,"href":"s13/p006.json"},
+    {"index":7,"start":1800.49,"end":2114.29,"text_start":1800.76,"href":"s13/p007.json"},
+    {"index":8,"start":2114.29,"end":2436.1,"text_start":2114.52,"href":"s13/p008.json"}
+   ]
+  },
+  {
+   "id": "s14",
+   "index": 14,
+   "title": "Chapter 13 - Castles in the Air",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_13_alcott_64kb.mp3",
+   "duration": 1157.64,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":286.31,"text_start":9.08,"href":"s14/p001.json"},
+    {"index":2,"start":286.31,"end":566.8,"text_start":286.66,"href":"s14/p002.json"},
+    {"index":3,"start":566.8,"end":860.88,"text_start":566.98,"href":"s14/p003.json"},
+    {"index":4,"start":860.88,"end":1157.64,"text_start":861.38,"href":"s14/p004.json"}
+   ]
+  },
+  {
+   "id": "s15",
+   "index": 15,
+   "title": "Chapter 14 - Secrets",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_14_alcott_64kb.mp3",
+   "duration": 1097.09,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":286.12,"text_start":9.02,"href":"s15/p001.json"},
+    {"index":2,"start":286.12,"end":566.32,"text_start":286.44,"href":"s15/p002.json"},
+    {"index":3,"start":566.32,"end":840.68,"text_start":566.54,"href":"s15/p003.json"},
+    {"index":4,"start":840.68,"end":1097.09,"text_start":840.98,"href":"s15/p004.json"}
+   ]
+  },
+  {
+   "id": "s16",
+   "index": 16,
+   "title": "Chapter 15 - A Telegram",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_15_alcott_64kb.mp3",
+   "duration": 1091.46,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":263.94,"text_start":10.16,"href":"s16/p001.json"},
+    {"index":2,"start":263.94,"end":533.68,"text_start":264.44,"href":"s16/p002.json"},
+    {"index":3,"start":533.68,"end":793.98,"text_start":533.96,"href":"s16/p003.json"},
+    {"index":4,"start":793.98,"end":1091.46,"text_start":794.48,"href":"s16/p004.json"}
+   ]
+  },
+  {
+   "id": "s17",
+   "index": 17,
+   "title": "Chapter 16 - Letters",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_16_alcott_64kb.mp3",
+   "duration": 1024.77,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":346.94,"text_start":9.7,"href":"s17/p001.json"},
+    {"index":2,"start":346.94,"end":689.63,"text_start":347.24,"href":"s17/p002.json"},
+    {"index":3,"start":689.63,"end":1024.77,"text_start":689.7,"href":"s17/p003.json"}
+   ]
+  },
+  {
+   "id": "s18",
+   "index": 18,
+   "title": "Chapter 17 - Little Faithful",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_17_alcott_64kb.mp3",
+   "duration": 908.3,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":304.93,"text_start":9.76,"href":"s18/p001.json"},
+    {"index":2,"start":304.93,"end":607.45,"text_start":305.28,"href":"s18/p002.json"},
+    {"index":3,"start":607.45,"end":908.3,"text_start":607.78,"href":"s18/p003.json"}
+   ]
+  },
+  {
+   "id": "s19",
+   "index": 19,
+   "title": "Chapter 18 - Dark Days",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_18_alcott_64kb.mp3",
+   "duration": 1076.1,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":271.27,"text_start":9.08,"href":"s19/p001.json"},
+    {"index":2,"start":271.27,"end":538.47,"text_start":271.44,"href":"s19/p002.json"},
+    {"index":3,"start":538.47,"end":805.69,"text_start":538.94,"href":"s19/p003.json"},
+    {"index":4,"start":805.69,"end":1076.1,"text_start":806.18,"href":"s19/p004.json"}
+   ]
+  },
+  {
+   "id": "s20",
+   "index": 20,
+   "title": "Chapter 19 - Amy's Will",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_19_alcott_64kb.mp3",
+   "duration": 1076.1,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":364.05,"text_start":8.62,"href":"s20/p001.json"},
+    {"index":2,"start":364.05,"end":715.15,"text_start":364.26,"href":"s20/p002.json"},
+    {"index":3,"start":715.15,"end":1076.1,"text_start":715.4,"href":"s20/p003.json"}
+   ]
+  },
+  {
+   "id": "s21",
+   "index": 21,
+   "title": "Chapter 20 - Confidential",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_20_alcott_64kb.mp3",
+   "duration": 923.14,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":320.26,"text_start":9.5,"href":"s21/p001.json"},
+    {"index":2,"start":320.26,"end":616.11,"text_start":320.58,"href":"s21/p002.json"},
+    {"index":3,"start":616.11,"end":923.14,"text_start":616.52,"href":"s21/p003.json"}
+   ]
+  },
+  {
+   "id": "s22",
+   "index": 22,
+   "title": "Chapter 21 - Laurie Makes Mischief, and Jo Makes Peace",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_21_alcott_64kb.mp3",
+   "duration": 1513.48,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":309.21,"text_start":16.22,"href":"s22/p001.json"},
+    {"index":2,"start":309.21,"end":601.87,"text_start":309.54,"href":"s22/p002.json"},
+    {"index":3,"start":601.87,"end":900.12,"text_start":602.32,"href":"s22/p003.json"},
+    {"index":4,"start":900.12,"end":1204.36,"text_start":900.46,"href":"s22/p004.json"},
+    {"index":5,"start":1204.36,"end":1513.48,"text_start":1204.84,"href":"s22/p005.json"}
+   ]
+  },
+  {
+   "id": "s23",
+   "index": 23,
+   "title": "Chapter 22 - Pleasant Meadows",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_22_alcott_64kb.mp3",
+   "duration": 938.05,
+   "page_count": 0,
+   "status": "pending",
+   "pages": []
+  },
+  {
+   "id": "s24",
+   "index": 24,
+   "title": "Chapter 23 - Aunt March Settles the Question",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_23_alcott_64kb.mp3",
+   "duration": 1454.08,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":285.01,"text_start":9.32,"href":"s24/p001.json"},
+    {"index":2,"start":285.01,"end":572.56,"text_start":285.36,"href":"s24/p002.json"},
+    {"index":3,"start":572.56,"end":874.22,"text_start":573.04,"href":"s24/p003.json"},
+    {"index":4,"start":874.22,"end":1158.74,"text_start":874.58,"href":"s24/p004.json"},
+    {"index":5,"start":1158.74,"end":1454.08,"text_start":1159.0,"href":"s24/p005.json"}
+   ]
+  },
+  {
+   "id": "s25",
+   "index": 25,
+   "title": "Chapter 24 - Gossip",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_24_alcott_64kb.mp3",
+   "duration": 1472.18,
+   "page_count": 5,
+   "status": "mapped",
+   "part": "PART 2",
+   "pages": [
+    {"index":1,"start":0.0,"end":269.98,"text_start":9.48,"href":"s25/p001.json"},
+    {"index":2,"start":269.98,"end":569.82,"text_start":270.48,"href":"s25/p002.json"},
+    {"index":3,"start":569.82,"end":864.23,"text_start":570.32,"href":"s25/p003.json"},
+    {"index":4,"start":864.23,"end":1173.43,"text_start":864.44,"href":"s25/p004.json"},
+    {"index":5,"start":1173.43,"end":1472.18,"text_start":1173.8,"href":"s25/p005.json"}
+   ]
+  },
+  {
+   "id": "s26",
+   "index": 26,
+   "title": "Chapter 25 - The First Wedding",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_25_alcott_64kb.mp3",
+   "duration": 848.64,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":275.44,"text_start":9.74,"href":"s26/p001.json"},
+    {"index":2,"start":275.44,"end":562.65,"text_start":275.64,"href":"s26/p002.json"},
+    {"index":3,"start":562.65,"end":848.64,"text_start":562.94,"href":"s26/p003.json"}
+   ]
+  },
+  {
+   "id": "s27",
+   "index": 27,
+   "title": "Chapter 26 - Artistic Attempts",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_26_alcott_64kb.mp3",
+   "duration": 1318.15,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":335.72,"text_start":9.44,"href":"s27/p001.json"},
+    {"index":2,"start":335.72,"end":653.67,"text_start":336.02,"href":"s27/p002.json"},
+    {"index":3,"start":653.67,"end":988.56,"text_start":653.86,"href":"s27/p003.json"},
+    {"index":4,"start":988.56,"end":1318.15,"text_start":988.96,"href":"s27/p004.json"}
+   ]
+  },
+  {
+   "id": "s28",
+   "index": 28,
+   "title": "Chapter 27 - Literary Lessons",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_27_alcott_64kb.mp3",
+   "duration": 967.04,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":323.75,"text_start":10.06,"href":"s28/p001.json"},
+    {"index":2,"start":323.75,"end":646.66,"text_start":324.02,"href":"s28/p002.json"},
+    {"index":3,"start":646.66,"end":967.04,"text_start":646.96,"href":"s28/p003.json"}
+   ]
+  },
+  {
+   "id": "s29",
+   "index": 29,
+   "title": "Chapter 28 - Domestic Experiences",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_28_alcott_64kb.mp3",
+   "duration": 1940.61,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":323.85,"text_start":12.58,"href":"s29/p001.json"},
+    {"index":2,"start":323.85,"end":640.43,"text_start":324.1,"href":"s29/p002.json"},
+    {"index":3,"start":640.43,"end":959.06,"text_start":640.74,"href":"s29/p003.json"},
+    {"index":4,"start":959.06,"end":1268.4,"text_start":959.32,"href":"s29/p004.json"},
+    {"index":5,"start":1268.4,"end":1601.2,"text_start":1268.9,"href":"s29/p005.json"},
+    {"index":6,"start":1601.2,"end":1940.61,"text_start":1601.7,"href":"s29/p006.json"}
+   ]
+  },
+  {
+   "id": "s30",
+   "index": 30,
+   "title": "Chapter 29 - Calls",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_29_alcott_64kb.mp3",
+   "duration": 1563.78,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":304.08,"text_start":9.64,"href":"s30/p001.json"},
+    {"index":2,"start":304.08,"end":614.4,"text_start":304.38,"href":"s30/p002.json"},
+    {"index":3,"start":614.4,"end":914.53,"text_start":614.9,"href":"s30/p003.json"},
+    {"index":4,"start":914.53,"end":1247.89,"text_start":914.76,"href":"s30/p004.json"},
+    {"index":5,"start":1247.89,"end":1563.78,"text_start":1248.16,"href":"s30/p005.json"}
+   ]
+  },
+  {
+   "id": "s31",
+   "index": 31,
+   "title": "Chapter 30 - Consequences",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_30_alcott_64kb.mp3",
+   "duration": 1500.04,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":292.94,"text_start":9.46,"href":"s31/p001.json"},
+    {"index":2,"start":292.94,"end":593.74,"text_start":293.3,"href":"s31/p002.json"},
+    {"index":3,"start":593.74,"end":896.0,"text_start":594.0,"href":"s31/p003.json"},
+    {"index":4,"start":896.0,"end":1194.72,"text_start":896.32,"href":"s31/p004.json"},
+    {"index":5,"start":1194.72,"end":1500.04,"text_start":1195.08,"href":"s31/p005.json"}
+   ]
+  },
+  {
+   "id": "s32",
+   "index": 32,
+   "title": "Chapter 31 - Our Foreign Correspondent",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_31_alcott_64kb.mp3",
+   "duration": 1232.01,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":318.7,"text_start":10.74,"href":"s32/p001.json"},
+    {"index":2,"start":318.7,"end":617.28,"text_start":319.2,"href":"s32/p002.json"},
+    {"index":3,"start":617.28,"end":928.22,"text_start":617.78,"href":"s32/p003.json"},
+    {"index":4,"start":928.22,"end":1232.01,"text_start":928.72,"href":"s32/p004.json"}
+   ]
+  },
+  {
+   "id": "s33",
+   "index": 33,
+   "title": "Chapter 32 - Tender Troubles",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_32_alcott_64kb.mp3",
+   "duration": 1436.05,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":317.1,"text_start":8.84,"href":"s33/p001.json"},
+    {"index":2,"start":317.1,"end":614.98,"text_start":317.6,"href":"s33/p002.json"},
+    {"index":3,"start":614.98,"end":892.15,"text_start":615.3,"href":"s33/p003.json"},
+    {"index":4,"start":892.15,"end":1167.61,"text_start":892.48,"href":"s33/p004.json"},
+    {"index":5,"start":1167.61,"end":1436.05,"text_start":1168.0,"href":"s33/p005.json"}
+   ]
+  },
+  {
+   "id": "s34",
+   "index": 34,
+   "title": "Chapter 33 - Jo's Journal",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_33_alcott_64kb.mp3",
+   "duration": 1531.14,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":307.35,"text_start":9.86,"href":"s34/p001.json"},
+    {"index":2,"start":307.35,"end":615.78,"text_start":307.6,"href":"s34/p002.json"},
+    {"index":3,"start":615.78,"end":912.55,"text_start":616.28,"href":"s34/p003.json"},
+    {"index":4,"start":912.55,"end":1233.28,"text_start":912.86,"href":"s34/p004.json"},
+    {"index":5,"start":1233.28,"end":1531.14,"text_start":1233.78,"href":"s34/p005.json"}
+   ]
+  },
+  {
+   "id": "s35",
+   "index": 35,
+   "title": "Chapter 34 - Friend",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_34_alcott_64kb.mp3",
+   "duration": 2039.17,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":266.11,"text_start":9.86,"href":"s35/p001.json"},
+    {"index":2,"start":266.11,"end":547.07,"text_start":266.38,"href":"s35/p002.json"},
+    {"index":3,"start":547.07,"end":845.33,"text_start":547.5,"href":"s35/p003.json"},
+    {"index":4,"start":845.33,"end":1133.46,"text_start":845.6,"href":"s35/p004.json"},
+    {"index":5,"start":1133.46,"end":1435.72,"text_start":1133.86,"href":"s35/p005.json"},
+    {"index":6,"start":1435.72,"end":1752.46,"text_start":1436.1,"href":"s35/p006.json"},
+    {"index":7,"start":1752.46,"end":2039.17,"text_start":1752.96,"href":"s35/p007.json"}
+   ]
+  },
+  {
+   "id": "s36",
+   "index": 36,
+   "title": "Chapter 35 - Heartache",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_35_alcott_64kb.mp3",
+   "duration": 1389.06,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":284.0,"text_start":9.56,"href":"s36/p001.json"},
+    {"index":2,"start":284.0,"end":558.08,"text_start":284.5,"href":"s36/p002.json"},
+    {"index":3,"start":558.08,"end":833.22,"text_start":558.4,"href":"s36/p003.json"},
+    {"index":4,"start":833.22,"end":1111.13,"text_start":833.72,"href":"s36/p004.json"},
+    {"index":5,"start":1111.13,"end":1389.06,"text_start":1111.36,"href":"s36/p005.json"}
+   ]
+  },
+  {
+   "id": "s37",
+   "index": 37,
+   "title": "Chapter 36 - Beth's Secret",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_36_alcott_64kb.mp3",
+   "duration": 793.09,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":255.32,"text_start":9.82,"href":"s37/p001.json"},
+    {"index":2,"start":255.32,"end":520.24,"text_start":255.74,"href":"s37/p002.json"},
+    {"index":3,"start":520.24,"end":793.09,"text_start":520.54,"href":"s37/p003.json"}
+   ]
+  },
+  {
+   "id": "s38",
+   "index": 38,
+   "title": "Chapter 37 - New Impressions",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_37_alcott_64kb.mp3",
+   "duration": 1452.06,
+   "page_count": 0,
+   "status": "pending",
+   "pages": []
+  },
+  {
+   "id": "s39",
+   "index": 39,
+   "title": "Chapter 38 - On the Shelf",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_38_alcott_64kb.mp3",
+   "duration": 1611.01,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":331.97,"text_start":10.12,"href":"s39/p001.json"},
+    {"index":2,"start":331.97,"end":655.81,"text_start":332.26,"href":"s39/p002.json"},
+    {"index":3,"start":655.81,"end":977.2,"text_start":656.08,"href":"s39/p003.json"},
+    {"index":4,"start":977.2,"end":1288.82,"text_start":977.46,"href":"s39/p004.json"},
+    {"index":5,"start":1288.82,"end":1611.01,"text_start":1289.3,"href":"s39/p005.json"}
+   ]
+  },
+  {
+   "id": "s40",
+   "index": 40,
+   "title": "Chapter 39 - Lazy Laurence",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_39_alcott_64kb.mp3",
+   "duration": 1648.13,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":324.54,"text_start":9.3,"href":"s40/p001.json"},
+    {"index":2,"start":324.54,"end":649.54,"text_start":324.82,"href":"s40/p002.json"},
+    {"index":3,"start":649.54,"end":970.53,"text_start":649.88,"href":"s40/p003.json"},
+    {"index":4,"start":970.53,"end":1305.55,"text_start":970.88,"href":"s40/p004.json"},
+    {"index":5,"start":1305.55,"end":1648.13,"text_start":1305.9,"href":"s40/p005.json"}
+   ]
+  },
+  {
+   "id": "s41",
+   "index": 41,
+   "title": "Chapter 40 - The Valley of the Shadow",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_40_alcott_64kb.mp3",
+   "duration": 757.12,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":378.7,"text_start":9.06,"href":"s41/p001.json"},
+    {"index":2,"start":378.7,"end":757.12,"text_start":379.2,"href":"s41/p002.json"}
+   ]
+  },
+  {
+   "id": "s42",
+   "index": 42,
+   "title": "Chapter 41 - Learning to Forget",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_41_alcott_64kb.mp3",
+   "duration": 1645.06,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":356.57,"text_start":10.24,"href":"s42/p001.json"},
+    {"index":2,"start":356.57,"end":652.84,"text_start":356.88,"href":"s42/p002.json"},
+    {"index":3,"start":652.84,"end":1000.34,"text_start":653.34,"href":"s42/p003.json"},
+    {"index":4,"start":1000.34,"end":1326.54,"text_start":1000.84,"href":"s42/p004.json"},
+    {"index":5,"start":1326.54,"end":1645.06,"text_start":1327.04,"href":"s42/p005.json"}
+   ]
+  },
+  {
+   "id": "s43",
+   "index": 43,
+   "title": "Chapter 42 - All Alone",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_42_alcott_64kb.mp3",
+   "duration": 1102.6,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":298.36,"text_start":9.56,"href":"s43/p001.json"},
+    {"index":2,"start":298.36,"end":568.38,"text_start":298.7,"href":"s43/p002.json"},
+    {"index":3,"start":568.38,"end":840.27,"text_start":568.88,"href":"s43/p003.json"},
+    {"index":4,"start":840.27,"end":1102.6,"text_start":840.66,"href":"s43/p004.json"}
+   ]
+  },
+  {
+   "id": "s44",
+   "index": 44,
+   "title": "Chapter 43 - Surprises",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_43_alcott_64kb.mp3",
+   "duration": 2080.0,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":298.11,"text_start":9.72,"href":"s44/p001.json"},
+    {"index":2,"start":298.11,"end":594.69,"text_start":298.56,"href":"s44/p002.json"},
+    {"index":3,"start":594.69,"end":900.8,"text_start":594.92,"href":"s44/p003.json"},
+    {"index":4,"start":900.8,"end":1201.98,"text_start":901.3,"href":"s44/p004.json"},
+    {"index":5,"start":1201.98,"end":1492.7,"text_start":1202.28,"href":"s44/p005.json"},
+    {"index":6,"start":1492.7,"end":1786.16,"text_start":1493.2,"href":"s44/p006.json"},
+    {"index":7,"start":1786.16,"end":2080.0,"text_start":1786.66,"href":"s44/p007.json"}
+   ]
+  },
+  {
+   "id": "s45",
+   "index": 45,
+   "title": "Chapter 44 - My Lord and Lady",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_44_alcott_64kb.mp3",
+   "duration": 619.04,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":308.07,"text_start":9.72,"href":"s45/p001.json"},
+    {"index":2,"start":308.07,"end":619.04,"text_start":308.34,"href":"s45/p002.json"}
+   ]
+  },
+  {
+   "id": "s46",
+   "index": 46,
+   "title": "Chapter 45 - Daisy and Demi",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_45_alcott_64kb.mp3",
+   "duration": 840.25,
+   "page_count": 0,
+   "status": "pending",
+   "pages": []
+  },
+  {
+   "id": "s47",
+   "index": 47,
+   "title": "Chapter 46 - Under the Umbrella",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_46_alcott_64kb.mp3",
+   "duration": 1820.93,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":344.17,"text_start":10.18,"href":"s47/p001.json"},
+    {"index":2,"start":344.17,"end":635.62,"text_start":344.5,"href":"s47/p002.json"},
+    {"index":3,"start":635.62,"end":932.04,"text_start":636.12,"href":"s47/p003.json"},
+    {"index":4,"start":932.04,"end":1238.7,"text_start":932.52,"href":"s47/p004.json"},
+    {"index":5,"start":1238.7,"end":1540.96,"text_start":1239.04,"href":"s47/p005.json"},
+    {"index":6,"start":1540.96,"end":1820.93,"text_start":1541.46,"href":"s47/p006.json"}
+   ]
+  },
+  {
+   "id": "s48",
+   "index": 48,
+   "title": "Chapter 47 - Harvest Time",
+   "reader": "",
+   "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_47_alcott_64kb.mp3",
+   "duration": 1403.01,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":273.54,"text_start":9.62,"href":"s48/p001.json"},
+    {"index":2,"start":273.54,"end":534.39,"text_start":274.04,"href":"s48/p002.json"},
+    {"index":3,"start":534.39,"end":816.94,"text_start":534.76,"href":"s48/p003.json"},
+    {"index":4,"start":816.94,"end":1107.09,"text_start":817.34,"href":"s48/p004.json"},
+    {"index":5,"start":1107.09,"end":1403.01,"text_start":1107.38,"href":"s48/p005.json"}
+   ]
+  }
+ ]
+}
