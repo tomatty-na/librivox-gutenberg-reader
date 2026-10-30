@@ -190,9 +190,14 @@
    "reader": "",
    "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_10_alcott_64kb.mp3",
    "duration": 1268.23,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":304.4,"text_start":14.52,"href":"s11/p001.json"},
+    {"index":2,"start":304.4,"end":613.96,"text_start":304.9,"href":"s11/p002.json"},
+    {"index":3,"start":613.96,"end":940.56,"text_start":614.46,"href":"s11/p003.json"},
+    {"index":4,"start":940.56,"end":1268.23,"text_start":940.78,"href":"s11/p004.json"}
+   ]
   },
   {
    "id": "s12",
@@ -624,9 +629,15 @@
    "reader": "",
    "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_37_alcott_64kb.mp3",
    "duration": 1452.06,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":287.44,"text_start":10.3,"href":"s38/p001.json"},
+    {"index":2,"start":287.44,"end":584.83,"text_start":287.7,"href":"s38/p002.json"},
+    {"index":3,"start":584.83,"end":876.32,"text_start":585.14,"href":"s38/p003.json"},
+    {"index":4,"start":876.32,"end":1171.63,"text_start":876.52,"href":"s38/p004.json"},
+    {"index":5,"start":1171.63,"end":1452.06,"text_start":1171.84,"href":"s38/p005.json"}
+   ]
   },
   {
    "id": "s39",
@@ -749,9 +760,13 @@
    "reader": "",
    "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_45_alcott_64kb.mp3",
    "duration": 840.25,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":275.7,"text_start":10.06,"href":"s46/p001.json"},
+    {"index":2,"start":275.7,"end":558.8,"text_start":275.98,"href":"s46/p002.json"},
+    {"index":3,"start":558.8,"end":840.25,"text_start":559.3,"href":"s46/p003.json"}
+   ]
   },
   {
    "id": "s47",
