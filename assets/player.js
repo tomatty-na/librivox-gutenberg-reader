@@ -453,13 +453,23 @@
   function renderCredit() {
     var c = $('credit');
     var w = S.work.work, sec = curSection();
-    c.textContent = '';
-    c.appendChild(document.createTextNode('音声: LibriVox（パブリックドメイン）、朗読 ' + (sec.reader || '?') + '。archive.org から直接再生しています。 '));
-    if (w.librivox_url) {
+    var who = C.creditReader(sec, S.work.sections);
+    function lvLink() {
       var a = el('a', null, 'LibriVox のページ');
       a.href = w.librivox_url; a.target = '_blank'; a.rel = 'noopener';
-      c.appendChild(a);
+      return a;
     }
+    c.textContent = '';
+    c.appendChild(document.createTextNode('音声: LibriVox（パブリックドメイン）'));
+    if (who && who.name) {
+      c.appendChild(document.createTextNode('、朗読 ' + who.name));
+    } else if (who) {
+      c.appendChild(document.createTextNode('、朗読 複数の朗読者（配役は '));
+      c.appendChild(w.librivox_url ? lvLink() : document.createTextNode('LibriVox のページ'));
+      c.appendChild(document.createTextNode('）'));
+    }
+    c.appendChild(document.createTextNode('。archive.org から直接再生しています。 '));
+    if (w.librivox_url) c.appendChild(lvLink());
     if (w.gutenberg_id) {
       c.appendChild(document.createTextNode(' ／ テキスト: '));
       var g = el('a', null, 'Project Gutenberg #' + w.gutenberg_id);

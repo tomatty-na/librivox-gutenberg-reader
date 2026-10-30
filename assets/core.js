@@ -600,6 +600,14 @@
     return out.join('');
   }
 
+  // クレジットの朗読者（D-154。render.py の credit_html と同じ規則）。セクションに朗読者がいれば { name }、
+  // 空で作品のほかのセクションにいれば { group: true }（ドラマティック版は s01 だけに全員の一覧がある）、どこにもいなければ null
+  function creditReader(sec, sections) {
+    if (sec.reader) return { name: sec.reader };
+    for (var i = 0; i < sections.length; i++) if (sections[i].reader) return { group: true };
+    return null;
+  }
+
   // ── 報告 URL ────────────────────────────────────────
   function truncate(s, max) {
     s = String(s == null ? '' : s).replace(/\s+/g, ' ').trim();
@@ -717,6 +725,7 @@
     findNearest: findNearest,
     pageForTime: pageForTime,
     formatTime: formatTime,
+    creditReader: creditReader,
     truncate: truncate,
     buildReportUrl: buildReportUrl,
     parseReportBody: parseReportBody,
