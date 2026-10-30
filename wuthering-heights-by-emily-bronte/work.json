@@ -341,9 +341,12 @@
    "reader": "Lady Maria",
    "audio_url": "https://archive.org/download/wuthering_heights_0801_librivox/wutheringheights_20_bronte_64kb.mp3",
    "duration": 740.49,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":378.66,"text_start":19.46,"href":"s20/p001.json"},
+    {"index":2,"start":378.66,"end":740.49,"text_start":379.16,"href":"s20/p002.json"}
+   ]
   },
   {
    "id": "s21",
