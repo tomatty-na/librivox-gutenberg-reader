@@ -123,6 +123,7 @@
     var words = [];
     var phrases = [];
     var sentences = [];
+    var rows = [];
     var paras = page.paragraphs || [];
 
     for (var pi = 0; pi < paras.length; pi++) {
@@ -141,6 +142,15 @@
         while (ge < words.length - 1 && para.words[ge - base].j) ge++;
         for (var gk = gj; gk <= ge; gk++) { words[gk].g0 = gj; words[gk].g1 = ge + 1; }
         gj = ge + 1;
+      }
+      // 表（para.table。D-147）の行：<pre> の表は lines の 1 行、HTML の表の行は断片全体
+      if (para.table && para.words.length) {
+        var rs = [0];
+        if (para.table === 'pre') {
+          var lns = para.lines || [];
+          for (var ln = 0; ln < lns.length; ln++) if (lns[ln].w > rs[rs.length - 1] && lns[ln].w < para.words.length) rs.push(lns[ln].w);
+        }
+        for (var r = 0; r < rs.length; r++) rows.push([base + rs[r], base + (r + 1 < rs.length ? rs[r + 1] : para.words.length)]);
       }
       var phs = para.phrases || [];
       for (var cj = 0; cj < phs.length; cj++) {
@@ -186,6 +196,22 @@
         if (phrases[q].t0 === null) continue;
         if (S.t0 === null || phrases[q].t0 < S.t0) S.t0 = phrases[q].t0;
         if (S.t1 === null || phrases[q].t1 > S.t1) S.t1 = phrases[q].t1;
+      }
+    }
+
+    // 表の行（D-147）：行のどれかの語に時刻があれば、行の最初の時刻から最後の時刻まで、行の語を全部光らせる
+    // （時刻の無い語も含める）。語の時刻を行の時刻に置き換え、組（g0〜g1）を行にする
+    for (var ri = 0; ri < rows.length; ri++) {
+      var r0 = rows[ri][0], r1 = rows[ri][1], ra = null, rb = null;
+      for (var rk = r0; rk < r1; rk++) {
+        if (words[rk].t0 === null) continue;
+        if (ra === null || words[rk].t0 < ra) ra = words[rk].t0;
+        if (rb === null || words[rk].t1 > rb) rb = words[rk].t1;
+      }
+      if (ra === null) continue;
+      for (var rw = r0; rw < r1; rw++) {
+        if (words[rw].ci >= 0 && phrases[words[rw].ci].none) continue;   // [[highlight]] の none は光らせないまま
+        words[rw].t0 = ra; words[rw].t1 = rb; words[rw].g0 = r0; words[rw].g1 = r1; words[rw].row = true;
       }
     }
 
@@ -457,11 +483,13 @@
       if (para.break_before && !para.cont_prev) out.push('<hr class="brk brk-' + escAttr(para.break_before) + '">');
       if (para.cont_prev) out.push('<div class="cont-note">' + NOTE_CONT_PREV + '</div>');
       var tag = kind === 'heading' ? 'h2' : 'p';
+      // 表（D-147）は tb と tb-<row|pre>。<pre> の表は等幅で、列の空白（語の sp、lead_sp）をそのまま出す
       var cls = 'para k-' + kind + (para.role ? ' r-' + para.role : '') + (para.align ? ' a-' + para.align : '') +
+        (para.table ? ' tb tb-' + para.table : '') +
         (para.cont_prev ? ' cont-prev' : '') +
         (para.cont_next ? ' cont-next' : '');
       out.push('<' + tag + ' class="' + escAttr(cls) + '" id="' + escAttr(para.id + (para.w_off ? '-' + para.w_off : '')) + '">');
-      out.push(textHtml(para.lead));
+      out.push(textHtml(para.lead_sp !== undefined ? para.lead_sp : para.lead));
 
       var phs = para.phrases || [];
       var phStart = {};
@@ -492,7 +520,7 @@
           if (cur === phs.length - 1 || phs[cur + 1].s !== phs[cur].s) out.push('</span>');
           cur = -1;
         }
-        out.push(textHtml(w.s));
+        out.push(textHtml(w.sp !== undefined ? w.sp : w.s));
         pushDark(gw - 1);
       }
       gc += phs.length;

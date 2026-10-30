@@ -385,9 +385,13 @@
    "reader": "Peter Yearsley",
    "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_25_london_64kb.mp3",
    "duration": 873.18,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":295.19,"text_start":10.84,"href":"s25/p001.json"},
+    {"index":2,"start":295.19,"end":606.148,"text_start":295.5,"href":"s25/p002.json"},
+    {"index":3,"start":606.148,"end":873.18,"text_start":606.36,"href":"s25/p003.json"}
+   ]
   },
   {
    "id": "s26",

@@ -253,6 +253,15 @@ a.pager-btn[aria-disabled="true"] { opacity: 0.35; cursor: default; pointer-even
 .para.a-right { text-align: right; padding-left: 0; }
 .para.a-center { text-align: center; padding-left: 0; }
 .para.k-table_row { margin-bottom: 0.3em; padding-left: 1em; }
+/* <pre> の表（D-147）。等幅で列の空白を保つ。画面より広い表は、その表の中だけ横に動かせる */
+.para.tb-pre {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+  font-size: 0.86em;
+  line-height: 1.6;
+  white-space: pre;
+  overflow-x: auto;
+  padding: 0.2em 0 0.4em 1em;
+}
 .ind { display: inline-block; }
 hr.brk { border: 0; border-top: 1px solid var(--line); width: 30%; margin: 1.5em auto; }
 .st-i { font-style: italic; }

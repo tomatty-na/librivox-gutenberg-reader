@@ -870,7 +870,7 @@
     if (S.settings.debug && hit.wi >= 0) {
       var w = S.tl.words[hit.wi], para = S.page.paragraphs[w.pi];
       toast(C.wordId(para, w.li) + '  ' + (w.t0 === null ? '時刻なし' : w.t0.toFixed(2) + '–' + w.t1.toFixed(2) + (w.interp ? '（補間）' : '')) +
-        (w.hlp ? '  句単位' : '') + (S.settings.offset ? '  補正 ' + fmtOffset(S.settings.offset) : ''));
+        (w.hlp ? '  句単位' : '') + (w.row ? '  表の行' : '') + (S.settings.offset ? '  補正 ' + fmtOffset(S.settings.offset) : ''));
     }
     startFrom(hit, S.settings.mode);
   }
