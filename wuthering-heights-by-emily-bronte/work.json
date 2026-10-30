@@ -212,9 +212,15 @@
    "reader": "hosmer_angel",
    "audio_url": "https://archive.org/download/wuthering_heights_0801_librivox/wutheringheights_13_bronte_64kb.mp3",
    "duration": 1433.48,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":285.68,"text_start":20.78,"href":"s13/p001.json"},
+    {"index":2,"start":285.68,"end":577.24,"text_start":286.18,"href":"s13/p002.json"},
+    {"index":3,"start":577.24,"end":861.36,"text_start":577.74,"href":"s13/p003.json"},
+    {"index":4,"start":861.36,"end":1153.76,"text_start":861.86,"href":"s13/p004.json"},
+    {"index":5,"start":1153.76,"end":1433.48,"text_start":1154.26,"href":"s13/p005.json"}
+   ]
   },
   {
    "id": "s14",
@@ -300,9 +306,12 @@
    "reader": "Lord Peter",
    "audio_url": "https://archive.org/download/wuthering_heights_0801_librivox/wutheringheights_19_bronte_64kb.mp3",
    "duration": 531.6,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":265.6,"text_start":19.78,"href":"s19/p001.json"},
+    {"index":2,"start":265.6,"end":531.6,"text_start":266.1,"href":"s19/p002.json"}
+   ]
   },
   {
    "id": "s20",
@@ -371,9 +380,15 @@
    "reader": "Lady Maria",
    "audio_url": "https://archive.org/download/wuthering_heights_0801_librivox/wutheringheights_24_bronte_64kb.mp3",
    "duration": 1515.92,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":306.26,"text_start":25.36,"href":"s24/p001.json"},
+    {"index":2,"start":306.26,"end":622.18,"text_start":306.76,"href":"s24/p002.json"},
+    {"index":3,"start":622.18,"end":929.88,"text_start":622.68,"href":"s24/p003.json"},
+    {"index":4,"start":929.88,"end":1244.64,"text_start":930.38,"href":"s24/p004.json"},
+    {"index":5,"start":1244.64,"end":1515.92,"text_start":1245.14,"href":"s24/p005.json"}
+   ]
   },
   {
    "id": "s25",
