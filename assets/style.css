@@ -253,6 +253,22 @@ a.pager-btn[aria-disabled="true"] { opacity: 0.35; cursor: default; pointer-even
 .para.a-right { text-align: right; padding-left: 0; }
 .para.a-center { text-align: center; padding-left: 0; }
 .para.k-table_row { margin-bottom: 0.3em; padding-left: 1em; }
+/* HTML の表の行（D-149）。セルを列に揃える。段落・文は箱を作らず、セルがグリッドの升になる */
+.tbr {
+  display: grid;
+  grid-template-columns: repeat(var(--cols, 2), auto);
+  justify-content: start;
+  column-gap: 1.4em;
+  row-gap: 0.3em;
+  margin: 0.6em 0 1em;
+  padding-left: 1em;
+  overflow-x: auto;
+}
+.tbr > .para, .tbr .sn { display: contents; }
+.tbr .cell { display: block; }
+.tbr .cell.a-right { text-align: right; }
+.tbr .cell.a-center { text-align: center; }
+.mode-sentence .tbr .sn.on > .cell { background: var(--hl-phrase); box-shadow: 0 0 0 2px var(--hl-phrase); }
 /* <pre> の表（D-147）。等幅で列の空白を保つ。画面より広い表は、その表の中だけ横に動かせる */
 .para.tb-pre {
   font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;

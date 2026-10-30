@@ -449,6 +449,45 @@
     return '<span class="' + cls + '" data-dk="' + k + '" role="img" aria-label="' + label + '" title="' + label + '"></span>';
   }
 
+  // HTML の表の行（para.row。D-149）のセル。断片（ページで切れた行）は null（セルに分けずに出す）。render.py の row_layout と同じ
+  function rowLayout(para) {
+    var row = para.row;
+    if (!row || para.cont_prev || para.cont_next) return null;
+    var c = row.c, n = para.words.length;
+    var starts = {}, ends = {}, after = {};
+    var last = -1;
+    for (var col = 0; col < c.length; col++) {
+      if (c[col] === null) { (after[last] = after[last] || []).push(col); continue; }
+      starts[c[col]] = col;
+      var nx = n;
+      for (var k = col + 1; k < c.length; k++) if (c[k] !== null) { nx = c[k]; break; }
+      last = nx - 1;
+      ends[last] = col;
+    }
+    return { starts: starts, ends: ends, after: after };
+  }
+
+  // 区切りの末尾から、後ろの語の無いセルの文字（くり返し記号など）を除いたもの
+  function rowSep(s, row, cols) {
+    var es = row.e || [];
+    for (var i = cols.length - 1; i >= 0; i--) {
+      var t = es[cols[i]];
+      if (t && s.length >= t.length && s.slice(s.length - t.length) === t) s = s.slice(0, s.length - t.length);
+    }
+    return s;
+  }
+
+  function cellOpen(row, col) {
+    var al = (row.a || [])[col];
+    return '<span class="cell' + (al ? ' a-' + escAttr(al) : '') + '">';
+  }
+
+  function emptyCells(row, cols) {
+    var out = [];
+    for (var i = 0; i < (cols || []).length; i++) out.push(cellOpen(row, cols[i]) + textHtml((row.e || [])[cols[i]]) + '</span>');
+    return out.join('');
+  }
+
   function renderTranscript(page) {
     var out = [];
     var nts = page.non_text || [];
@@ -474,6 +513,9 @@
       if (st0 !== null) next = st0;
       starts[b] = next;
     }
+    function rowsOf(i) {
+      return i >= 0 && i < paras.length && rowLayout(paras[i]) ? paras[i].row.t : null;
+    }
     function tableOf(i) {
       return i >= 0 && i < paras.length && paras[i].cell ? paras[i].cell.t : null;
     }
@@ -483,6 +525,9 @@
       var cell = para.cell;
       // 原本の表（Robinson の Evil / Good）は、セルを行の順に並べたグリッドにする（D-117）
       if (cell && cell.t !== tableOf(pi - 1)) out.push('<div class="tbl" style="--cols:' + Math.floor(cell.n) + '">');
+      // HTML の表の行は、セルを列に揃えたグリッドにする（段落と文は display: contents。D-149）
+      var rl = rowLayout(para);
+      if (rl && para.row.t !== rowsOf(pi - 1)) out.push('<div class="tbr" style="--cols:' + para.row.c.length + '">');
       var kind = para.kind || 'para';
       if (para.break_before && !para.cont_prev) out.push('<hr class="brk brk-' + escAttr(para.break_before) + '">');
       if (para.cont_prev) out.push('<div class="cont-note">' + NOTE_CONT_PREV + '</div>');
@@ -493,7 +538,10 @@
         (para.cont_prev ? ' cont-prev' : '') +
         (para.cont_next ? ' cont-next' : '');
       out.push('<' + tag + ' class="' + escAttr(cls) + '" id="' + escAttr(para.id + (para.w_off ? '-' + para.w_off : '')) + '">');
-      out.push(textHtml(para.lead_sp !== undefined ? para.lead_sp : para.lead));
+      // 行の頭の文字（原本の &nbsp; など）は最初のセルの中に出す（セルの外に置くとグリッドの升を 1 つ取る）
+      var rowLead = rl ? rowSep(para.lead || '', para.row, rl.after[-1] || []) : '';
+      if (rl) out.push(emptyCells(para.row, rl.after[-1]));
+      else out.push(textHtml(para.lead_sp !== undefined ? para.lead_sp : para.lead));
 
       var phs = para.phrases || [];
       var phStart = {};
@@ -511,6 +559,7 @@
           cur = phStart[li];
           var ph = phs[cur];
           if (cur === 0 || phs[cur - 1].s !== ph.s) { out.push('<span class="sn" data-s="' + gs + '">'); gs++; }
+          if (rl && rl.starts[li] !== undefined) out.push(cellOpen(para.row, rl.starts[li]) + (li === 0 ? textHtml(rowLead) : ''));
           out.push('<span class="ph' + (ph.hl === 'phrase' ? ' hlp' : '') + '" data-c="' + (gc + cur) + '">');
         }
         if (indent[li] !== undefined) out.push('<span class="ind" style="width:' + fmtNum(indent[li]) + 'em"></span>');
@@ -519,18 +568,26 @@
           wordInner(w.x, off, marks, whole) + '</span>');
         off += w.x.length + w.s.length;
         gw++;
+        var sep = w.sp !== undefined ? w.sp : w.s;
         if (cur >= 0 && li === phs[cur].w[1] - 1) {
           out.push('</span>');
+          if (rl && rl.ends[li] !== undefined) {
+            // セルの終わり：区切りはセルの中に、続く語の無いセル（「“」など）はその後に
+            var cols = rl.after[li] || [];
+            out.push(textHtml(rowSep(sep, para.row, cols)) + '</span>' + emptyCells(para.row, cols));
+            sep = '';
+          }
           if (cur === phs.length - 1 || phs[cur + 1].s !== phs[cur].s) out.push('</span>');
           cur = -1;
         }
-        out.push(textHtml(w.sp !== undefined ? w.sp : w.s));
+        out.push(textHtml(sep));
         pushDark(gw - 1);
       }
       gc += phs.length;
       out.push('</' + tag + '>');
       if (para.cont_next) out.push('<div class="cont-note">' + NOTE_CONT_NEXT + '</div>');
       if (cell && cell.t !== tableOf(pi + 1)) out.push('</div>');
+      if (rl && para.row.t !== rowsOf(pi + 1)) out.push('</div>');
     }
     flush(null);
     return out.join('');
