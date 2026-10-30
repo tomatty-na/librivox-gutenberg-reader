@@ -20,7 +20,7 @@
     "dod": "1916"
    }
   ],
-  "updated": "2026-10-29"
+  "updated": "2026-10-30"
  },
  "sections": [
   {
@@ -33,7 +33,7 @@
    "page_count": 4,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":245.0,"text_start":77.4,"href":"s01/p001.json"},
+    {"index":1,"start":0.0,"end":245.0,"text_start":20.14,"href":"s01/p001.json"},
     {"index":2,"start":245.0,"end":557.87,"text_start":245.5,"href":"s01/p002.json"},
     {"index":3,"start":557.87,"end":871.44,"text_start":558.16,"href":"s01/p003.json"},
     {"index":4,"start":871.44,"end":1206.79,"text_start":871.94,"href":"s01/p004.json"}
@@ -73,9 +73,13 @@
    "reader": "Peter Yearsley",
    "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_04_london_64kb.mp3",
    "duration": 949.2,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":313.74,"text_start":11.46,"href":"s04/p001.json"},
+    {"index":2,"start":313.74,"end":620.03,"text_start":314.1,"href":"s04/p002.json"},
+    {"index":3,"start":620.03,"end":949.2,"text_start":620.38,"href":"s04/p003.json"}
+   ]
   },
   {
    "id": "s05",
@@ -248,9 +252,12 @@
    "reader": "Peter Yearsley",
    "audio_url": "https://archive.org/download/people_of_abyss_pw_librivox/peopleofabyss_16_london_64kb.mp3",
    "duration": 563.71,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":277.1,"text_start":11.14,"href":"s16/p001.json"},
+    {"index":2,"start":277.1,"end":563.71,"text_start":277.6,"href":"s16/p002.json"}
+   ]
   },
   {
    "id": "s17",
