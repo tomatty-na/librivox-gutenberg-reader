@@ -150,7 +150,10 @@
           var lns = para.lines || [];
           for (var ln = 0; ln < lns.length; ln++) if (lns[ln].w > rs[rs.length - 1] && lns[ln].w < para.words.length) rs.push(lns[ln].w);
         }
-        for (var r = 0; r < rs.length; r++) rows.push([base + rs[r], base + (r + 1 < rs.length ? rs[r + 1] : para.words.length)]);
+        // rt0：行の光り始め（行の名を補って読む付け足しの始まり。build 段が付ける。D-148）
+        for (var r = 0; r < rs.length; r++) {
+          rows.push([base + rs[r], base + (r + 1 < rs.length ? rs[r + 1] : para.words.length), num(para.words[rs[r]].rt0)]);
+        }
       }
       var phs = para.phrases || [];
       for (var cj = 0; cj < phs.length; cj++) {
@@ -209,6 +212,7 @@
         if (rb === null || words[rk].t1 > rb) rb = words[rk].t1;
       }
       if (ra === null) continue;
+      if (rows[ri][2] !== null && rows[ri][2] < ra) ra = rows[ri][2];
       for (var rw = r0; rw < r1; rw++) {
         if (words[rw].none) continue;   // [[highlight]] の none は光らせないまま（player も組の中で飛ばす）
         words[rw].t0 = ra; words[rw].t1 = rb; words[rw].g0 = r0; words[rw].g1 = r1; words[rw].row = true;
