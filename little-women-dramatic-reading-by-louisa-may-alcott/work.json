@@ -157,7 +157,7 @@
    "page_count": 5,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":299.75,"text_start":13.24,"href":"s09/p001.json"},
+    {"index":1,"start":0.0,"end":299.75,"text_start":9.52,"href":"s09/p001.json"},
     {"index":2,"start":299.75,"end":584.18,"text_start":300.22,"href":"s09/p002.json"},
     {"index":3,"start":584.18,"end":874.85,"text_start":584.68,"href":"s09/p003.json"},
     {"index":4,"start":874.85,"end":1162.47,"text_start":875.26,"href":"s09/p004.json"},
@@ -193,7 +193,7 @@
    "page_count": 4,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":304.4,"text_start":14.52,"href":"s11/p001.json"},
+    {"index":1,"start":0.0,"end":304.4,"text_start":9.53,"href":"s11/p001.json"},
     {"index":2,"start":304.4,"end":613.96,"text_start":304.9,"href":"s11/p002.json"},
     {"index":3,"start":613.96,"end":940.56,"text_start":614.46,"href":"s11/p003.json"},
     {"index":4,"start":940.56,"end":1268.23,"text_start":940.78,"href":"s11/p004.json"}
@@ -370,7 +370,7 @@
    "page_count": 5,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":309.21,"text_start":16.22,"href":"s22/p001.json"},
+    {"index":1,"start":0.0,"end":309.21,"text_start":9.67,"href":"s22/p001.json"},
     {"index":2,"start":309.21,"end":601.87,"text_start":309.54,"href":"s22/p002.json"},
     {"index":3,"start":601.87,"end":900.12,"text_start":602.32,"href":"s22/p003.json"},
     {"index":4,"start":900.12,"end":1204.36,"text_start":900.46,"href":"s22/p004.json"},
