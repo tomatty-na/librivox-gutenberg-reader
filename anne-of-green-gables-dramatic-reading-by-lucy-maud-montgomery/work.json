@@ -20,7 +20,7 @@
     "dod": "1942"
    }
   ],
-  "updated": "2026-10-29"
+  "updated": "2026-10-30"
  },
  "sections": [
   {
@@ -41,9 +41,13 @@
    "reader": "",
    "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_01_montgomery_64kb.mp3",
    "duration": 920.94,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":308.33,"text_start":18.64,"href":"s02/p001.json"},
+    {"index":2,"start":308.33,"end":585.79,"text_start":308.54,"href":"s02/p002.json"},
+    {"index":3,"start":585.79,"end":920.94,"text_start":586.06,"href":"s02/p003.json"}
+   ]
   },
   {
    "id": "s03",
@@ -111,9 +115,12 @@
    "reader": "",
    "audio_url": "https://archive.org/download/anneofgreengables_1102_librivox/anneofgreengables_06_montgomery_64kb.mp3",
    "duration": 660.55,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":323.91,"text_start":18.36,"href":"s07/p001.json"},
+    {"index":2,"start":323.91,"end":660.55,"text_start":324.24,"href":"s07/p002.json"}
+   ]
   },
   {
    "id": "s08",
