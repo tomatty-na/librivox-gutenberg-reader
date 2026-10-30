@@ -384,9 +384,13 @@
    "reader": "",
    "audio_url": "https://archive.org/download/little_women_1101_librivox/littlewomen_22_alcott_64kb.mp3",
    "duration": 938.05,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":306.98,"text_start":8.88,"href":"s23/p001.json"},
+    {"index":2,"start":306.98,"end":628.22,"text_start":307.48,"href":"s23/p002.json"},
+    {"index":3,"start":628.22,"end":938.05,"text_start":628.66,"href":"s23/p003.json"}
+   ]
   },
   {
    "id": "s24",
