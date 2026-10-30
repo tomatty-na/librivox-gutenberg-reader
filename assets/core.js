@@ -144,15 +144,17 @@
         gj = ge + 1;
       }
       // 表（para.table。D-147）の行：<pre> の表は lines の 1 行、HTML の表の行は断片全体
-      if (para.table && para.words.length) {
+      // in_order：順どおりに読まれた表は行でまとめず、語単位で光らせる（D-150）
+      if (para.table && !para.in_order && para.words.length) {
         var rs = [0];
         if (para.table === 'pre') {
           var lns = para.lines || [];
           for (var ln = 0; ln < lns.length; ln++) if (lns[ln].w > rs[rs.length - 1] && lns[ln].w < para.words.length) rs.push(lns[ln].w);
         }
-        // rt0：行の光り始め（行の名を補って読む付け足しの始まり。build 段が付ける。D-148）
+        // rt0：行の光り始め（行の名を補って読む付け足しの始まり。D-148）、rt1：行の光り終わり（後ろの付け足しの終わり。D-150）
         for (var r = 0; r < rs.length; r++) {
-          rows.push([base + rs[r], base + (r + 1 < rs.length ? rs[r + 1] : para.words.length), num(para.words[rs[r]].rt0)]);
+          var re = r + 1 < rs.length ? rs[r + 1] : para.words.length;
+          rows.push([base + rs[r], base + re, num(para.words[rs[r]].rt0), num(para.words[re - 1].rt1)]);
         }
       }
       var phs = para.phrases || [];
@@ -203,16 +205,21 @@
     }
 
     // 表の行（D-147）：行のどれかの語に時刻があれば、行の最初の時刻から最後の時刻まで、行の語を全部光らせる
-    // （時刻の無い語も含める）。語の時刻を行の時刻に置き換え、組（g0〜g1）を行にする
+    // （時刻の無い語も含める）。語の時刻を行の時刻に置き換え、組（g0〜g1）を行にする。
+    // 行の時刻は align の時刻のある語だけから取り、1 語も無い行（読まれなかった続きの行など）は補間でも光らせない（D-150）
     for (var ri = 0; ri < rows.length; ri++) {
       var r0 = rows[ri][0], r1 = rows[ri][1], ra = null, rb = null;
       for (var rk = r0; rk < r1; rk++) {
-        if (words[rk].t0 === null) continue;
+        if (words[rk].t0 === null || !words[rk].aligned) continue;
         if (ra === null || words[rk].t0 < ra) ra = words[rk].t0;
         if (rb === null || words[rk].t1 > rb) rb = words[rk].t1;
       }
-      if (ra === null) continue;
+      if (ra === null) {
+        for (var rn = r0; rn < r1; rn++) { words[rn].t0 = words[rn].t1 = null; }
+        continue;
+      }
       if (rows[ri][2] !== null && rows[ri][2] < ra) ra = rows[ri][2];
+      if (rows[ri][3] !== null && rows[ri][3] > rb) rb = rows[ri][3];
       for (var rw = r0; rw < r1; rw++) {
         if (words[rw].none) continue;   // [[highlight]] の none は光らせないまま（player も組の中で飛ばす）
         words[rw].t0 = ra; words[rw].t1 = rb; words[rw].g0 = r0; words[rw].g1 = r1; words[rw].row = true;
