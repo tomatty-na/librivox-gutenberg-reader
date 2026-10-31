@@ -1,0 +1,604 @@
+{
+ "format": "librivox-gutenberg/work",
+ "version": "1.0",
+ "work": {
+  "slug": "the-arabian-nights-entertainments-volume-01-by-anonymous",
+  "title": "The Arabian Nights Entertainments, Volume 01",
+  "author": "Anonymous",
+  "gutenberg_id": 5664,
+  "librivox_url": "https://librivox.org/the-arabian-nights-entertainments-volume-01-by-anonymous/",
+  "language": "en",
+  "category": "fiction",
+  "authors": [
+   {
+    "name": "Anonymous",
+    "slug": "anonymous",
+    "id": 19,
+    "last_name": "Anonymous"
+   }
+  ],
+  "updated": "2026-10-31"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "index": 1,
+   "title": "The Publishers' Preface",
+   "reader": "Tim Gregory",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_00_anonymous_64kb.mp3",
+   "duration": 174.8,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":174.8,"text_start":25.32,"href":"s01/p001.json"}
+   ]
+  },
+  {
+   "id": "s02",
+   "index": 2,
+   "title": "The Arabian Nights Entertainments",
+   "reader": "Lizzie Driver",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_01_anonymous_64kb.mp3",
+   "duration": 2182.54,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":354.84,"text_start":28.44,"href":"s02/p001.json"},
+    {"index":2,"start":354.84,"end":646.94,"text_start":355.34,"href":"s02/p002.json"},
+    {"index":3,"start":646.94,"end":960.44,"text_start":647.44,"href":"s02/p003.json"},
+    {"index":4,"start":960.44,"end":1280.54,"text_start":960.94,"href":"s02/p004.json"},
+    {"index":5,"start":1280.54,"end":1576.76,"text_start":1281.04,"href":"s02/p005.json"},
+    {"index":6,"start":1576.76,"end":1886.28,"text_start":1577.26,"href":"s02/p006.json"},
+    {"index":7,"start":1886.28,"end":2182.54,"text_start":1886.78,"href":"s02/p007.json"}
+   ]
+  },
+  {
+   "id": "s03",
+   "index": 3,
+   "title": "The Ass, the Ox, and the Labourer",
+   "reader": "Paul Siegel",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_02_anonymous_64kb.mp3",
+   "duration": 994.31,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":312.78,"text_start":21.5,"href":"s03/p001.json"},
+    {"index":2,"start":312.78,"end":661.78,"text_start":313.28,"href":"s03/p002.json"},
+    {"index":3,"start":661.78,"end":994.31,"text_start":662.28,"href":"s03/p003.json"}
+   ]
+  },
+  {
+   "id": "s04",
+   "index": 4,
+   "title": "<b>The Merchant and the Genie</b>",
+   "reader": "Tim Gregory",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_03_anonymous_64kb.mp3",
+   "duration": 872.71,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":273.22,"text_start":27.84,"href":"s04/p001.json"},
+    {"index":2,"start":273.22,"end":558.82,"text_start":273.72,"href":"s04/p002.json"},
+    {"index":3,"start":558.82,"end":872.71,"text_start":559.32,"href":"s04/p003.json"}
+   ]
+  },
+  {
+   "id": "s05",
+   "index": 5,
+   "title": "The Story of the First Old Man and the Hind",
+   "reader": "Tim Gregory",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_04_anonymous_64kb.mp3",
+   "duration": 767.88,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":273.32,"text_start":36.94,"href":"s05/p001.json"},
+    {"index":2,"start":273.32,"end":511.36,"text_start":273.82,"href":"s05/p002.json"},
+    {"index":3,"start":511.36,"end":767.88,"text_start":511.86,"href":"s05/p003.json"}
+   ]
+  },
+  {
+   "id": "s06",
+   "index": 6,
+   "title": "The Story of the Second old Man and the Two Black Dogs",
+   "reader": "Ted Nugent",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_05_anonymous_64kb.mp3",
+   "duration": 744.65,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":411.04,"text_start":31.02,"href":"s06/p001.json"},
+    {"index":2,"start":411.04,"end":744.65,"text_start":411.54,"href":"s06/p002.json"}
+   ]
+  },
+  {
+   "id": "s07",
+   "index": 7,
+   "title": "<b>The Story of the Fisherman</b>",
+   "reader": "Ted Nugent",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_06_anonymous_64kb.mp3",
+   "duration": 1326.5,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":365.0,"text_start":33.98,"href":"s07/p001.json"},
+    {"index":2,"start":365.0,"end":685.88,"text_start":365.5,"href":"s07/p002.json"},
+    {"index":3,"start":685.88,"end":979.96,"text_start":686.38,"href":"s07/p003.json"},
+    {"index":4,"start":979.96,"end":1326.5,"text_start":980.46,"href":"s07/p004.json"}
+   ]
+  },
+  {
+   "id": "s08",
+   "index": 8,
+   "title": "The Story of the Grecian King and the Physician Douban",
+   "reader": "Tim Gregory",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_07_anonymous_64kb.mp3",
+   "duration": 492.82,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":265.42,"text_start":29.02,"href":"s08/p001.json"},
+    {"index":2,"start":265.42,"end":492.82,"text_start":265.92,"href":"s08/p002.json"}
+   ]
+  },
+  {
+   "id": "s09",
+   "index": 9,
+   "title": "The Story of the Husband and the Parrot",
+   "reader": "Gesine",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_08_anonymous_64kb.mp3",
+   "duration": 307.09,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":307.09,"text_start":33.12,"href":"s09/p001.json"}
+   ]
+  },
+  {
+   "id": "s10",
+   "index": 10,
+   "title": "The Story of the Vizier that was Punished",
+   "reader": "chris tierney",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_09_anonymous_64kb.mp3",
+   "duration": 1848.72,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":318.68,"text_start":28.58,"href":"s10/p001.json"},
+    {"index":2,"start":318.68,"end":644.5,"text_start":319.18,"href":"s10/p002.json"},
+    {"index":3,"start":644.5,"end":956.12,"text_start":644.98,"href":"s10/p003.json"},
+    {"index":4,"start":956.12,"end":1264.6,"text_start":956.62,"href":"s10/p004.json"},
+    {"index":5,"start":1264.6,"end":1547.12,"text_start":1265.1,"href":"s10/p005.json"},
+    {"index":6,"start":1547.12,"end":1848.72,"text_start":1547.62,"href":"s10/p006.json"}
+   ]
+  },
+  {
+   "id": "s11",
+   "index": 11,
+   "title": "The History of the Young King of the Black Isles",
+   "reader": "Lucy Lo Faro",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_10_anonymous_64kb.mp3",
+   "duration": 1825.72,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":329.19,"text_start":34.02,"href":"s11/p001.json"},
+    {"index":2,"start":329.19,"end":642.26,"text_start":329.68,"href":"s11/p002.json"},
+    {"index":3,"start":642.26,"end":951.86,"text_start":642.76,"href":"s11/p003.json"},
+    {"index":4,"start":951.86,"end":1243.74,"text_start":952.36,"href":"s11/p004.json"},
+    {"index":5,"start":1243.74,"end":1529.38,"text_start":1244.24,"href":"s11/p005.json"},
+    {"index":6,"start":1529.38,"end":1825.72,"text_start":1529.88,"href":"s11/p006.json"}
+   ]
+  },
+  {
+   "id": "s12",
+   "index": 12,
+   "title": "<b>Story of the Three Calenders, Sons of Sultans; and of the Five Ladies of Bagdad</b>",
+   "reader": "John Pruden",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_11_anonymous_64kb.mp3",
+   "duration": 2417.48,
+   "page_count": 8,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":301.16,"text_start":31.02,"href":"s12/p001.json"},
+    {"index":2,"start":301.16,"end":594.16,"text_start":301.62,"href":"s12/p002.json"},
+    {"index":3,"start":594.16,"end":894.48,"text_start":594.66,"href":"s12/p003.json"},
+    {"index":4,"start":894.48,"end":1193.38,"text_start":894.98,"href":"s12/p004.json"},
+    {"index":5,"start":1193.38,"end":1496.3,"text_start":1193.84,"href":"s12/p005.json"},
+    {"index":6,"start":1496.3,"end":1778.85,"text_start":1496.68,"href":"s12/p006.json"},
+    {"index":7,"start":1778.85,"end":2091.8,"text_start":1779.22,"href":"s12/p007.json"},
+    {"index":8,"start":2091.8,"end":2417.48,"text_start":2092.24,"href":"s12/p008.json"}
+   ]
+  },
+  {
+   "id": "s13",
+   "index": 13,
+   "title": "The History of the First Calender",
+   "reader": "John Pruden",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_12_anonymous_64kb.mp3",
+   "duration": 1139.98,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":261.68,"text_start":30.5,"href":"s13/p001.json"},
+    {"index":2,"start":261.68,"end":559.4,"text_start":262.18,"href":"s13/p002.json"},
+    {"index":3,"start":559.4,"end":850.05,"text_start":559.9,"href":"s13/p003.json"},
+    {"index":4,"start":850.05,"end":1139.98,"text_start":850.52,"href":"s13/p004.json"}
+   ]
+  },
+  {
+   "id": "s14",
+   "index": 14,
+   "title": "The Story of the Second Calender",
+   "reader": "Reynard T. Fox",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_13_anonymous_64kb.mp3",
+   "duration": 1719.02,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":291.72,"text_start":37.28,"href":"s14/p001.json"},
+    {"index":2,"start":291.72,"end":559.0,"text_start":292.22,"href":"s14/p002.json"},
+    {"index":3,"start":559.0,"end":840.86,"text_start":559.5,"href":"s14/p003.json"},
+    {"index":4,"start":840.86,"end":1121.72,"text_start":841.36,"href":"s14/p004.json"},
+    {"index":5,"start":1121.72,"end":1389.2,"text_start":1122.22,"href":"s14/p005.json"},
+    {"index":6,"start":1389.2,"end":1719.02,"text_start":1389.7,"href":"s14/p006.json"}
+   ]
+  },
+  {
+   "id": "s15",
+   "index": 15,
+   "title": "The Story of the Envious Man, and of him that he Envied",
+   "reader": "marevalo",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_14_anonymous_64kb.mp3",
+   "duration": 2071.56,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":265.98,"text_start":32.6,"href":"s15/p001.json"},
+    {"index":2,"start":265.98,"end":566.14,"text_start":266.48,"href":"s15/p002.json"},
+    {"index":3,"start":566.14,"end":868.68,"text_start":566.64,"href":"s15/p003.json"},
+    {"index":4,"start":868.68,"end":1169.9,"text_start":869.18,"href":"s15/p004.json"},
+    {"index":5,"start":1169.9,"end":1448.14,"text_start":1170.4,"href":"s15/p005.json"},
+    {"index":6,"start":1448.14,"end":1775.91,"text_start":1448.6,"href":"s15/p006.json"},
+    {"index":7,"start":1775.91,"end":2071.56,"text_start":1776.2,"href":"s15/p007.json"}
+   ]
+  },
+  {
+   "id": "s16",
+   "index": 16,
+   "title": "The History of the Third Calender, part a",
+   "reader": "Sandra Zera",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_15_anonymous_64kb.mp3",
+   "duration": 1820.68,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":275.84,"text_start":27.78,"href":"s16/p001.json"},
+    {"index":2,"start":275.84,"end":572.04,"text_start":276.34,"href":"s16/p002.json"},
+    {"index":3,"start":572.04,"end":890.31,"text_start":572.54,"href":"s16/p003.json"},
+    {"index":4,"start":890.31,"end":1189.82,"text_start":890.8,"href":"s16/p004.json"},
+    {"index":5,"start":1189.82,"end":1513.1,"text_start":1190.32,"href":"s16/p005.json"},
+    {"index":6,"start":1513.1,"end":1820.68,"text_start":1513.6,"href":"s16/p006.json"}
+   ]
+  },
+  {
+   "id": "s17",
+   "index": 17,
+   "title": "The History of the Third Calender, part b",
+   "reader": "Lucy Lo Faro",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_16_anonymous_64kb.mp3",
+   "duration": 2057.46,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":307.18,"text_start":33.42,"href":"s17/p001.json"},
+    {"index":2,"start":307.18,"end":586.68,"text_start":307.68,"href":"s17/p002.json"},
+    {"index":3,"start":586.68,"end":886.64,"text_start":587.18,"href":"s17/p003.json"},
+    {"index":4,"start":886.64,"end":1184.38,"text_start":887.14,"href":"s17/p004.json"},
+    {"index":5,"start":1184.38,"end":1462.16,"text_start":1184.88,"href":"s17/p005.json"},
+    {"index":6,"start":1462.16,"end":1753.76,"text_start":1462.66,"href":"s17/p006.json"},
+    {"index":7,"start":1753.76,"end":2057.46,"text_start":1754.26,"href":"s17/p007.json"}
+   ]
+  },
+  {
+   "id": "s18",
+   "index": 18,
+   "title": "The Story of Zobeide",
+   "reader": "hugh mac",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_17_anonymous_64kb.mp3",
+   "duration": 1527.65,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":300.36,"text_start":29.7,"href":"s18/p001.json"},
+    {"index":2,"start":300.36,"end":578.6,"text_start":300.86,"href":"s18/p002.json"},
+    {"index":3,"start":578.6,"end":886.12,"text_start":579.1,"href":"s18/p003.json"},
+    {"index":4,"start":886.12,"end":1218.24,"text_start":886.62,"href":"s18/p004.json"},
+    {"index":5,"start":1218.24,"end":1527.65,"text_start":1218.74,"href":"s18/p005.json"}
+   ]
+  },
+  {
+   "id": "s19",
+   "index": 19,
+   "title": "The Story of Amene",
+   "reader": "Anne Cheng",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_18_anonymous_64kb.mp3",
+   "duration": 1298.53,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":334.02,"text_start":27.12,"href":"s19/p001.json"},
+    {"index":2,"start":334.02,"end":659.84,"text_start":334.52,"href":"s19/p002.json"},
+    {"index":3,"start":659.84,"end":992.16,"text_start":660.26,"href":"s19/p003.json"},
+    {"index":4,"start":992.16,"end":1298.53,"text_start":992.66,"href":"s19/p004.json"}
+   ]
+  },
+  {
+   "id": "s20",
+   "index": 20,
+   "title": "<b>The Story of Sinbad the Voyager</b>",
+   "reader": "Lucy Lo Faro",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_19_anonymous_64kb.mp3",
+   "duration": 453.31,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":453.31,"text_start":32.46,"href":"s20/p001.json"}
+   ]
+  },
+  {
+   "id": "s21",
+   "index": 21,
+   "title": "The First Voyage",
+   "reader": "Lucy Lo Faro",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_20_anonymous_64kb.mp3",
+   "duration": 934.96,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":356.9,"text_start":40.28,"href":"s21/p001.json"},
+    {"index":2,"start":356.9,"end":665.24,"text_start":357.4,"href":"s21/p002.json"},
+    {"index":3,"start":665.24,"end":934.96,"text_start":665.74,"href":"s21/p003.json"}
+   ]
+  },
+  {
+   "id": "s22",
+   "index": 22,
+   "title": "The Second Voyage",
+   "reader": "Lucy Lo Faro",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_21_anonymous_64kb.mp3",
+   "duration": 912.08,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":326.56,"text_start":39.12,"href":"s22/p001.json"},
+    {"index":2,"start":326.56,"end":653.21,"text_start":327.06,"href":"s22/p002.json"},
+    {"index":3,"start":653.21,"end":912.08,"text_start":653.68,"href":"s22/p003.json"}
+   ]
+  },
+  {
+   "id": "s23",
+   "index": 23,
+   "title": "The Third Voyage",
+   "reader": "Lucy Lo Faro",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_22_anonymous_64kb.mp3",
+   "duration": 1211.94,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":300.88,"text_start":37.56,"href":"s23/p001.json"},
+    {"index":2,"start":300.88,"end":590.44,"text_start":301.32,"href":"s23/p002.json"},
+    {"index":3,"start":590.44,"end":880.42,"text_start":590.94,"href":"s23/p003.json"},
+    {"index":4,"start":880.42,"end":1211.94,"text_start":880.92,"href":"s23/p004.json"}
+   ]
+  },
+  {
+   "id": "s24",
+   "index": 24,
+   "title": "The Fourth Voyage",
+   "reader": "Lucy Lo Faro",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_23_anonymous_64kb.mp3",
+   "duration": 1393.93,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":358.84,"text_start":37.4,"href":"s24/p001.json"},
+    {"index":2,"start":358.84,"end":705.38,"text_start":359.32,"href":"s24/p002.json"},
+    {"index":3,"start":705.38,"end":1031.54,"text_start":705.88,"href":"s24/p003.json"},
+    {"index":4,"start":1031.54,"end":1393.93,"text_start":1032.04,"href":"s24/p004.json"}
+   ]
+  },
+  {
+   "id": "s25",
+   "index": 25,
+   "title": "The Fifth Voyage",
+   "reader": "Lucy Lo Faro",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_24_anonymous_64kb.mp3",
+   "duration": 817.02,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":271.48,"text_start":40.1,"href":"s25/p001.json"},
+    {"index":2,"start":271.48,"end":521.86,"text_start":271.98,"href":"s25/p002.json"},
+    {"index":3,"start":521.86,"end":817.02,"text_start":522.36,"href":"s25/p003.json"}
+   ]
+  },
+  {
+   "id": "s26",
+   "index": 26,
+   "title": "The Sixth Voyage",
+   "reader": "Lucy Lo Faro",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_25_anonymous_64kb.mp3",
+   "duration": 1249.87,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":317.74,"text_start":34.6,"href":"s26/p001.json"},
+    {"index":2,"start":317.74,"end":629.64,"text_start":318.24,"href":"s26/p002.json"},
+    {"index":3,"start":629.64,"end":940.56,"text_start":630.14,"href":"s26/p003.json"},
+    {"index":4,"start":940.56,"end":1249.87,"text_start":941.06,"href":"s26/p004.json"}
+   ]
+  },
+  {
+   "id": "s27",
+   "index": 27,
+   "title": "The Seventh and Last Voyage",
+   "reader": "Lucy Lo Faro",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_26_anonymous_64kb.mp3",
+   "duration": 1021.4,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":343.52,"text_start":35.44,"href":"s27/p001.json"},
+    {"index":2,"start":343.52,"end":690.34,"text_start":344.02,"href":"s27/p002.json"},
+    {"index":3,"start":690.34,"end":1021.4,"text_start":690.84,"href":"s27/p003.json"}
+   ]
+  },
+  {
+   "id": "s28",
+   "index": 28,
+   "title": "<b>The Three Apples</b>",
+   "reader": "tipaew",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_27_anonymous_64kb.mp3",
+   "duration": 629.32,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":321.02,"text_start":30.38,"href":"s28/p001.json"},
+    {"index":2,"start":321.02,"end":629.32,"text_start":321.52,"href":"s28/p002.json"}
+   ]
+  },
+  {
+   "id": "s29",
+   "index": 29,
+   "title": "The Story of the Lady who was Murdered, and of the Young Man her Husband",
+   "reader": "John Rose",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_28_anonymous_64kb.mp3",
+   "duration": 822.01,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":266.654,"text_start":30.38,"href":"s29/p001.json"},
+    {"index":2,"start":266.654,"end":568.24,"text_start":268.56,"href":"s29/p002.json"},
+    {"index":3,"start":568.24,"end":822.01,"text_start":568.74,"href":"s29/p003.json"}
+   ]
+  },
+  {
+   "id": "s30",
+   "index": 30,
+   "title": "<b>The Story of Noor ad Deen Ali and Buddir ad Deen Hossun</b>, part a",
+   "reader": "Zapo",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_29_anonymous_64kb.mp3",
+   "duration": 2671.37,
+   "page_count": 9,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":294.8,"text_start":36.88,"href":"s30/p001.json"},
+    {"index":2,"start":294.8,"end":632.16,"text_start":295.3,"href":"s30/p002.json"},
+    {"index":3,"start":632.16,"end":915.8,"text_start":632.66,"href":"s30/p003.json"},
+    {"index":4,"start":915.8,"end":1212.3,"text_start":916.3,"href":"s30/p004.json"},
+    {"index":5,"start":1212.3,"end":1499.4,"text_start":1212.8,"href":"s30/p005.json"},
+    {"index":6,"start":1499.4,"end":1810.08,"text_start":1499.9,"href":"s30/p006.json"},
+    {"index":7,"start":1810.08,"end":2125.58,"text_start":1810.58,"href":"s30/p007.json"},
+    {"index":8,"start":2125.58,"end":2390.9,"text_start":2126.08,"href":"s30/p008.json"},
+    {"index":9,"start":2390.9,"end":2671.37,"text_start":2391.4,"href":"s30/p009.json"}
+   ]
+  },
+  {
+   "id": "s31",
+   "index": 31,
+   "title": "<b>The Story of Noor ad Deen Ali and Buddir ad Deen Hossun</b>, part b",
+   "reader": "Jonathan Feldman",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_30_anonymous_64kb.mp3",
+   "duration": 2115.48,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":298.24,"text_start":33.56,"href":"s31/p001.json"},
+    {"index":2,"start":298.24,"end":613.84,"text_start":298.74,"href":"s31/p002.json"},
+    {"index":3,"start":613.84,"end":913.94,"text_start":614.34,"href":"s31/p003.json"},
+    {"index":4,"start":913.94,"end":1219.92,"text_start":914.44,"href":"s31/p004.json"},
+    {"index":5,"start":1219.92,"end":1519.34,"text_start":1220.42,"href":"s31/p005.json"},
+    {"index":6,"start":1519.34,"end":1809.9,"text_start":1519.84,"href":"s31/p006.json"},
+    {"index":7,"start":1809.9,"end":2115.48,"text_start":1810.4,"href":"s31/p007.json"}
+   ]
+  },
+  {
+   "id": "s32",
+   "index": 32,
+   "title": "<b>The Story of Noor ad Deen Ali and Buddir ad Deen Hossun</b>, part c",
+   "reader": "Lars Rolander (1942-2016)",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_31_anonymous_64kb.mp3",
+   "duration": 2287.11,
+   "page_count": 8,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":316.28,"text_start":38.64,"href":"s32/p001.json"},
+    {"index":2,"start":316.28,"end":634.7,"text_start":316.78,"href":"s32/p002.json"},
+    {"index":3,"start":634.7,"end":891.98,"text_start":635.2,"href":"s32/p003.json"},
+    {"index":4,"start":891.98,"end":1157.24,"text_start":892.48,"href":"s32/p004.json"},
+    {"index":5,"start":1157.24,"end":1436.36,"text_start":1157.74,"href":"s32/p005.json"},
+    {"index":6,"start":1436.36,"end":1738.53,"text_start":1436.76,"href":"s32/p006.json"},
+    {"index":7,"start":1738.53,"end":2025.84,"text_start":1738.9,"href":"s32/p007.json"},
+    {"index":8,"start":2025.84,"end":2287.11,"text_start":2026.34,"href":"s32/p008.json"}
+   ]
+  },
+  {
+   "id": "s33",
+   "index": 33,
+   "title": "<b>The History of Ganem, Son of Abou Ayoub, and Known by the Surname of Love's Slave</b>, part a",
+   "reader": "Jon Scott Jones",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_32_anonymous_64kb.mp3",
+   "duration": 2215.69,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":319.86,"text_start":36.8,"href":"s33/p001.json"},
+    {"index":2,"start":319.86,"end":650.26,"text_start":320.36,"href":"s33/p002.json"},
+    {"index":3,"start":650.26,"end":962.92,"text_start":650.76,"href":"s33/p003.json"},
+    {"index":4,"start":962.92,"end":1275.2,"text_start":963.12,"href":"s33/p004.json"},
+    {"index":5,"start":1275.2,"end":1585.58,"text_start":1275.64,"href":"s33/p005.json"},
+    {"index":6,"start":1585.58,"end":1907.48,"text_start":1586.08,"href":"s33/p006.json"},
+    {"index":7,"start":1907.48,"end":2215.69,"text_start":1907.98,"href":"s33/p007.json"}
+   ]
+  },
+  {
+   "id": "s34",
+   "index": 34,
+   "title": "<b>The History of Ganem, Son of Abou Ayoub, and Known by the Surname of Love's Slave</b>, part b",
+   "reader": "Jon Scott Jones",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_33_anonymous_64kb.mp3",
+   "duration": 2142.26,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":351.12,"text_start":31.7,"href":"s34/p001.json"},
+    {"index":2,"start":351.12,"end":666.46,"text_start":351.62,"href":"s34/p002.json"},
+    {"index":3,"start":666.46,"end":994.36,"text_start":666.9,"href":"s34/p003.json"},
+    {"index":4,"start":994.36,"end":1261.25,"text_start":994.72,"href":"s34/p004.json"},
+    {"index":5,"start":1261.25,"end":1551.99,"text_start":1261.72,"href":"s34/p005.json"},
+    {"index":6,"start":1551.99,"end":1860.08,"text_start":1552.44,"href":"s34/p006.json"},
+    {"index":7,"start":1860.08,"end":2142.26,"text_start":1860.58,"href":"s34/p007.json"}
+   ]
+  },
+  {
+   "id": "s35",
+   "index": 35,
+   "title": "<b>The History of Ganem, Son of Abou Ayoub, and Known by the Surname of Love's Slave</b>, part c",
+   "reader": "Jon Scott Jones",
+   "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_34_anonymous_64kb.mp3",
+   "duration": 2124.49,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":296.81,"text_start":29.98,"href":"s35/p001.json"},
+    {"index":2,"start":296.81,"end":586.38,"text_start":297.16,"href":"s35/p002.json"},
+    {"index":3,"start":586.38,"end":926.94,"text_start":586.82,"href":"s35/p003.json"},
+    {"index":4,"start":926.94,"end":1236.84,"text_start":927.34,"href":"s35/p004.json"},
+    {"index":5,"start":1236.84,"end":1521.82,"text_start":1237.34,"href":"s35/p005.json"},
+    {"index":6,"start":1521.82,"end":1848.75,"text_start":1522.32,"href":"s35/p006.json"},
+    {"index":7,"start":1848.75,"end":2124.49,"text_start":1849.02,"href":"s35/p007.json"}
+   ]
+  }
+ ]
+}
