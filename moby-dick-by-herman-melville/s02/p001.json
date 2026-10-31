@@ -27,7 +27,10 @@
   "href": "s02/p001.json"
  },
  "nav": {
-  "prev": null,
+  "prev": {
+   "section": 1,
+   "page": 6
+  },
   "next": {
    "section": 2,
    "page": 2
