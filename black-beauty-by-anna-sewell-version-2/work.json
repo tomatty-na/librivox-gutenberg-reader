@@ -1,0 +1,683 @@
+{
+ "format": "librivox-gutenberg/work",
+ "version": "1.0",
+ "work": {
+  "slug": "black-beauty-by-anna-sewell-version-2",
+  "title": "Black Beauty",
+  "author": "Anna Sewell",
+  "gutenberg_id": 271,
+  "librivox_url": "https://librivox.org/black-beauty-by-anna-sewell-version-2/",
+  "language": "en",
+  "category": "children",
+  "authors": [
+   {
+    "name": "Anna Sewell",
+    "slug": "anna-sewell",
+    "id": 3268,
+    "first_name": "Anna",
+    "last_name": "Sewell",
+    "dob": "1820",
+    "dod": "1878"
+   }
+  ],
+  "updated": "2026-10-31"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "index": 1,
+   "title": "01 - My Early Home",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_01_sewell_64kb.mp3",
+   "duration": 303.9,
+   "page_count": 1,
+   "status": "mapped",
+   "part": "Part I",
+   "pages": [
+    {"index":1,"start":0.0,"end":303.9,"text_start":28.82,"href":"s01/p001.json"}
+   ]
+  },
+  {
+   "id": "s02",
+   "index": 2,
+   "title": "02 - The Hunt",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_02_sewell_64kb.mp3",
+   "duration": 394.24,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":394.24,"text_start":9.9,"href":"s02/p001.json"}
+   ]
+  },
+  {
+   "id": "s03",
+   "index": 3,
+   "title": "03 - My Breaking In",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_03_sewell_64kb.mp3",
+   "duration": 510.27,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":237.64,"text_start":9.42,"href":"s03/p001.json"},
+    {"index":2,"start":237.64,"end":510.27,"text_start":238.14,"href":"s03/p002.json"}
+   ]
+  },
+  {
+   "id": "s04",
+   "index": 4,
+   "title": "04 - Birtwick Park",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_04_sewell_64kb.mp3",
+   "duration": 354.14,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":354.14,"text_start":10.38,"href":"s04/p001.json"}
+   ]
+  },
+  {
+   "id": "s05",
+   "index": 5,
+   "title": "05 - A Fair Start",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_05_sewell_64kb.mp3",
+   "duration": 425.69,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":425.69,"text_start":10.0,"href":"s05/p001.json"}
+   ]
+  },
+  {
+   "id": "s06",
+   "index": 6,
+   "title": "06 - Liberty",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_06_sewell_64kb.mp3",
+   "duration": 199.05,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":199.05,"text_start":9.76,"href":"s06/p001.json"}
+   ]
+  },
+  {
+   "id": "s07",
+   "index": 7,
+   "title": "07 - Ginger",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_07_sewell_64kb.mp3",
+   "duration": 519.99,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":215.18,"text_start":9.7,"href":"s07/p001.json"},
+    {"index":2,"start":215.18,"end":519.99,"text_start":215.68,"href":"s07/p002.json"}
+   ]
+  },
+  {
+   "id": "s08",
+   "index": 8,
+   "title": "08 - Ginger's Story Continued",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_08_sewell_64kb.mp3",
+   "duration": 418.79,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":418.79,"text_start":9.78,"href":"s08/p001.json"}
+   ]
+  },
+  {
+   "id": "s09",
+   "index": 9,
+   "title": "09 - Merrylegs",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_09_sewell_64kb.mp3",
+   "duration": 316.49,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":316.49,"text_start":9.12,"href":"s09/p001.json"}
+   ]
+  },
+  {
+   "id": "s10",
+   "index": 10,
+   "title": "10 - A Talk in the Orchard",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_10_sewell_64kb.mp3",
+   "duration": 660.5,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":352.72,"text_start":9.48,"href":"s10/p001.json"},
+    {"index":2,"start":352.72,"end":660.5,"text_start":353.22,"href":"s10/p002.json"}
+   ]
+  },
+  {
+   "id": "s11",
+   "index": 11,
+   "title": "11 - Plain Speaking",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_11_sewell_64kb.mp3",
+   "duration": 360.25,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":360.25,"text_start":9.9,"href":"s11/p001.json"}
+   ]
+  },
+  {
+   "id": "s12",
+   "index": 12,
+   "title": "12 - A Stormy Day",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_12_sewell_64kb.mp3",
+   "duration": 394.52,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":394.52,"text_start":9.54,"href":"s12/p001.json"}
+   ]
+  },
+  {
+   "id": "s13",
+   "index": 13,
+   "title": "13 - The Devil's Trade Mark",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_13_sewell_64kb.mp3",
+   "duration": 325.01,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":325.01,"text_start":10.32,"href":"s13/p001.json"}
+   ]
+  },
+  {
+   "id": "s14",
+   "index": 14,
+   "title": "14 - James Howard",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_14_sewell_64kb.mp3",
+   "duration": 329.92,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":329.92,"text_start":9.66,"href":"s14/p001.json"}
+   ]
+  },
+  {
+   "id": "s15",
+   "index": 15,
+   "title": "15 - The Old Ostler",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_15_sewell_64kb.mp3",
+   "duration": 339.51,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":339.51,"text_start":14.78,"href":"s15/p001.json"}
+   ]
+  },
+  {
+   "id": "s16",
+   "index": 16,
+   "title": "16 - The Fire",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_16_sewell_64kb.mp3",
+   "duration": 482.08,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":232.9,"text_start":10.56,"href":"s16/p001.json"},
+    {"index":2,"start":232.9,"end":482.08,"text_start":233.4,"href":"s16/p002.json"}
+   ]
+  },
+  {
+   "id": "s17",
+   "index": 17,
+   "title": "17 - John Manly's Talk",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_17_sewell_64kb.mp3",
+   "duration": 420.67,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":420.67,"text_start":10.38,"href":"s17/p001.json"}
+   ]
+  },
+  {
+   "id": "s18",
+   "index": 18,
+   "title": "18 - Going for the Doctor",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_18_sewell_64kb.mp3",
+   "duration": 454.08,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":454.08,"text_start":9.88,"href":"s18/p001.json"}
+   ]
+  },
+  {
+   "id": "s19",
+   "index": 19,
+   "title": "19 - Only Ignorance",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_19_sewell_64kb.mp3",
+   "duration": 267.46,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":267.46,"text_start":10.36,"href":"s19/p001.json"}
+   ]
+  },
+  {
+   "id": "s20",
+   "index": 20,
+   "title": "20 - Joe Green",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_20_sewell_64kb.mp3",
+   "duration": 328.54,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":328.54,"text_start":9.88,"href":"s20/p001.json"}
+   ]
+  },
+  {
+   "id": "s21",
+   "index": 21,
+   "title": "21 - The Parting",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_21_sewell_64kb.mp3",
+   "duration": 327.34,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":327.34,"text_start":9.58,"href":"s21/p001.json"}
+   ]
+  },
+  {
+   "id": "s22",
+   "index": 22,
+   "title": "22 - Earlshall",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_22_sewell_64kb.mp3",
+   "duration": 445.96,
+   "page_count": 1,
+   "status": "mapped",
+   "part": "Part II",
+   "pages": [
+    {"index":1,"start":0.0,"end":445.96,"text_start":9.1,"href":"s22/p001.json"}
+   ]
+  },
+  {
+   "id": "s23",
+   "index": 23,
+   "title": "23 - A Strike for Liberty",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_23_sewell_64kb.mp3",
+   "duration": 386.82,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":386.82,"text_start":9.74,"href":"s23/p001.json"}
+   ]
+  },
+  {
+   "id": "s24",
+   "index": 24,
+   "title": "24 - The Lady Anne, or a Runaway Horse",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_24_sewell_64kb.mp3",
+   "duration": 710.24,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":371.16,"text_start":9.6,"href":"s24/p001.json"},
+    {"index":2,"start":371.16,"end":710.24,"text_start":371.66,"href":"s24/p002.json"}
+   ]
+  },
+  {
+   "id": "s25",
+   "index": 25,
+   "title": "25 - Reuben Smith",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_25_sewell_64kb.mp3",
+   "duration": 418.97,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":418.97,"text_start":9.48,"href":"s25/p001.json"}
+   ]
+  },
+  {
+   "id": "s26",
+   "index": 26,
+   "title": "26 - How it Ended",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_26_sewell_64kb.mp3",
+   "duration": 324.28,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":324.28,"text_start":10.16,"href":"s26/p001.json"}
+   ]
+  },
+  {
+   "id": "s27",
+   "index": 27,
+   "title": "27 - Ruined and Going Downhill",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_27_sewell_64kb.mp3",
+   "duration": 318.82,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":318.82,"text_start":9.66,"href":"s27/p001.json"}
+   ]
+  },
+  {
+   "id": "s28",
+   "index": 28,
+   "title": "28 - A Job Horse and His Drivers",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_28_sewell_64kb.mp3",
+   "duration": 397.27,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":397.27,"text_start":9.62,"href":"s28/p001.json"}
+   ]
+  },
+  {
+   "id": "s29",
+   "index": 29,
+   "title": "29 - Cockneys",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_29_sewell_64kb.mp3",
+   "duration": 716.82,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":364.12,"text_start":9.7,"href":"s29/p001.json"},
+    {"index":2,"start":364.12,"end":716.82,"text_start":364.62,"href":"s29/p002.json"}
+   ]
+  },
+  {
+   "id": "s30",
+   "index": 30,
+   "title": "30 - A Thief",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_30_sewell_64kb.mp3",
+   "duration": 299.85,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":299.85,"text_start":9.54,"href":"s30/p001.json"}
+   ]
+  },
+  {
+   "id": "s31",
+   "index": 31,
+   "title": "31 - A Humbug",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_31_sewell_64kb.mp3",
+   "duration": 338.44,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":338.44,"text_start":9.86,"href":"s31/p001.json"}
+   ]
+  },
+  {
+   "id": "s32",
+   "index": 32,
+   "title": "32 - A Horse Fair",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_32_sewell_64kb.mp3",
+   "duration": 433.71,
+   "page_count": 1,
+   "status": "mapped",
+   "part": "Part III",
+   "pages": [
+    {"index":1,"start":0.0,"end":433.71,"text_start":9.3,"href":"s32/p001.json"}
+   ]
+  },
+  {
+   "id": "s33",
+   "index": 33,
+   "title": "33 - A London Cab Horse",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_33_sewell_64kb.mp3",
+   "duration": 468.32,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":235.74,"text_start":9.68,"href":"s33/p001.json"},
+    {"index":2,"start":235.74,"end":468.32,"text_start":236.24,"href":"s33/p002.json"}
+   ]
+  },
+  {
+   "id": "s34",
+   "index": 34,
+   "title": "34 - An Old War Horse",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_34_sewell_64kb.mp3",
+   "duration": 605.7,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":291.6,"text_start":10.04,"href":"s34/p001.json"},
+    {"index":2,"start":291.6,"end":605.7,"text_start":292.1,"href":"s34/p002.json"}
+   ]
+  },
+  {
+   "id": "s35",
+   "index": 35,
+   "title": "35 - Jerry Barker",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_35_sewell_64kb.mp3",
+   "duration": 654.15,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":365.14,"text_start":10.36,"href":"s35/p001.json"},
+    {"index":2,"start":365.14,"end":654.15,"text_start":365.64,"href":"s35/p002.json"}
+   ]
+  },
+  {
+   "id": "s36",
+   "index": 36,
+   "title": "36 - The Sunday Cab",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_36_sewell_64kb.mp3",
+   "duration": 508.68,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":276.14,"text_start":10.02,"href":"s36/p001.json"},
+    {"index":2,"start":276.14,"end":508.68,"text_start":276.64,"href":"s36/p002.json"}
+   ]
+  },
+  {
+   "id": "s37",
+   "index": 37,
+   "title": "37 - The Golden Rule",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_37_sewell_64kb.mp3",
+   "duration": 388.7,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":388.7,"text_start":9.88,"href":"s37/p001.json"}
+   ]
+  },
+  {
+   "id": "s38",
+   "index": 38,
+   "title": "38 - Dolly and a Real Gentleman",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_38_sewell_64kb.mp3",
+   "duration": 463.54,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":228.44,"text_start":9.94,"href":"s38/p001.json"},
+    {"index":2,"start":228.44,"end":463.54,"text_start":228.94,"href":"s38/p002.json"}
+   ]
+  },
+  {
+   "id": "s39",
+   "index": 39,
+   "title": "39 - Seedy Sam",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_39_sewell_64kb.mp3",
+   "duration": 401.73,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":401.73,"text_start":10.06,"href":"s39/p001.json"}
+   ]
+  },
+  {
+   "id": "s40",
+   "index": 40,
+   "title": "40 - Poor Ginger",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_40_sewell_64kb.mp3",
+   "duration": 272.01,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":272.01,"text_start":10.16,"href":"s40/p001.json"}
+   ]
+  },
+  {
+   "id": "s41",
+   "index": 41,
+   "title": "41 - The Butcher",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_41_sewell_64kb.mp3",
+   "duration": 334.65,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":334.65,"text_start":10.28,"href":"s41/p001.json"}
+   ]
+  },
+  {
+   "id": "s42",
+   "index": 42,
+   "title": "42 - The Election",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_42_sewell_64kb.mp3",
+   "duration": 205.42,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":205.42,"text_start":9.72,"href":"s42/p001.json"}
+   ]
+  },
+  {
+   "id": "s43",
+   "index": 43,
+   "title": "43 - A Friend in Need",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_43_sewell_64kb.mp3",
+   "duration": 465.65,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":229.92,"text_start":9.82,"href":"s43/p001.json"},
+    {"index":2,"start":229.92,"end":465.65,"text_start":230.42,"href":"s43/p002.json"}
+   ]
+  },
+  {
+   "id": "s44",
+   "index": 44,
+   "title": "44 - Old Captain and His Successor",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_44_sewell_64kb.mp3",
+   "duration": 484.96,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":254.6,"text_start":10.62,"href":"s44/p001.json"},
+    {"index":2,"start":254.6,"end":484.96,"text_start":255.1,"href":"s44/p002.json"}
+   ]
+  },
+  {
+   "id": "s45",
+   "index": 45,
+   "title": "45 - Jerry's New Year",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_45_sewell_64kb.mp3",
+   "duration": 653.81,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":324.0,"text_start":10.06,"href":"s45/p001.json"},
+    {"index":2,"start":324.0,"end":653.81,"text_start":324.5,"href":"s45/p002.json"}
+   ]
+  },
+  {
+   "id": "s46",
+   "index": 46,
+   "title": "46 - Jakes and the Lady",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_46_sewell_64kb.mp3",
+   "duration": 418.61,
+   "page_count": 1,
+   "status": "mapped",
+   "part": "Part IV",
+   "pages": [
+    {"index":1,"start":0.0,"end":418.61,"text_start":9.26,"href":"s46/p001.json"}
+   ]
+  },
+  {
+   "id": "s47",
+   "index": 47,
+   "title": "47 - Hard Times",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_47_sewell_64kb.mp3",
+   "duration": 498.36,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":247.62,"text_start":9.66,"href":"s47/p001.json"},
+    {"index":2,"start":247.62,"end":498.36,"text_start":248.12,"href":"s47/p002.json"}
+   ]
+  },
+  {
+   "id": "s48",
+   "index": 48,
+   "title": "48 - Farmer Thoroughgood and His Grandson Willie",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_48_sewell_64kb.mp3",
+   "duration": 438.54,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":438.54,"text_start":10.5,"href":"s48/p001.json"}
+   ]
+  },
+  {
+   "id": "s49",
+   "index": 49,
+   "title": "49 - My Last Home",
+   "reader": "Cori Samuel",
+   "audio_url": "https://archive.org/download/blackbeauty_0910_librivox/blackbeauty_49_sewell_64kb.mp3",
+   "duration": 399.59,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":399.59,"text_start":10.1,"href":"s49/p001.json"}
+   ]
+  }
+ ]
+}
