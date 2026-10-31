@@ -564,9 +564,19 @@
    "reader": "Tom Weiss",
    "audio_url": "https://archive.org/download/ofhumanbondage_1012_librivox/ofhumanbondage_26_maugham_64kb.mp3",
    "duration": 2871.95,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 9,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":268.49,"text_start":15.52,"href":"s26/p001.json"},
+    {"index":2,"start":268.49,"end":578.27,"text_start":268.98,"href":"s26/p002.json"},
+    {"index":3,"start":578.27,"end":884.26,"text_start":578.62,"href":"s26/p003.json"},
+    {"index":4,"start":884.26,"end":1278.82,"text_start":884.76,"href":"s26/p004.json"},
+    {"index":5,"start":1278.82,"end":1586.94,"text_start":1279.32,"href":"s26/p005.json"},
+    {"index":6,"start":1586.94,"end":1914.48,"text_start":1587.44,"href":"s26/p006.json"},
+    {"index":7,"start":1914.48,"end":2277.52,"text_start":1914.76,"href":"s26/p007.json"},
+    {"index":8,"start":2277.52,"end":2560.88,"text_start":2278.0,"href":"s26/p008.json"},
+    {"index":9,"start":2560.88,"end":2871.95,"text_start":2561.38,"href":"s26/p009.json"}
+   ]
   },
   {
    "id": "s27",
@@ -634,9 +644,19 @@
    "reader": "Tom Weiss",
    "audio_url": "https://archive.org/download/ofhumanbondage_1012_librivox/ofhumanbondage_30_maugham_64kb.mp3",
    "duration": 2580.87,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 9,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":308.31,"text_start":15.8,"href":"s30/p001.json"},
+    {"index":2,"start":308.31,"end":617.51,"text_start":308.6,"href":"s30/p002.json"},
+    {"index":3,"start":617.51,"end":912.77,"text_start":617.86,"href":"s30/p003.json"},
+    {"index":4,"start":912.77,"end":1210.57,"text_start":913.27,"href":"s30/p004.json"},
+    {"index":5,"start":1210.57,"end":1508.43,"text_start":1210.94,"href":"s30/p005.json"},
+    {"index":6,"start":1508.43,"end":1730.64,"text_start":1508.92,"href":"s30/p006.json"},
+    {"index":7,"start":1730.64,"end":1985.12,"text_start":1731.14,"href":"s30/p007.json"},
+    {"index":8,"start":1985.12,"end":2302.33,"text_start":1985.62,"href":"s30/p008.json"},
+    {"index":9,"start":2302.33,"end":2580.87,"text_start":2302.68,"href":"s30/p009.json"}
+   ]
   },
   {
    "id": "s31",
@@ -645,9 +665,21 @@
    "reader": "Tom Weiss",
    "audio_url": "https://archive.org/download/ofhumanbondage_1012_librivox/ofhumanbondage_31_maugham_64kb.mp3",
    "duration": 3125.12,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 11,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":251.27,"text_start":16.62,"href":"s31/p001.json"},
+    {"index":2,"start":251.27,"end":511.35,"text_start":251.64,"href":"s31/p002.json"},
+    {"index":3,"start":511.35,"end":773.64,"text_start":511.78,"href":"s31/p003.json"},
+    {"index":4,"start":773.64,"end":1098.23,"text_start":774.14,"href":"s31/p004.json"},
+    {"index":5,"start":1098.23,"end":1433.7,"text_start":1098.5,"href":"s31/p005.json"},
+    {"index":6,"start":1433.7,"end":1749.24,"text_start":1434.2,"href":"s31/p006.json"},
+    {"index":7,"start":1749.24,"end":2057.36,"text_start":1749.74,"href":"s31/p007.json"},
+    {"index":8,"start":2057.36,"end":2354.56,"text_start":2057.68,"href":"s31/p008.json"},
+    {"index":9,"start":2354.56,"end":2596.76,"text_start":2358.62,"href":"s31/p009.json"},
+    {"index":10,"start":2596.76,"end":2845.66,"text_start":2597.26,"href":"s31/p010.json"},
+    {"index":11,"start":2845.66,"end":3125.12,"text_start":2846.16,"href":"s31/p011.json"}
+   ]
   },
   {
    "id": "s32",
@@ -656,9 +688,17 @@
    "reader": "Tom Weiss",
    "audio_url": "https://archive.org/download/ofhumanbondage_1012_librivox/ofhumanbondage_32_maugham_64kb.mp3",
    "duration": 2310.28,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":303.68,"text_start":15.92,"href":"s32/p001.json"},
+    {"index":2,"start":303.68,"end":619.73,"text_start":304.18,"href":"s32/p002.json"},
+    {"index":3,"start":619.73,"end":936.71,"text_start":620.14,"href":"s32/p003.json"},
+    {"index":4,"start":936.71,"end":1312.9,"text_start":937.21,"href":"s32/p004.json"},
+    {"index":5,"start":1312.9,"end":1651.47,"text_start":1313.2,"href":"s32/p005.json"},
+    {"index":6,"start":1651.47,"end":2000.32,"text_start":1651.97,"href":"s32/p006.json"},
+    {"index":7,"start":2000.32,"end":2310.28,"text_start":2000.68,"href":"s32/p007.json"}
+   ]
   },
   {
    "id": "s33",
@@ -667,9 +707,15 @@
    "reader": "Tom Weiss",
    "audio_url": "https://archive.org/download/ofhumanbondage_1012_librivox/ofhumanbondage_33_maugham_64kb.mp3",
    "duration": 1488.27,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":279.54,"text_start":16.52,"href":"s33/p001.json"},
+    {"index":2,"start":279.54,"end":585.44,"text_start":279.92,"href":"s33/p002.json"},
+    {"index":3,"start":585.44,"end":967.46,"text_start":585.94,"href":"s33/p003.json"},
+    {"index":4,"start":967.46,"end":1262.71,"text_start":967.96,"href":"s33/p004.json"},
+    {"index":5,"start":1262.71,"end":1488.27,"text_start":1263.16,"href":"s33/p005.json"}
+   ]
   }
  ]
 }

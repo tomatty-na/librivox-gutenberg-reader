@@ -31,7 +31,10 @@
    "section": 29,
    "page": 8
   },
-  "next": null
+  "next": {
+   "section": 30,
+   "page": 1
+  }
  },
  "non_text": [
   {"kind":"outro","t0":2728.36,"t1":2746.08,"label":"LibriVox の結び"}
