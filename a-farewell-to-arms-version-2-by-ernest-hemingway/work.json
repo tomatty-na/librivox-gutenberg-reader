@@ -1,0 +1,633 @@
+{
+ "format": "librivox-gutenberg/work",
+ "version": "1.0",
+ "work": {
+  "slug": "a-farewell-to-arms-version-2-by-ernest-hemingway",
+  "title": "A Farewell to Arms",
+  "author": "Ernest Hemingway",
+  "gutenberg_id": 75201,
+  "librivox_url": "https://librivox.org/a-farewell-to-arms-version-2-by-ernest-hemingway/",
+  "language": "en",
+  "category": "fiction",
+  "authors": [
+   {
+    "name": "Ernest Hemingway",
+    "slug": "ernest-hemingway",
+    "id": 1543,
+    "first_name": "Ernest",
+    "last_name": "Hemingway",
+    "dob": "1899",
+    "dod": "1961"
+   }
+  ],
+  "updated": "2026-10-31"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "index": 1,
+   "title": "Chapter 1",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_01_hemingway_64kb.mp3",
+   "duration": 248.87,
+   "page_count": 1,
+   "status": "mapped",
+   "part": "BOOK 1",
+   "pages": [
+    {"index":1,"start":0.0,"end":248.87,"text_start":22.68,"href":"s01/p001.json"}
+   ]
+  },
+  {
+   "id": "s02",
+   "index": 2,
+   "title": "Chapter 2",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_02_hemingway_64kb.mp3",
+   "duration": 564.77,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":282.5,"text_start":10.42,"href":"s02/p001.json"},
+    {"index":2,"start":282.5,"end":564.77,"text_start":283.0,"href":"s02/p002.json"}
+   ]
+  },
+  {
+   "id": "s03",
+   "index": 3,
+   "title": "Chapter 3",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_03_hemingway_64kb.mp3",
+   "duration": 541.2,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":267.66,"text_start":9.7,"href":"s03/p001.json"},
+    {"index":2,"start":267.66,"end":541.2,"text_start":268.16,"href":"s03/p002.json"}
+   ]
+  },
+  {
+   "id": "s04",
+   "index": 4,
+   "title": "Chapter 4",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_04_hemingway_64kb.mp3",
+   "duration": 678.45,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":338.12,"text_start":9.72,"href":"s04/p001.json"},
+    {"index":2,"start":338.12,"end":678.45,"text_start":338.62,"href":"s04/p002.json"}
+   ]
+  },
+  {
+   "id": "s05",
+   "index": 5,
+   "title": "Chapter 5",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_05_hemingway_64kb.mp3",
+   "duration": 638.77,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":317.08,"text_start":9.96,"href":"s05/p001.json"},
+    {"index":2,"start":317.08,"end":638.77,"text_start":317.58,"href":"s05/p002.json"}
+   ]
+  },
+  {
+   "id": "s06",
+   "index": 6,
+   "title": "Chapter 6",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_06_hemingway_64kb.mp3",
+   "duration": 533.81,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":267.36,"text_start":9.98,"href":"s06/p001.json"},
+    {"index":2,"start":267.36,"end":533.81,"text_start":267.86,"href":"s06/p002.json"}
+   ]
+  },
+  {
+   "id": "s07",
+   "index": 7,
+   "title": "Chapter 7",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_07_hemingway_64kb.mp3",
+   "duration": 1006.58,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":316.26,"text_start":9.92,"href":"s07/p001.json"},
+    {"index":2,"start":316.26,"end":678.24,"text_start":316.76,"href":"s07/p002.json"},
+    {"index":3,"start":678.24,"end":1006.58,"text_start":678.74,"href":"s07/p003.json"}
+   ]
+  },
+  {
+   "id": "s08",
+   "index": 8,
+   "title": "Chapter 8",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_08_hemingway_64kb.mp3",
+   "duration": 400.72,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":400.72,"text_start":10.34,"href":"s08/p001.json"}
+   ]
+  },
+  {
+   "id": "s09",
+   "index": 9,
+   "title": "Chapter 9",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_09_hemingway_64kb.mp3",
+   "duration": 1838.94,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":304.96,"text_start":10.06,"href":"s09/p001.json"},
+    {"index":2,"start":304.96,"end":607.48,"text_start":305.46,"href":"s09/p002.json"},
+    {"index":3,"start":607.48,"end":914.36,"text_start":607.98,"href":"s09/p003.json"},
+    {"index":4,"start":914.36,"end":1224.08,"text_start":914.86,"href":"s09/p004.json"},
+    {"index":5,"start":1224.08,"end":1555.3,"text_start":1224.58,"href":"s09/p005.json"},
+    {"index":6,"start":1555.3,"end":1838.94,"text_start":1555.8,"href":"s09/p006.json"}
+   ]
+  },
+  {
+   "id": "s10",
+   "index": 10,
+   "title": "Chapter 10",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_10_hemingway_64kb.mp3",
+   "duration": 628.87,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":315.24,"text_start":9.7,"href":"s10/p001.json"},
+    {"index":2,"start":315.24,"end":628.87,"text_start":315.74,"href":"s10/p002.json"}
+   ]
+  },
+  {
+   "id": "s11",
+   "index": 11,
+   "title": "Chapter 11",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_11_hemingway_64kb.mp3",
+   "duration": 611.06,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":307.94,"text_start":9.62,"href":"s11/p001.json"},
+    {"index":2,"start":307.94,"end":611.06,"text_start":308.44,"href":"s11/p002.json"}
+   ]
+  },
+  {
+   "id": "s12",
+   "index": 12,
+   "title": "Chapter 12",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_12_hemingway_64kb.mp3",
+   "duration": 562.76,
+   "page_count": 0,
+   "status": "pending",
+   "pages": []
+  },
+  {
+   "id": "s13",
+   "index": 13,
+   "title": "Chapter 13",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_13_hemingway_64kb.mp3",
+   "duration": 836.23,
+   "page_count": 3,
+   "status": "mapped",
+   "part": "BOOK II",
+   "pages": [
+    {"index":1,"start":0.0,"end":278.06,"text_start":10.7,"href":"s13/p001.json"},
+    {"index":2,"start":278.06,"end":554.22,"text_start":278.56,"href":"s13/p002.json"},
+    {"index":3,"start":554.22,"end":836.23,"text_start":554.72,"href":"s13/p003.json"}
+   ]
+  },
+  {
+   "id": "s14",
+   "index": 14,
+   "title": "Chapter 14",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_14_hemingway_64kb.mp3",
+   "duration": 471.25,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":236.32,"text_start":10.16,"href":"s14/p001.json"},
+    {"index":2,"start":236.32,"end":471.25,"text_start":236.82,"href":"s14/p002.json"}
+   ]
+  },
+  {
+   "id": "s15",
+   "index": 15,
+   "title": "Chapter 15",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_15_hemingway_64kb.mp3",
+   "duration": 717.35,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":356.36,"text_start":10.04,"href":"s15/p001.json"},
+    {"index":2,"start":356.36,"end":717.35,"text_start":356.86,"href":"s15/p002.json"}
+   ]
+  },
+  {
+   "id": "s16",
+   "index": 16,
+   "title": "Chapter 16",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_16_hemingway_64kb.mp3",
+   "duration": 539.22,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":269.22,"text_start":9.82,"href":"s16/p001.json"},
+    {"index":2,"start":269.22,"end":539.22,"text_start":269.72,"href":"s16/p002.json"}
+   ]
+  },
+  {
+   "id": "s17",
+   "index": 17,
+   "title": "Chapter 17",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_17_hemingway_64kb.mp3",
+   "duration": 392.57,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":392.57,"text_start":10.14,"href":"s17/p001.json"}
+   ]
+  },
+  {
+   "id": "s18",
+   "index": 18,
+   "title": "Chapter 18",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_18_hemingway_64kb.mp3",
+   "duration": 590.39,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":301.24,"text_start":10.44,"href":"s18/p001.json"},
+    {"index":2,"start":301.24,"end":590.39,"text_start":301.74,"href":"s18/p002.json"}
+   ]
+  },
+  {
+   "id": "s19",
+   "index": 19,
+   "title": "Chapter 19",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_19_hemingway_64kb.mp3",
+   "duration": 1112.69,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":284.92,"text_start":10.2,"href":"s19/p001.json"},
+    {"index":2,"start":284.92,"end":564.64,"text_start":285.42,"href":"s19/p002.json"},
+    {"index":3,"start":564.64,"end":846.2,"text_start":565.14,"href":"s19/p003.json"},
+    {"index":4,"start":846.2,"end":1112.69,"text_start":846.7,"href":"s19/p004.json"}
+   ]
+  },
+  {
+   "id": "s20",
+   "index": 20,
+   "title": "Chapter 20",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_20_hemingway_64kb.mp3",
+   "duration": 638.8,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":320.32,"text_start":10.16,"href":"s20/p001.json"},
+    {"index":2,"start":320.32,"end":638.8,"text_start":320.82,"href":"s20/p002.json"}
+   ]
+  },
+  {
+   "id": "s21",
+   "index": 21,
+   "title": "Chapter 21",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_21_hemingway_64kb.mp3",
+   "duration": 950.28,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":300.92,"text_start":10.18,"href":"s21/p001.json"},
+    {"index":2,"start":300.92,"end":620.96,"text_start":301.42,"href":"s21/p002.json"},
+    {"index":3,"start":620.96,"end":950.28,"text_start":621.46,"href":"s21/p003.json"}
+   ]
+  },
+  {
+   "id": "s22",
+   "index": 22,
+   "title": "Chapter 22",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_22_hemingway_64kb.mp3",
+   "duration": 397.74,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":397.74,"text_start":10.7,"href":"s22/p001.json"}
+   ]
+  },
+  {
+   "id": "s23",
+   "index": 23,
+   "title": "Chapter 23",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_23_hemingway_64kb.mp3",
+   "duration": 1110.75,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":277.27,"text_start":10.36,"href":"s23/p001.json"},
+    {"index":2,"start":277.27,"end":555.54,"text_start":277.64,"href":"s23/p002.json"},
+    {"index":3,"start":555.54,"end":835.86,"text_start":556.04,"href":"s23/p003.json"},
+    {"index":4,"start":835.86,"end":1110.75,"text_start":836.36,"href":"s23/p004.json"}
+   ]
+  },
+  {
+   "id": "s24",
+   "index": 24,
+   "title": "Chapter 24",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_24_hemingway_64kb.mp3",
+   "duration": 417.59,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":417.59,"text_start":10.62,"href":"s24/p001.json"}
+   ]
+  },
+  {
+   "id": "s25",
+   "index": 25,
+   "title": "Chapter 25",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_25_hemingway_64kb.mp3",
+   "duration": 1481.06,
+   "page_count": 5,
+   "status": "mapped",
+   "part": "BOOK III",
+   "pages": [
+    {"index":1,"start":0.0,"end":294.05,"text_start":10.84,"href":"s25/p001.json"},
+    {"index":2,"start":294.05,"end":589.36,"text_start":294.46,"href":"s25/p002.json"},
+    {"index":3,"start":589.36,"end":883.75,"text_start":589.86,"href":"s25/p003.json"},
+    {"index":4,"start":883.75,"end":1178.13,"text_start":884.04,"href":"s25/p004.json"},
+    {"index":5,"start":1178.13,"end":1481.06,"text_start":1178.52,"href":"s25/p005.json"}
+   ]
+  },
+  {
+   "id": "s26",
+   "index": 26,
+   "title": "Chapter 26",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_26_hemingway_64kb.mp3",
+   "duration": 332.09,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":332.09,"text_start":9.96,"href":"s26/p001.json"}
+   ]
+  },
+  {
+   "id": "s27",
+   "index": 27,
+   "title": "Chapter 27",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_27_hemingway_64kb.mp3",
+   "duration": 1469.73,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":314.02,"text_start":9.88,"href":"s27/p001.json"},
+    {"index":2,"start":314.02,"end":609.34,"text_start":314.52,"href":"s27/p002.json"},
+    {"index":3,"start":609.34,"end":920.7,"text_start":609.84,"href":"s27/p003.json"},
+    {"index":4,"start":920.7,"end":1198.68,"text_start":921.2,"href":"s27/p004.json"},
+    {"index":5,"start":1198.68,"end":1469.73,"text_start":1199.18,"href":"s27/p005.json"}
+   ]
+  },
+  {
+   "id": "s28",
+   "index": 28,
+   "title": "Chapter 28",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_28_hemingway_64kb.mp3",
+   "duration": 1017.21,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":339.28,"text_start":9.6,"href":"s28/p001.json"},
+    {"index":2,"start":339.28,"end":682.16,"text_start":339.78,"href":"s28/p002.json"},
+    {"index":3,"start":682.16,"end":1017.21,"text_start":682.66,"href":"s28/p003.json"}
+   ]
+  },
+  {
+   "id": "s29",
+   "index": 29,
+   "title": "Chapter 29",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_29_hemingway_64kb.mp3",
+   "duration": 660.95,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":343.44,"text_start":10.36,"href":"s29/p001.json"},
+    {"index":2,"start":343.44,"end":660.95,"text_start":343.94,"href":"s29/p002.json"}
+   ]
+  },
+  {
+   "id": "s30",
+   "index": 30,
+   "title": "Chapter 30",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_30_hemingway_64kb.mp3",
+   "duration": 2012.47,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":342.18,"text_start":9.84,"href":"s30/p001.json"},
+    {"index":2,"start":342.18,"end":676.82,"text_start":342.68,"href":"s30/p002.json"},
+    {"index":3,"start":676.82,"end":1009.34,"text_start":677.32,"href":"s30/p003.json"},
+    {"index":4,"start":1009.34,"end":1344.48,"text_start":1009.84,"href":"s30/p004.json"},
+    {"index":5,"start":1344.48,"end":1678.36,"text_start":1344.98,"href":"s30/p005.json"},
+    {"index":6,"start":1678.36,"end":2012.47,"text_start":1678.86,"href":"s30/p006.json"}
+   ]
+  },
+  {
+   "id": "s31",
+   "index": 31,
+   "title": "Chapter 31",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_31_hemingway_64kb.mp3",
+   "duration": 567.69,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":275.18,"text_start":9.64,"href":"s31/p001.json"},
+    {"index":2,"start":275.18,"end":567.69,"text_start":275.68,"href":"s31/p002.json"}
+   ]
+  },
+  {
+   "id": "s32",
+   "index": 32,
+   "title": "Chapter 32",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_32_hemingway_64kb.mp3",
+   "duration": 306.0,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":306.0,"text_start":9.86,"href":"s32/p001.json"}
+   ]
+  },
+  {
+   "id": "s33",
+   "index": 33,
+   "title": "Chapter 33",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_33_hemingway_64kb.mp3",
+   "duration": 615.58,
+   "page_count": 2,
+   "status": "mapped",
+   "part": "BOOK IV",
+   "pages": [
+    {"index":1,"start":0.0,"end":309.2,"text_start":10.48,"href":"s33/p001.json"},
+    {"index":2,"start":309.2,"end":615.58,"text_start":309.7,"href":"s33/p002.json"}
+   ]
+  },
+  {
+   "id": "s34",
+   "index": 34,
+   "title": "Chapter 34",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_34_hemingway_64kb.mp3",
+   "duration": 1036.75,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":317.16,"text_start":9.64,"href":"s34/p001.json"},
+    {"index":2,"start":317.16,"end":673.48,"text_start":317.66,"href":"s34/p002.json"},
+    {"index":3,"start":673.48,"end":1036.75,"text_start":673.98,"href":"s34/p003.json"}
+   ]
+  },
+  {
+   "id": "s35",
+   "index": 35,
+   "title": "Chapter 35",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_35_hemingway_64kb.mp3",
+   "duration": 1131.28,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":279.43,"text_start":9.62,"href":"s35/p001.json"},
+    {"index":2,"start":279.43,"end":563.28,"text_start":279.84,"href":"s35/p002.json"},
+    {"index":3,"start":563.28,"end":848.3,"text_start":563.78,"href":"s35/p003.json"},
+    {"index":4,"start":848.3,"end":1131.28,"text_start":848.8,"href":"s35/p004.json"}
+   ]
+  },
+  {
+   "id": "s36",
+   "index": 36,
+   "title": "Chapter 36",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_36_hemingway_64kb.mp3",
+   "duration": 560.85,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":279.02,"text_start":10.12,"href":"s36/p001.json"},
+    {"index":2,"start":279.02,"end":560.85,"text_start":279.52,"href":"s36/p002.json"}
+   ]
+  },
+  {
+   "id": "s37",
+   "index": 37,
+   "title": "Chapter 37",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_37_hemingway_64kb.mp3",
+   "duration": 1719.25,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":279.82,"text_start":10.02,"href":"s37/p001.json"},
+    {"index":2,"start":279.82,"end":570.0,"text_start":280.32,"href":"s37/p002.json"},
+    {"index":3,"start":570.0,"end":859.12,"text_start":570.5,"href":"s37/p003.json"},
+    {"index":4,"start":859.12,"end":1148.68,"text_start":859.62,"href":"s37/p004.json"},
+    {"index":5,"start":1148.68,"end":1436.58,"text_start":1149.18,"href":"s37/p005.json"},
+    {"index":6,"start":1436.58,"end":1719.25,"text_start":1437.08,"href":"s37/p006.json"}
+   ]
+  },
+  {
+   "id": "s38",
+   "index": 38,
+   "title": "Chapter 38",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_38_hemingway_64kb.mp3",
+   "duration": 1345.91,
+   "page_count": 4,
+   "status": "mapped",
+   "part": "BOOK V",
+   "pages": [
+    {"index":1,"start":0.0,"end":302.76,"text_start":10.6,"href":"s38/p001.json"},
+    {"index":2,"start":302.76,"end":649.82,"text_start":303.26,"href":"s38/p002.json"},
+    {"index":3,"start":649.82,"end":998.94,"text_start":650.3,"href":"s38/p003.json"},
+    {"index":4,"start":998.94,"end":1345.91,"text_start":999.38,"href":"s38/p004.json"}
+   ]
+  },
+  {
+   "id": "s39",
+   "index": 39,
+   "title": "Chapter 39",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_39_hemingway_64kb.mp3",
+   "duration": 338.78,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":338.78,"text_start":10.02,"href":"s39/p001.json"}
+   ]
+  },
+  {
+   "id": "s40",
+   "index": 40,
+   "title": "Chapter 40",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_40_hemingway_64kb.mp3",
+   "duration": 606.01,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":303.92,"text_start":9.58,"href":"s40/p001.json"},
+    {"index":2,"start":303.92,"end":606.01,"text_start":304.36,"href":"s40/p002.json"}
+   ]
+  },
+  {
+   "id": "s41",
+   "index": 41,
+   "title": "Chapter 41",
+   "reader": "Mark Nelson",
+   "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_41_hemingway_64kb.mp3",
+   "duration": 2528.21,
+   "page_count": 9,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":276.06,"text_start":10.08,"href":"s41/p001.json"},
+    {"index":2,"start":276.06,"end":552.56,"text_start":276.56,"href":"s41/p002.json"},
+    {"index":3,"start":552.56,"end":835.54,"text_start":553.06,"href":"s41/p003.json"},
+    {"index":4,"start":835.54,"end":1123.38,"text_start":836.04,"href":"s41/p004.json"},
+    {"index":5,"start":1123.38,"end":1409.78,"text_start":1123.88,"href":"s41/p005.json"},
+    {"index":6,"start":1409.78,"end":1683.24,"text_start":1410.28,"href":"s41/p006.json"},
+    {"index":7,"start":1683.24,"end":1967.98,"text_start":1683.74,"href":"s41/p007.json"},
+    {"index":8,"start":1967.98,"end":2254.02,"text_start":1968.48,"href":"s41/p008.json"},
+    {"index":9,"start":2254.02,"end":2528.21,"text_start":2254.52,"href":"s41/p009.json"}
+   ]
+  }
+ ]
+}
