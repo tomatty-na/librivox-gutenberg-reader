@@ -188,9 +188,12 @@
    "reader": "Mark Nelson",
    "audio_url": "https://archive.org/download/afarewelltoarmsversion2_2504_librivox/afarewelltoarmsversion2_12_hemingway_64kb.mp3",
    "duration": 562.76,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":330.48,"text_start":9.5,"href":"s12/p001.json"},
+    {"index":2,"start":330.48,"end":562.76,"text_start":330.98,"href":"s12/p002.json"}
+   ]
   },
   {
    "id": "s13",
