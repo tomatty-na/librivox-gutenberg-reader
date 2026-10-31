@@ -1,0 +1,263 @@
+{
+ "format": "librivox-gutenberg/work",
+ "version": "1.0",
+ "work": {
+  "slug": "the-trembling-of-a-leaf-by-w-somerset-maugham",
+  "title": "Trembling of a Leaf",
+  "author": "W. Somerset Maugham",
+  "gutenberg_id": 26854,
+  "librivox_url": "https://librivox.org/the-trembling-of-a-leaf-by-w-somerset-maugham/",
+  "language": "en",
+  "category": "fiction",
+  "authors": [
+   {
+    "name": "W. Somerset Maugham",
+    "slug": "w-somerset-maugham",
+    "id": 73,
+    "first_name": "W. Somerset",
+    "last_name": "Maugham",
+    "dob": "1874",
+    "dod": "1965"
+   }
+  ],
+  "updated": "2026-10-31"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "index": 1,
+   "title": "Epigraph & Pacific",
+   "reader": "OCTL7",
+   "audio_url": "https://archive.org/download/trembling_of_a_leaf_lb_1702_librivox/tremblingofaleaf_01_maugham_64kb.mp3",
+   "duration": 173.19,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":173.19,"text_start":40.82,"href":"s01/p001.json"}
+   ]
+  },
+  {
+   "id": "s02",
+   "index": 2,
+   "title": "Mackintosh Part 1",
+   "reader": "OCTL7",
+   "audio_url": "https://archive.org/download/trembling_of_a_leaf_lb_1702_librivox/tremblingofaleaf_02_maugham_64kb.mp3",
+   "duration": 2850.95,
+   "page_count": 9,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":313.6,"text_start":11.74,"href":"s02/p001.json"},
+    {"index":2,"start":313.6,"end":640.8,"text_start":314.1,"href":"s02/p002.json"},
+    {"index":3,"start":640.8,"end":944.02,"text_start":641.3,"href":"s02/p003.json"},
+    {"index":4,"start":944.02,"end":1261.29,"text_start":944.34,"href":"s02/p004.json"},
+    {"index":5,"start":1261.29,"end":1581.51,"text_start":1261.52,"href":"s02/p005.json"},
+    {"index":6,"start":1581.51,"end":1895.44,"text_start":1581.84,"href":"s02/p006.json"},
+    {"index":7,"start":1895.44,"end":2195.86,"text_start":1895.76,"href":"s02/p007.json"},
+    {"index":8,"start":2195.86,"end":2506.1,"text_start":2196.08,"href":"s02/p008.json"},
+    {"index":9,"start":2506.1,"end":2850.95,"text_start":2506.44,"href":"s02/p009.json"}
+   ]
+  },
+  {
+   "id": "s03",
+   "index": 3,
+   "title": "Mackintosh Part 2",
+   "reader": "OCTL7",
+   "audio_url": "https://archive.org/download/trembling_of_a_leaf_lb_1702_librivox/tremblingofaleaf_03_maugham_64kb.mp3",
+   "duration": 2207.61,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":298.6,"text_start":11.28,"href":"s03/p001.json"},
+    {"index":2,"start":298.6,"end":619.94,"text_start":299.1,"href":"s03/p002.json"},
+    {"index":3,"start":619.94,"end":942.44,"text_start":620.44,"href":"s03/p003.json"},
+    {"index":4,"start":942.44,"end":1262.83,"text_start":942.94,"href":"s03/p004.json"},
+    {"index":5,"start":1262.83,"end":1585.94,"text_start":1263.18,"href":"s03/p005.json"},
+    {"index":6,"start":1585.94,"end":1897.02,"text_start":1586.24,"href":"s03/p006.json"},
+    {"index":7,"start":1897.02,"end":2207.61,"text_start":1897.28,"href":"s03/p007.json"}
+   ]
+  },
+  {
+   "id": "s04",
+   "index": 4,
+   "title": "The Fall of Edward Barnard Part 1",
+   "reader": "OCTL7",
+   "audio_url": "https://archive.org/download/trembling_of_a_leaf_lb_1702_librivox/tremblingofaleaf_04_maugham_64kb.mp3",
+   "duration": 2219.65,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":292.12,"text_start":23.64,"href":"s04/p001.json"},
+    {"index":2,"start":292.12,"end":584.29,"text_start":292.62,"href":"s04/p002.json"},
+    {"index":3,"start":584.29,"end":920.9,"text_start":584.56,"href":"s04/p003.json"},
+    {"index":4,"start":920.9,"end":1261.05,"text_start":921.4,"href":"s04/p004.json"},
+    {"index":5,"start":1261.05,"end":1587.04,"text_start":1261.26,"href":"s04/p005.json"},
+    {"index":6,"start":1587.04,"end":1905.17,"text_start":1587.34,"href":"s04/p006.json"},
+    {"index":7,"start":1905.17,"end":2219.65,"text_start":1905.58,"href":"s04/p007.json"}
+   ]
+  },
+  {
+   "id": "s05",
+   "index": 5,
+   "title": "The Fall of Edward Barnard Part 2",
+   "reader": "OCTL7",
+   "audio_url": "https://archive.org/download/trembling_of_a_leaf_lb_1702_librivox/tremblingofaleaf_05_maugham_64kb.mp3",
+   "duration": 2408.49,
+   "page_count": 8,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":296.48,"text_start":12.46,"href":"s05/p001.json"},
+    {"index":2,"start":296.48,"end":591.66,"text_start":296.68,"href":"s05/p002.json"},
+    {"index":3,"start":591.66,"end":895.9,"text_start":591.94,"href":"s05/p003.json"},
+    {"index":4,"start":895.9,"end":1200.14,"text_start":896.34,"href":"s05/p004.json"},
+    {"index":5,"start":1200.14,"end":1503.61,"text_start":1200.64,"href":"s05/p005.json"},
+    {"index":6,"start":1503.61,"end":1805.06,"text_start":1504.08,"href":"s05/p006.json"},
+    {"index":7,"start":1805.06,"end":2122.76,"text_start":1805.56,"href":"s05/p007.json"},
+    {"index":8,"start":2122.76,"end":2408.49,"text_start":2123.26,"href":"s05/p008.json"}
+   ]
+  },
+  {
+   "id": "s06",
+   "index": 6,
+   "title": "Red",
+   "reader": "OCTL7",
+   "audio_url": "https://archive.org/download/trembling_of_a_leaf_lb_1702_librivox/tremblingofaleaf_06_maugham_64kb.mp3",
+   "duration": 3315.2,
+   "page_count": 11,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":276.88,"text_start":24.2,"href":"s06/p001.json"},
+    {"index":2,"start":276.88,"end":561.34,"text_start":277.38,"href":"s06/p002.json"},
+    {"index":3,"start":561.34,"end":854.75,"text_start":561.84,"href":"s06/p003.json"},
+    {"index":4,"start":854.75,"end":1150.65,"text_start":855.06,"href":"s06/p004.json"},
+    {"index":5,"start":1150.65,"end":1445.56,"text_start":1150.84,"href":"s06/p005.json"},
+    {"index":6,"start":1445.56,"end":1767.16,"text_start":1445.74,"href":"s06/p006.json"},
+    {"index":7,"start":1767.16,"end":2086.66,"text_start":1767.5,"href":"s06/p007.json"},
+    {"index":8,"start":2086.66,"end":2345.99,"text_start":2087.16,"href":"s06/p008.json"},
+    {"index":9,"start":2345.99,"end":2672.95,"text_start":2346.34,"href":"s06/p009.json"},
+    {"index":10,"start":2672.95,"end":2990.19,"text_start":2673.22,"href":"s06/p010.json"},
+    {"index":11,"start":2990.19,"end":3315.2,"text_start":2990.4,"href":"s06/p011.json"}
+   ]
+  },
+  {
+   "id": "s07",
+   "index": 7,
+   "title": "The Pool Part 1",
+   "reader": "OCTL7",
+   "audio_url": "https://archive.org/download/trembling_of_a_leaf_lb_1702_librivox/tremblingofaleaf_07_maugham_64kb.mp3",
+   "duration": 2636.67,
+   "page_count": 9,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":287.12,"text_start":22.42,"href":"s07/p001.json"},
+    {"index":2,"start":287.12,"end":582.58,"text_start":287.6,"href":"s07/p002.json"},
+    {"index":3,"start":582.58,"end":884.23,"text_start":583.06,"href":"s07/p003.json"},
+    {"index":4,"start":884.23,"end":1160.66,"text_start":884.54,"href":"s07/p004.json"},
+    {"index":5,"start":1160.66,"end":1453.01,"text_start":1161.14,"href":"s07/p005.json"},
+    {"index":6,"start":1453.01,"end":1785.7,"text_start":1453.34,"href":"s07/p006.json"},
+    {"index":7,"start":1785.7,"end":2074.08,"text_start":1785.96,"href":"s07/p007.json"},
+    {"index":8,"start":2074.08,"end":2356.28,"text_start":2074.3,"href":"s07/p008.json"},
+    {"index":9,"start":2356.28,"end":2636.67,"text_start":2356.54,"href":"s07/p009.json"}
+   ]
+  },
+  {
+   "id": "s08",
+   "index": 8,
+   "title": "The Pool Part 2",
+   "reader": "OCTL7",
+   "audio_url": "https://archive.org/download/trembling_of_a_leaf_lb_1702_librivox/tremblingofaleaf_08_maugham_64kb.mp3",
+   "duration": 2947.94,
+   "page_count": 10,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":317.75,"text_start":25.4,"href":"s08/p001.json"},
+    {"index":2,"start":317.75,"end":624.81,"text_start":318.0,"href":"s08/p002.json"},
+    {"index":3,"start":624.81,"end":921.16,"text_start":625.02,"href":"s08/p003.json"},
+    {"index":4,"start":921.16,"end":1215.13,"text_start":921.4,"href":"s08/p004.json"},
+    {"index":5,"start":1215.13,"end":1504.33,"text_start":1215.4,"href":"s08/p005.json"},
+    {"index":6,"start":1504.33,"end":1796.43,"text_start":1504.68,"href":"s08/p006.json"},
+    {"index":7,"start":1796.43,"end":2082.69,"text_start":1796.72,"href":"s08/p007.json"},
+    {"index":8,"start":2082.69,"end":2372.07,"text_start":2082.98,"href":"s08/p008.json"},
+    {"index":9,"start":2372.07,"end":2660.7,"text_start":2372.38,"href":"s08/p009.json"},
+    {"index":10,"start":2660.7,"end":2947.94,"text_start":2661.2,"href":"s08/p010.json"}
+   ]
+  },
+  {
+   "id": "s09",
+   "index": 9,
+   "title": "Honolulu",
+   "reader": "OCTL7",
+   "audio_url": "https://archive.org/download/trembling_of_a_leaf_lb_1702_librivox/tremblingofaleaf_09_maugham_64kb.mp3",
+   "duration": 3511.35,
+   "page_count": 11,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":336.39,"text_start":21.68,"href":"s09/p001.json"},
+    {"index":2,"start":336.39,"end":647.08,"text_start":336.76,"href":"s09/p002.json"},
+    {"index":3,"start":647.08,"end":958.91,"text_start":647.5,"href":"s09/p003.json"},
+    {"index":4,"start":958.91,"end":1273.62,"text_start":959.26,"href":"s09/p004.json"},
+    {"index":5,"start":1273.62,"end":1585.11,"text_start":1274.12,"href":"s09/p005.json"},
+    {"index":6,"start":1585.11,"end":1886.96,"text_start":1585.36,"href":"s09/p006.json"},
+    {"index":7,"start":1886.96,"end":2211.36,"text_start":1887.46,"href":"s09/p007.json"},
+    {"index":8,"start":2211.36,"end":2563.75,"text_start":2211.86,"href":"s09/p008.json"},
+    {"index":9,"start":2563.75,"end":2892.22,"text_start":2564.0,"href":"s09/p009.json"},
+    {"index":10,"start":2892.22,"end":3208.99,"text_start":2892.42,"href":"s09/p010.json"},
+    {"index":11,"start":3208.99,"end":3511.35,"text_start":3209.18,"href":"s09/p011.json"}
+   ]
+  },
+  {
+   "id": "s10",
+   "index": 10,
+   "title": "Rain Part 1",
+   "reader": "OCTL7",
+   "audio_url": "https://archive.org/download/trembling_of_a_leaf_lb_1702_librivox/tremblingofaleaf_10_maugham_64kb.mp3",
+   "duration": 3075.5,
+   "page_count": 10,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":324.6,"text_start":22.38,"href":"s10/p001.json"},
+    {"index":2,"start":324.6,"end":627.57,"text_start":325.1,"href":"s10/p002.json"},
+    {"index":3,"start":627.57,"end":926.03,"text_start":627.98,"href":"s10/p003.json"},
+    {"index":4,"start":926.03,"end":1226.58,"text_start":926.42,"href":"s10/p004.json"},
+    {"index":5,"start":1226.58,"end":1530.21,"text_start":1227.08,"href":"s10/p005.json"},
+    {"index":6,"start":1530.21,"end":1829.59,"text_start":1530.48,"href":"s10/p006.json"},
+    {"index":7,"start":1829.59,"end":2131.36,"text_start":1829.86,"href":"s10/p007.json"},
+    {"index":8,"start":2131.36,"end":2436.05,"text_start":2131.74,"href":"s10/p008.json"},
+    {"index":9,"start":2436.05,"end":2741.01,"text_start":2436.36,"href":"s10/p009.json"},
+    {"index":10,"start":2741.01,"end":3075.5,"text_start":2741.16,"href":"s10/p010.json"}
+   ]
+  },
+  {
+   "id": "s11",
+   "index": 11,
+   "title": "Rain Part 2",
+   "reader": "OCTL7",
+   "audio_url": "https://archive.org/download/trembling_of_a_leaf_lb_1702_librivox/tremblingofaleaf_11_maugham_64kb.mp3",
+   "duration": 2398.22,
+   "page_count": 8,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":290.45,"text_start":20.92,"href":"s11/p001.json"},
+    {"index":2,"start":290.45,"end":578.66,"text_start":290.8,"href":"s11/p002.json"},
+    {"index":3,"start":578.66,"end":873.28,"text_start":579.02,"href":"s11/p003.json"},
+    {"index":4,"start":873.28,"end":1163.87,"text_start":873.78,"href":"s11/p004.json"},
+    {"index":5,"start":1163.87,"end":1459.59,"text_start":1164.32,"href":"s11/p005.json"},
+    {"index":6,"start":1459.59,"end":1751.79,"text_start":1460.08,"href":"s11/p006.json"},
+    {"index":7,"start":1751.79,"end":2072.88,"text_start":1751.98,"href":"s11/p007.json"},
+    {"index":8,"start":2072.88,"end":2398.22,"text_start":2072.88,"href":"s11/p008.json"}
+   ]
+  },
+  {
+   "id": "s12",
+   "index": 12,
+   "title": "Envoi",
+   "reader": "OCTL7",
+   "audio_url": "https://archive.org/download/trembling_of_a_leaf_lb_1702_librivox/tremblingofaleaf_12_maugham_64kb.mp3",
+   "duration": 88.24,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":88.24,"text_start":20.82,"href":"s12/p001.json"}
+   ]
+  }
+ ]
+}
