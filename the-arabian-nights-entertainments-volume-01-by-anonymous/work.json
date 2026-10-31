@@ -70,7 +70,7 @@
   {
    "id": "s04",
    "index": 4,
-   "title": "<b>The Merchant and the Genie</b>",
+   "title": "The Merchant and the Genie",
    "reader": "Tim Gregory",
    "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_03_anonymous_64kb.mp3",
    "duration": 872.71,
@@ -114,7 +114,7 @@
   {
    "id": "s07",
    "index": 7,
-   "title": "<b>The Story of the Fisherman</b>",
+   "title": "The Story of the Fisherman",
    "reader": "Ted Nugent",
    "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_06_anonymous_64kb.mp3",
    "duration": 1326.5,
@@ -193,7 +193,7 @@
   {
    "id": "s12",
    "index": 12,
-   "title": "<b>Story of the Three Calenders, Sons of Sultans; and of the Five Ladies of Bagdad</b>",
+   "title": "Story of the Three Calenders, Sons of Sultans; and of the Five Ladies of Bagdad",
    "reader": "John Pruden",
    "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_11_anonymous_64kb.mp3",
    "duration": 2417.48,
@@ -336,7 +336,7 @@
   {
    "id": "s20",
    "index": 20,
-   "title": "<b>The Story of Sinbad the Voyager</b>",
+   "title": "The Story of Sinbad the Voyager",
    "reader": "Lucy Lo Faro",
    "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_19_anonymous_64kb.mp3",
    "duration": 453.31,
@@ -457,7 +457,7 @@
   {
    "id": "s28",
    "index": 28,
-   "title": "<b>The Three Apples</b>",
+   "title": "The Three Apples",
    "reader": "tipaew",
    "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_27_anonymous_64kb.mp3",
    "duration": 629.32,
@@ -486,7 +486,7 @@
   {
    "id": "s30",
    "index": 30,
-   "title": "<b>The Story of Noor ad Deen Ali and Buddir ad Deen Hossun</b>, part a",
+   "title": "The Story of Noor ad Deen Ali and Buddir ad Deen Hossun, part a",
    "reader": "Zapo",
    "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_29_anonymous_64kb.mp3",
    "duration": 2671.37,
@@ -507,7 +507,7 @@
   {
    "id": "s31",
    "index": 31,
-   "title": "<b>The Story of Noor ad Deen Ali and Buddir ad Deen Hossun</b>, part b",
+   "title": "The Story of Noor ad Deen Ali and Buddir ad Deen Hossun, part b",
    "reader": "Jonathan Feldman",
    "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_30_anonymous_64kb.mp3",
    "duration": 2115.48,
@@ -526,7 +526,7 @@
   {
    "id": "s32",
    "index": 32,
-   "title": "<b>The Story of Noor ad Deen Ali and Buddir ad Deen Hossun</b>, part c",
+   "title": "The Story of Noor ad Deen Ali and Buddir ad Deen Hossun, part c",
    "reader": "Lars Rolander (1942-2016)",
    "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_31_anonymous_64kb.mp3",
    "duration": 2287.11,
@@ -546,7 +546,7 @@
   {
    "id": "s33",
    "index": 33,
-   "title": "<b>The History of Ganem, Son of Abou Ayoub, and Known by the Surname of Love's Slave</b>, part a",
+   "title": "The History of Ganem, Son of Abou Ayoub, and Known by the Surname of Love's Slave, part a",
    "reader": "Jon Scott Jones",
    "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_32_anonymous_64kb.mp3",
    "duration": 2215.69,
@@ -565,7 +565,7 @@
   {
    "id": "s34",
    "index": 34,
-   "title": "<b>The History of Ganem, Son of Abou Ayoub, and Known by the Surname of Love's Slave</b>, part b",
+   "title": "The History of Ganem, Son of Abou Ayoub, and Known by the Surname of Love's Slave, part b",
    "reader": "Jon Scott Jones",
    "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_33_anonymous_64kb.mp3",
    "duration": 2142.26,
@@ -584,7 +584,7 @@
   {
    "id": "s35",
    "index": 35,
-   "title": "<b>The History of Ganem, Son of Abou Ayoub, and Known by the Surname of Love's Slave</b>, part c",
+   "title": "The History of Ganem, Son of Abou Ayoub, and Known by the Surname of Love's Slave, part c",
    "reader": "Jon Scott Jones",
    "audio_url": "https://archive.org/download/arabian_nights_01_0806/arabiannights01_34_anonymous_64kb.mp3",
    "duration": 2124.49,
