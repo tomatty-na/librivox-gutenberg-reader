@@ -20,7 +20,7 @@
     "dod": "1891"
    }
   ],
-  "updated": "2026-10-29"
+  "updated": "2026-10-31"
  },
  "sections": [
   {
@@ -719,9 +719,17 @@
    "reader": "Stewart Wills",
    "audio_url": "https://archive.org/download/moby_dick_librivox/mobydick_119_123_melville_64kb.mp3",
    "duration": 1963.26,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":271.34,"text_start":28.04,"href":"s39/p001.json"},
+    {"index":2,"start":271.34,"end":533.78,"text_start":271.84,"href":"s39/p002.json"},
+    {"index":3,"start":533.78,"end":798.0,"text_start":534.28,"href":"s39/p003.json"},
+    {"index":4,"start":798.0,"end":1069.68,"text_start":798.5,"href":"s39/p004.json"},
+    {"index":5,"start":1069.68,"end":1388.68,"text_start":1070.18,"href":"s39/p005.json"},
+    {"index":6,"start":1388.68,"end":1623.66,"text_start":1389.18,"href":"s39/p006.json"},
+    {"index":7,"start":1623.66,"end":1963.26,"text_start":1624.16,"href":"s39/p007.json"}
+   ]
   },
   {
    "id": "s40",
