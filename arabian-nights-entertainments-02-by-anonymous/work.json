@@ -1,0 +1,619 @@
+{
+ "format": "librivox-gutenberg/work",
+ "version": "1.0",
+ "work": {
+  "slug": "arabian-nights-entertainments-02-by-anonymous",
+  "title": "The Arabian Nights Entertainments, Volume 02",
+  "author": "Anonymous",
+  "gutenberg_id": 5665,
+  "librivox_url": "https://librivox.org/arabian-nights-entertainments-02-by-anonymous/",
+  "language": "en",
+  "category": "fiction",
+  "authors": [
+   {
+    "name": "Anonymous",
+    "slug": "anonymous",
+    "id": 19,
+    "last_name": "Anonymous"
+   }
+  ],
+  "updated": "2026-11-01"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "index": 1,
+   "title": "The Story of the Little Hunch-Back",
+   "reader": "Mary Bard",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_01_anonymous_64kb.mp3",
+   "duration": 1225.53,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":299.0,"text_start":27.16,"href":"s01/p001.json"},
+    {"index":2,"start":299.0,"end":579.94,"text_start":299.5,"href":"s01/p002.json"},
+    {"index":3,"start":579.94,"end":886.08,"text_start":580.44,"href":"s01/p003.json"},
+    {"index":4,"start":886.08,"end":1225.53,"text_start":886.58,"href":"s01/p004.json"}
+   ]
+  },
+  {
+   "id": "s02",
+   "index": 2,
+   "title": "The Story Told by the Christian Merchant",
+   "reader": "Mary Bard",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_02_anonymous_64kb.mp3",
+   "duration": 2372.49,
+   "page_count": 8,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":331.72,"text_start":6.62,"href":"s02/p001.json"},
+    {"index":2,"start":331.72,"end":623.66,"text_start":332.22,"href":"s02/p002.json"},
+    {"index":3,"start":623.66,"end":948.72,"text_start":624.16,"href":"s02/p003.json"},
+    {"index":4,"start":948.72,"end":1219.12,"text_start":949.22,"href":"s02/p004.json"},
+    {"index":5,"start":1219.12,"end":1492.04,"text_start":1219.62,"href":"s02/p005.json"},
+    {"index":6,"start":1492.04,"end":1778.56,"text_start":1492.54,"href":"s02/p006.json"},
+    {"index":7,"start":1778.56,"end":2068.1,"text_start":1779.06,"href":"s02/p007.json"},
+    {"index":8,"start":2068.1,"end":2372.49,"text_start":2068.6,"href":"s02/p008.json"}
+   ]
+  },
+  {
+   "id": "s03",
+   "index": 3,
+   "title": "The Story Told by the Sultan of Casgar's Purveyor",
+   "reader": "Mary Bard",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_03_anonymous_64kb.mp3",
+   "duration": 2077.47,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":307.96,"text_start":8.4,"href":"s03/p001.json"},
+    {"index":2,"start":307.96,"end":600.57,"text_start":308.46,"href":"s03/p002.json"},
+    {"index":3,"start":600.57,"end":923.2,"text_start":601.02,"href":"s03/p003.json"},
+    {"index":4,"start":923.2,"end":1206.72,"text_start":923.7,"href":"s03/p004.json"},
+    {"index":5,"start":1206.72,"end":1494.94,"text_start":1207.22,"href":"s03/p005.json"},
+    {"index":6,"start":1494.94,"end":1773.66,"text_start":1495.44,"href":"s03/p006.json"},
+    {"index":7,"start":1773.66,"end":2077.47,"text_start":1774.16,"href":"s03/p007.json"}
+   ]
+  },
+  {
+   "id": "s04",
+   "index": 4,
+   "title": "The Story Told by the Jewish Physician",
+   "reader": "Mary Bard",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_04_anonymous_64kb.mp3",
+   "duration": 2139.48,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":366.46,"text_start":7.82,"href":"s04/p001.json"},
+    {"index":2,"start":366.46,"end":642.88,"text_start":366.96,"href":"s04/p002.json"},
+    {"index":3,"start":642.88,"end":938.07,"text_start":643.38,"href":"s04/p003.json"},
+    {"index":4,"start":938.07,"end":1209.18,"text_start":938.54,"href":"s04/p004.json"},
+    {"index":5,"start":1209.18,"end":1478.56,"text_start":1209.68,"href":"s04/p005.json"},
+    {"index":6,"start":1478.56,"end":1759.5,"text_start":1479.06,"href":"s04/p006.json"},
+    {"index":7,"start":1759.5,"end":2139.48,"text_start":1760.0,"href":"s04/p007.json"}
+   ]
+  },
+  {
+   "id": "s05",
+   "index": 5,
+   "title": "The Story Told by the Tailor",
+   "reader": "Mary Bard",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_05_anonymous_64kb.mp3",
+   "duration": 2883.79,
+   "page_count": 9,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":399.46,"text_start":7.92,"href":"s05/p001.json"},
+    {"index":2,"start":399.46,"end":705.9,"text_start":399.96,"href":"s05/p002.json"},
+    {"index":3,"start":705.9,"end":1021.3,"text_start":706.4,"href":"s05/p003.json"},
+    {"index":4,"start":1021.3,"end":1330.5,"text_start":1021.8,"href":"s05/p004.json"},
+    {"index":5,"start":1330.5,"end":1666.6,"text_start":1331.0,"href":"s05/p005.json"},
+    {"index":6,"start":1666.6,"end":1977.5,"text_start":1667.1,"href":"s05/p006.json"},
+    {"index":7,"start":1977.5,"end":2280.54,"text_start":1978.0,"href":"s05/p007.json"},
+    {"index":8,"start":2280.54,"end":2610.28,"text_start":2281.04,"href":"s05/p008.json"},
+    {"index":9,"start":2610.28,"end":2883.79,"text_start":2610.78,"href":"s05/p009.json"}
+   ]
+  },
+  {
+   "id": "s06",
+   "index": 6,
+   "title": "The Story Told by the Barber",
+   "reader": "Mary Bard",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_06_anonymous_64kb.mp3",
+   "duration": 330.4,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":330.4,"text_start":7.72,"href":"s06/p001.json"}
+   ]
+  },
+  {
+   "id": "s07",
+   "index": 7,
+   "title": "The Story Told by the Barber's Eldest Brother",
+   "reader": "Mary Bard",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_07_anonymous_64kb.mp3",
+   "duration": 692.32,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":391.1,"text_start":7.66,"href":"s07/p001.json"},
+    {"index":2,"start":391.1,"end":692.32,"text_start":391.6,"href":"s07/p002.json"}
+   ]
+  },
+  {
+   "id": "s08",
+   "index": 8,
+   "title": "The Story Told by the Barber's Second Brother",
+   "reader": "Mary Bard",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_08_anonymous_64kb.mp3",
+   "duration": 908.56,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":313.06,"text_start":8.16,"href":"s08/p001.json"},
+    {"index":2,"start":313.06,"end":702.6,"text_start":313.56,"href":"s08/p002.json"},
+    {"index":3,"start":702.6,"end":908.56,"text_start":703.1,"href":"s08/p003.json"}
+   ]
+  },
+  {
+   "id": "s09",
+   "index": 9,
+   "title": "The Story Told by the Barber's Third Brother",
+   "reader": "Mary Bard",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_09_anonymous_64kb.mp3",
+   "duration": 720.48,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":298.98,"text_start":8.08,"href":"s09/p001.json"},
+    {"index":2,"start":298.98,"end":720.48,"text_start":299.48,"href":"s09/p002.json"}
+   ]
+  },
+  {
+   "id": "s10",
+   "index": 10,
+   "title": "The Story Told by the Barber's Fourth Brother",
+   "reader": "Mary Bard",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_10_anonymous_64kb.mp3",
+   "duration": 636.6,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":333.96,"text_start":7.84,"href":"s10/p001.json"},
+    {"index":2,"start":333.96,"end":636.6,"text_start":334.46,"href":"s10/p002.json"}
+   ]
+  },
+  {
+   "id": "s11",
+   "index": 11,
+   "title": "The Story Told by the Barber's Fifth Brother",
+   "reader": "Mary Bard",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_11_anonymous_64kb.mp3",
+   "duration": 1529.47,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":418.32,"text_start":8.02,"href":"s11/p001.json"},
+    {"index":2,"start":418.32,"end":774.96,"text_start":418.82,"href":"s11/p002.json"},
+    {"index":3,"start":774.96,"end":1141.62,"text_start":775.46,"href":"s11/p003.json"},
+    {"index":4,"start":1141.62,"end":1529.47,"text_start":1142.12,"href":"s11/p004.json"}
+   ]
+  },
+  {
+   "id": "s12",
+   "index": 12,
+   "title": "The Story Told by the Barber's Sixth Brother",
+   "reader": "Mary Bard",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_12_anonymous_64kb.mp3",
+   "duration": 1525.66,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":285.46,"text_start":7.3,"href":"s12/p001.json"},
+    {"index":2,"start":285.46,"end":599.86,"text_start":285.86,"href":"s12/p002.json"},
+    {"index":3,"start":599.86,"end":953.06,"text_start":600.36,"href":"s12/p003.json"},
+    {"index":4,"start":953.06,"end":1248.72,"text_start":953.56,"href":"s12/p004.json"},
+    {"index":5,"start":1248.72,"end":1525.66,"text_start":1249.22,"href":"s12/p005.json"}
+   ]
+  },
+  {
+   "id": "s13",
+   "index": 13,
+   "title": "The History of Aboulhassen Ali Ebn Ecar, and Schemselnihar, Favourite of Caliph Haroon Al Rusheed part 1",
+   "reader": "Mary Bard",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_13_anonymous_64kb.mp3",
+   "duration": 2315.96,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":325.46,"text_start":8.32,"href":"s13/p001.json"},
+    {"index":2,"start":325.46,"end":625.82,"text_start":325.96,"href":"s13/p002.json"},
+    {"index":3,"start":625.82,"end":960.94,"text_start":626.32,"href":"s13/p003.json"},
+    {"index":4,"start":960.94,"end":1243.96,"text_start":961.44,"href":"s13/p004.json"},
+    {"index":5,"start":1243.96,"end":1602.2,"text_start":1244.46,"href":"s13/p005.json"},
+    {"index":6,"start":1602.2,"end":1947.36,"text_start":1602.7,"href":"s13/p006.json"},
+    {"index":7,"start":1947.36,"end":2315.96,"text_start":1947.86,"href":"s13/p007.json"}
+   ]
+  },
+  {
+   "id": "s14",
+   "index": 14,
+   "title": "The History of Aboulhassen Ali Ebn Ecar, and Schemselnihar, Favourite of Caliph Haroon Al Rusheed part 2",
+   "reader": "Mary Bard",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_14_anonymous_64kb.mp3",
+   "duration": 1822.67,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":320.02,"text_start":21.62,"href":"s14/p001.json"},
+    {"index":2,"start":320.02,"end":623.34,"text_start":320.5,"href":"s14/p002.json"},
+    {"index":3,"start":623.34,"end":947.49,"text_start":623.84,"href":"s14/p003.json"},
+    {"index":4,"start":947.49,"end":1217.92,"text_start":947.96,"href":"s14/p004.json"},
+    {"index":5,"start":1217.92,"end":1502.62,"text_start":1218.42,"href":"s14/p005.json"},
+    {"index":6,"start":1502.62,"end":1822.67,"text_start":1503.12,"href":"s14/p006.json"}
+   ]
+  },
+  {
+   "id": "s15",
+   "index": 15,
+   "title": "The History of Aboulhassen Ali Ebn Ecar, and Schemselnihar, Favourite of Caliph Haroon Al Rusheed part 3",
+   "reader": "Mary Bard",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_15_anonymous_64kb.mp3",
+   "duration": 1196.88,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":252.02,"text_start":21.58,"href":"s15/p001.json"},
+    {"index":2,"start":252.02,"end":555.78,"text_start":252.52,"href":"s15/p002.json"},
+    {"index":3,"start":555.78,"end":843.42,"text_start":556.28,"href":"s15/p003.json"},
+    {"index":4,"start":843.42,"end":1196.88,"text_start":843.92,"href":"s15/p004.json"}
+   ]
+  },
+  {
+   "id": "s16",
+   "index": 16,
+   "title": "The History of Aboulhassen Ali Ebn Ecar, and Schemselnihar, Favourite of Caliph Haroon Al Rusheed part 4",
+   "reader": "Mary Bard",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_16_anonymous_64kb.mp3",
+   "duration": 1501.75,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":285.32,"text_start":21.74,"href":"s16/p001.json"},
+    {"index":2,"start":285.32,"end":624.02,"text_start":285.82,"href":"s16/p002.json"},
+    {"index":3,"start":624.02,"end":918.8,"text_start":624.52,"href":"s16/p003.json"},
+    {"index":4,"start":918.8,"end":1230.68,"text_start":919.3,"href":"s16/p004.json"},
+    {"index":5,"start":1230.68,"end":1501.75,"text_start":1231.18,"href":"s16/p005.json"}
+   ]
+  },
+  {
+   "id": "s17",
+   "index": 17,
+   "title": "The History of Aboulhassen Ali Ebn Ecar, and Schemselnihar, Favourite of Caliph Haroon Al Rusheed part 5",
+   "reader": "Mary Bard",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_17_anonymous_64kb.mp3",
+   "duration": 1340.84,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":357.44,"text_start":22.2,"href":"s17/p001.json"},
+    {"index":2,"start":357.44,"end":689.28,"text_start":357.94,"href":"s17/p002.json"},
+    {"index":3,"start":689.28,"end":1034.37,"text_start":689.78,"href":"s17/p003.json"},
+    {"index":4,"start":1034.37,"end":1340.84,"text_start":1034.82,"href":"s17/p004.json"}
+   ]
+  },
+  {
+   "id": "s18",
+   "index": 18,
+   "title": "The History of Aboulhassen Ali Ebn Ecar, and Schemselnihar, Favourite of Caliph Haroon Al Rusheed part 6",
+   "reader": "Mary Bard",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_18_anonymous_64kb.mp3",
+   "duration": 1277.91,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":304.04,"text_start":22.12,"href":"s18/p001.json"},
+    {"index":2,"start":304.04,"end":616.72,"text_start":304.54,"href":"s18/p002.json"},
+    {"index":3,"start":616.72,"end":956.92,"text_start":617.22,"href":"s18/p003.json"},
+    {"index":4,"start":956.92,"end":1277.91,"text_start":957.42,"href":"s18/p004.json"}
+   ]
+  },
+  {
+   "id": "s19",
+   "index": 19,
+   "title": "The History of Aboulhassen Ali Ebn Ecar, and Schemselnihar, Favourite of Caliph Haroon Al Rusheed part 7",
+   "reader": "Kathrine Engan",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_19_anonymous_64kb.mp3",
+   "duration": 1107.3,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":271.9,"text_start":41.92,"href":"s19/p001.json"},
+    {"index":2,"start":271.9,"end":557.78,"text_start":272.4,"href":"s19/p002.json"},
+    {"index":3,"start":557.78,"end":842.24,"text_start":558.28,"href":"s19/p003.json"},
+    {"index":4,"start":842.24,"end":1107.3,"text_start":842.74,"href":"s19/p004.json"}
+   ]
+  },
+  {
+   "id": "s20",
+   "index": 20,
+   "title": "The Story of the Loves of Kummir Al Zummaun, Prince of the Isles of the Children of Khaledan, and of Badoura, Princess of China, part 1",
+   "reader": "Jim Locke",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_20_anonymous_64kb.mp3",
+   "duration": 1167.7,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":276.33,"text_start":33.92,"href":"s20/p001.json"},
+    {"index":2,"start":276.33,"end":577.63,"text_start":276.56,"href":"s20/p002.json"},
+    {"index":3,"start":577.63,"end":863.84,"text_start":577.96,"href":"s20/p003.json"},
+    {"index":4,"start":863.84,"end":1167.7,"text_start":864.08,"href":"s20/p004.json"}
+   ]
+  },
+  {
+   "id": "s21",
+   "index": 21,
+   "title": "The Story of the Loves of Kummir Al Zummaun, Prince of the Isles of the Children of Khaledan, and of Badoura, Princess of China, part 2",
+   "reader": "Jim Locke",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_21_anonymous_64kb.mp3",
+   "duration": 1073.61,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":277.38,"text_start":52.64,"href":"s21/p001.json"},
+    {"index":2,"start":277.38,"end":544.65,"text_start":277.88,"href":"s21/p002.json"},
+    {"index":3,"start":544.65,"end":813.81,"text_start":544.94,"href":"s21/p003.json"},
+    {"index":4,"start":813.81,"end":1073.61,"text_start":814.1,"href":"s21/p004.json"}
+   ]
+  },
+  {
+   "id": "s22",
+   "index": 22,
+   "title": "The Story of the Loves of Kummir Al Zummaun, Prince of the Isles of the Children of Khaledan, and of Badoura, Princess of China, part 3",
+   "reader": "Jim Locke",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_22_anonymous_64kb.mp3",
+   "duration": 1026.4,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":343.07,"text_start":44.96,"href":"s22/p001.json"},
+    {"index":2,"start":343.07,"end":697.78,"text_start":343.3,"href":"s22/p002.json"},
+    {"index":3,"start":697.78,"end":1026.4,"text_start":698.28,"href":"s22/p003.json"}
+   ]
+  },
+  {
+   "id": "s23",
+   "index": 23,
+   "title": "The Story of the Loves of Kummir Al Zummaun, Prince of the Isles of the Children of Khaledan, and of Badoura, Princess of China, part 4",
+   "reader": "Jim Locke",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_23_anonymous_64kb.mp3",
+   "duration": 1198.34,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":305.57,"text_start":43.44,"href":"s23/p001.json"},
+    {"index":2,"start":305.57,"end":594.78,"text_start":305.84,"href":"s23/p002.json"},
+    {"index":3,"start":594.78,"end":888.8,"text_start":594.94,"href":"s23/p003.json"},
+    {"index":4,"start":888.8,"end":1198.34,"text_start":888.92,"href":"s23/p004.json"}
+   ]
+  },
+  {
+   "id": "s24",
+   "index": 24,
+   "title": "The Story of the Loves of Kummir Al Zummaun, Prince of the Isles of the Children of Khaledan, and of Badoura, Princess of China, part 5",
+   "reader": "Jim Locke",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_24_anonymous_64kb.mp3",
+   "duration": 951.33,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":314.86,"text_start":42.44,"href":"s24/p001.json"},
+    {"index":2,"start":314.86,"end":625.03,"text_start":315.22,"href":"s24/p002.json"},
+    {"index":3,"start":625.03,"end":951.33,"text_start":625.2,"href":"s24/p003.json"}
+   ]
+  },
+  {
+   "id": "s25",
+   "index": 25,
+   "title": "The Story of the Loves of Kummir Al Zummaun, Prince of the Isles of the Children of Khaledan, and of Badoura, Princess of China, part 6",
+   "reader": "Jim Locke",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_25_anonymous_64kb.mp3",
+   "duration": 1183.84,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":292.19,"text_start":41.48,"href":"s25/p001.json"},
+    {"index":2,"start":292.19,"end":587.47,"text_start":292.52,"href":"s25/p002.json"},
+    {"index":3,"start":587.47,"end":867.86,"text_start":587.68,"href":"s25/p003.json"},
+    {"index":4,"start":867.86,"end":1183.84,"text_start":868.16,"href":"s25/p004.json"}
+   ]
+  },
+  {
+   "id": "s26",
+   "index": 26,
+   "title": "The Story of the Loves of Kummir Al Zummaun, Prince of the Isles of the Children of Khaledan, and of Badoura, Princess of China, part 7",
+   "reader": "Jim Locke",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_26_anonymous_64kb.mp3",
+   "duration": 916.66,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":315.69,"text_start":28.16,"href":"s26/p001.json"},
+    {"index":2,"start":315.69,"end":598.86,"text_start":315.98,"href":"s26/p002.json"},
+    {"index":3,"start":598.86,"end":916.66,"text_start":599.16,"href":"s26/p003.json"}
+   ]
+  },
+  {
+   "id": "s27",
+   "index": 27,
+   "title": "The Story of the Loves of Kummir Al Zummaun, Prince of the Isles of the Children of Khaledan, and of Badoura, Princess of China, part 8",
+   "reader": "Lee",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_27_anonymous_64kb.mp3",
+   "duration": 1067.15,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":354.9,"text_start":48.12,"href":"s27/p001.json"},
+    {"index":2,"start":354.9,"end":710.52,"text_start":355.34,"href":"s27/p002.json"},
+    {"index":3,"start":710.52,"end":1067.15,"text_start":710.96,"href":"s27/p003.json"}
+   ]
+  },
+  {
+   "id": "s28",
+   "index": 28,
+   "title": "The Story of the Princes Amgiad and Assad",
+   "reader": "Kerry Adams",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_28_anonymous_64kb.mp3",
+   "duration": 2047.76,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":302.52,"text_start":34.36,"href":"s28/p001.json"},
+    {"index":2,"start":302.52,"end":577.6,"text_start":303.02,"href":"s28/p002.json"},
+    {"index":3,"start":577.6,"end":870.68,"text_start":577.94,"href":"s28/p003.json"},
+    {"index":4,"start":870.68,"end":1156.92,"text_start":871.18,"href":"s28/p004.json"},
+    {"index":5,"start":1156.92,"end":1445.1,"text_start":1157.42,"href":"s28/p005.json"},
+    {"index":6,"start":1445.1,"end":1732.9,"text_start":1445.6,"href":"s28/p006.json"},
+    {"index":7,"start":1732.9,"end":2047.76,"text_start":1733.4,"href":"s28/p007.json"}
+   ]
+  },
+  {
+   "id": "s29",
+   "index": 29,
+   "title": "The Story of the Prince Amgiad and a Lady of the City of Magicians, part 1",
+   "reader": "MJ Franck",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_29_anonymous_64kb.mp3",
+   "duration": 1951.06,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":313.18,"text_start":34.5,"href":"s29/p001.json"},
+    {"index":2,"start":313.18,"end":614.99,"text_start":313.68,"href":"s29/p002.json"},
+    {"index":3,"start":614.99,"end":926.04,"text_start":615.44,"href":"s29/p003.json"},
+    {"index":4,"start":926.04,"end":1276.92,"text_start":926.54,"href":"s29/p004.json"},
+    {"index":5,"start":1276.92,"end":1608.44,"text_start":1277.42,"href":"s29/p005.json"},
+    {"index":6,"start":1608.44,"end":1951.06,"text_start":1608.94,"href":"s29/p006.json"}
+   ]
+  },
+  {
+   "id": "s30",
+   "index": 30,
+   "title": "The Story of the Prince Amgiad and a Lady of the City of Magicians, part 2",
+   "reader": "MJ Franck",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_30_anonymous_64kb.mp3",
+   "duration": 1985.18,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":271.62,"text_start":43.58,"href":"s30/p001.json"},
+    {"index":2,"start":271.62,"end":553.06,"text_start":272.12,"href":"s30/p002.json"},
+    {"index":3,"start":553.06,"end":838.12,"text_start":553.56,"href":"s30/p003.json"},
+    {"index":4,"start":838.12,"end":1102.88,"text_start":838.62,"href":"s30/p004.json"},
+    {"index":5,"start":1102.88,"end":1393.82,"text_start":1103.38,"href":"s30/p005.json"},
+    {"index":6,"start":1393.82,"end":1691.84,"text_start":1394.32,"href":"s30/p006.json"},
+    {"index":7,"start":1691.84,"end":1985.18,"text_start":1692.34,"href":"s30/p007.json"}
+   ]
+  },
+  {
+   "id": "s31",
+   "index": 31,
+   "title": "The Story of Noor Ad Deen and the Fair Persian, part 1",
+   "reader": "Jim Locke",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_31_anonymous_64kb.mp3",
+   "duration": 995.71,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":345.04,"text_start":35.72,"href":"s31/p001.json"},
+    {"index":2,"start":345.04,"end":676.94,"text_start":345.3,"href":"s31/p002.json"},
+    {"index":3,"start":676.94,"end":995.71,"text_start":677.3,"href":"s31/p003.json"}
+   ]
+  },
+  {
+   "id": "s32",
+   "index": 32,
+   "title": "The Story of Noor Ad Deen and the Fair Persian, part 2",
+   "reader": "Nicoleca",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_32_anonymous_64kb.mp3",
+   "duration": 1416.2,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":377.78,"text_start":35.68,"href":"s32/p001.json"},
+    {"index":2,"start":377.78,"end":741.38,"text_start":378.28,"href":"s32/p002.json"},
+    {"index":3,"start":741.38,"end":1069.07,"text_start":741.88,"href":"s32/p003.json"},
+    {"index":4,"start":1069.07,"end":1416.2,"text_start":1069.54,"href":"s32/p004.json"}
+   ]
+  },
+  {
+   "id": "s33",
+   "index": 33,
+   "title": "The Story of Noor Ad Deen and the Fair Persian, part 3",
+   "reader": "Nicoleca",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_33_anonymous_64kb.mp3",
+   "duration": 1428.87,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":263.26,"text_start":38.2,"href":"s33/p001.json"},
+    {"index":2,"start":263.26,"end":560.24,"text_start":263.76,"href":"s33/p002.json"},
+    {"index":3,"start":560.24,"end":847.54,"text_start":560.74,"href":"s33/p003.json"},
+    {"index":4,"start":847.54,"end":1123.18,"text_start":848.04,"href":"s33/p004.json"},
+    {"index":5,"start":1123.18,"end":1428.87,"text_start":1123.68,"href":"s33/p005.json"}
+   ]
+  },
+  {
+   "id": "s34",
+   "index": 34,
+   "title": "The Story of Noor Ad Deen and the Fair Persian, part 4",
+   "reader": "Nicoleca",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_34_anonymous_64kb.mp3",
+   "duration": 1424.59,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":259.86,"text_start":36.28,"href":"s34/p001.json"},
+    {"index":2,"start":259.86,"end":548.22,"text_start":260.36,"href":"s34/p002.json"},
+    {"index":3,"start":548.22,"end":819.4,"text_start":548.72,"href":"s34/p003.json"},
+    {"index":4,"start":819.4,"end":1126.04,"text_start":819.9,"href":"s34/p004.json"},
+    {"index":5,"start":1126.04,"end":1424.59,"text_start":1126.54,"href":"s34/p005.json"}
+   ]
+  },
+  {
+   "id": "s35",
+   "index": 35,
+   "title": "The Story of Noor Ad Deen and the Fair Persian, part 5",
+   "reader": "Nicoleca",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_35_anonymous_64kb.mp3",
+   "duration": 1432.71,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":308.42,"text_start":35.48,"href":"s35/p001.json"},
+    {"index":2,"start":308.42,"end":592.56,"text_start":308.92,"href":"s35/p002.json"},
+    {"index":3,"start":592.56,"end":862.44,"text_start":593.06,"href":"s35/p003.json"},
+    {"index":4,"start":862.44,"end":1157.8,"text_start":862.94,"href":"s35/p004.json"},
+    {"index":5,"start":1157.8,"end":1432.71,"text_start":1158.3,"href":"s35/p005.json"}
+   ]
+  },
+  {
+   "id": "s36",
+   "index": 36,
+   "title": "The Story of Noor Ad Deen and the Fair Persian, part 6",
+   "reader": "Nicoleca",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_02_2111_librivox/arabiannights02_36_anonymous_64kb.mp3",
+   "duration": 1604.96,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":325.68,"text_start":35.2,"href":"s36/p001.json"},
+    {"index":2,"start":325.68,"end":636.56,"text_start":326.18,"href":"s36/p002.json"},
+    {"index":3,"start":636.56,"end":963.12,"text_start":637.06,"href":"s36/p003.json"},
+    {"index":4,"start":963.12,"end":1288.4,"text_start":963.62,"href":"s36/p004.json"},
+    {"index":5,"start":1288.4,"end":1604.96,"text_start":1288.88,"href":"s36/p005.json"}
+   ]
+  }
+ ]
+}
