@@ -392,7 +392,7 @@
    "page_count": 3,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":333.5,"text_start":41.4,"href":"s21/p001.json"},
+    {"index":1,"start":0.0,"end":333.5,"text_start":22.4,"href":"s21/p001.json"},
     {"index":2,"start":333.5,"end":685.88,"text_start":334.0,"href":"s21/p002.json"},
     {"index":3,"start":685.88,"end":1084.37,"text_start":686.38,"href":"s21/p003.json"}
    ]
@@ -512,7 +512,7 @@
    "page_count": 7,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":304.56,"text_start":2.8,"href":"s28/p001.json"},
+    {"index":1,"start":0.0,"end":304.56,"text_start":19.06,"href":"s28/p001.json"},
     {"index":2,"start":304.56,"end":614.7,"text_start":305.06,"href":"s28/p002.json"},
     {"index":3,"start":614.7,"end":935.56,"text_start":615.2,"href":"s28/p003.json"},
     {"index":4,"start":935.56,"end":1244.95,"text_start":936.06,"href":"s28/p004.json"},
