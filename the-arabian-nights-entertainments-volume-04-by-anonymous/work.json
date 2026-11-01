@@ -685,10 +685,10 @@
    "page_count": 4,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":355.38,"text_start":34.62,"href":"s44/p001.json"},
-    {"index":2,"start":355.38,"end":694.04,"text_start":357.2,"href":"s44/p002.json"},
-    {"index":3,"start":694.04,"end":1047.399,"text_start":694.54,"href":"s44/p003.json"},
-    {"index":4,"start":1047.399,"end":1359.31,"text_start":1049.46,"href":"s44/p004.json"}
+    {"index":1,"start":0.0,"end":356.04,"text_start":33.94,"href":"s44/p001.json"},
+    {"index":2,"start":356.04,"end":694.04,"text_start":356.54,"href":"s44/p002.json"},
+    {"index":3,"start":694.04,"end":1047.9,"text_start":694.54,"href":"s44/p003.json"},
+    {"index":4,"start":1047.9,"end":1359.31,"text_start":1048.4,"href":"s44/p004.json"}
    ]
   },
   {
