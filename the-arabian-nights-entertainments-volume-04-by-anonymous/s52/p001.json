@@ -35,7 +35,8 @@
  },
  "non_text": [
   {"kind":"intro","t0":0.0,"t1":26.42,"label":"LibriVox の前口上"},
-  {"kind":"outro","t0":135.46,"t1":150.0,"label":"LibriVox の結び"}
+  {"kind":"transition","t0":135.48,"t1":138.7,"label":"章の間の告知"},
+  {"kind":"outro","t0":142.54,"t1":150.0,"label":"LibriVox の結び"}
  ],
  "paragraphs": [
   {"id":"c40.p001","kind":"heading","role":"label","cont_prev":false,"cont_next":false,"w_off":0,"c_off":0,"s_off":0,"x_off":0,"lead":"","words":[{"x":"CONCLUSION.","s":"","t0":26.42,"t1":27.02}],"phrases":[{"id":"c40.p001.c001","w":[0,1],"s":0,"t0":26.42,"t1":27.02}]},
