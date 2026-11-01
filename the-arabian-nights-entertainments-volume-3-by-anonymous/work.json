@@ -1,0 +1,594 @@
+{
+ "format": "librivox-gutenberg/work",
+ "version": "1.0",
+ "work": {
+  "slug": "the-arabian-nights-entertainments-volume-3-by-anonymous",
+  "title": "The Arabian Nights Entertainments, Volume 03",
+  "author": "Anonymous",
+  "gutenberg_id": 5666,
+  "librivox_url": "https://librivox.org/the-arabian-nights-entertainments-volume-3-by-anonymous/",
+  "language": "en",
+  "category": "fiction",
+  "authors": [
+   {
+    "name": "Anonymous",
+    "slug": "anonymous",
+    "id": 19,
+    "last_name": "Anonymous"
+   }
+  ],
+  "updated": "2026-11-01"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "index": 1,
+   "title": "The Story of Beder Part 1",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_01_anonymous_64kb.mp3",
+   "duration": 2341.62,
+   "page_count": 8,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":280.38,"text_start":31.56,"href":"s01/p001.json"},
+    {"index":2,"start":280.38,"end":577.56,"text_start":280.88,"href":"s01/p002.json"},
+    {"index":3,"start":577.56,"end":856.34,"text_start":578.06,"href":"s01/p003.json"},
+    {"index":4,"start":856.34,"end":1137.12,"text_start":856.84,"href":"s01/p004.json"},
+    {"index":5,"start":1137.12,"end":1445.7,"text_start":1137.62,"href":"s01/p005.json"},
+    {"index":6,"start":1445.7,"end":1734.18,"text_start":1446.2,"href":"s01/p006.json"},
+    {"index":7,"start":1734.18,"end":2029.86,"text_start":1734.68,"href":"s01/p007.json"},
+    {"index":8,"start":2029.86,"end":2341.62,"text_start":2030.36,"href":"s01/p008.json"}
+   ]
+  },
+  {
+   "id": "s02",
+   "index": 2,
+   "title": "The Story of Beder Part 2",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_02_anonymous_64kb.mp3",
+   "duration": 2542.92,
+   "page_count": 8,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":328.2,"text_start":38.8,"href":"s02/p001.json"},
+    {"index":2,"start":328.2,"end":668.89,"text_start":328.7,"href":"s02/p002.json"},
+    {"index":3,"start":668.89,"end":979.88,"text_start":669.3,"href":"s02/p003.json"},
+    {"index":4,"start":979.88,"end":1293.56,"text_start":980.38,"href":"s02/p004.json"},
+    {"index":5,"start":1293.56,"end":1608.06,"text_start":1294.06,"href":"s02/p005.json"},
+    {"index":6,"start":1608.06,"end":1913.3,"text_start":1608.56,"href":"s02/p006.json"},
+    {"index":7,"start":1913.3,"end":2235.28,"text_start":1913.8,"href":"s02/p007.json"},
+    {"index":8,"start":2235.28,"end":2542.92,"text_start":2235.78,"href":"s02/p008.json"}
+   ]
+  },
+  {
+   "id": "s03",
+   "index": 3,
+   "title": "The Story of Beder Part 3",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_03_anonymous_64kb.mp3",
+   "duration": 2619.95,
+   "page_count": 9,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":295.82,"text_start":38.78,"href":"s03/p001.json"},
+    {"index":2,"start":295.82,"end":566.88,"text_start":296.32,"href":"s03/p002.json"},
+    {"index":3,"start":566.88,"end":838.04,"text_start":567.38,"href":"s03/p003.json"},
+    {"index":4,"start":838.04,"end":1123.72,"text_start":838.54,"href":"s03/p004.json"},
+    {"index":5,"start":1123.72,"end":1421.64,"text_start":1124.22,"href":"s03/p005.json"},
+    {"index":6,"start":1421.64,"end":1748.2,"text_start":1422.14,"href":"s03/p006.json"},
+    {"index":7,"start":1748.2,"end":2035.28,"text_start":1748.7,"href":"s03/p007.json"},
+    {"index":8,"start":2035.28,"end":2330.32,"text_start":2035.78,"href":"s03/p008.json"},
+    {"index":9,"start":2330.32,"end":2619.95,"text_start":2330.82,"href":"s03/p009.json"}
+   ]
+  },
+  {
+   "id": "s04",
+   "index": 4,
+   "title": "The Story of Beder Part 4",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_04_anonymous_64kb.mp3",
+   "duration": 1651.04,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":304.0,"text_start":38.54,"href":"s04/p001.json"},
+    {"index":2,"start":304.0,"end":655.54,"text_start":304.5,"href":"s04/p002.json"},
+    {"index":3,"start":655.54,"end":1000.54,"text_start":656.04,"href":"s04/p003.json"},
+    {"index":4,"start":1000.54,"end":1327.06,"text_start":1001.04,"href":"s04/p004.json"},
+    {"index":5,"start":1327.06,"end":1651.04,"text_start":1327.56,"href":"s04/p005.json"}
+   ]
+  },
+  {
+   "id": "s05",
+   "index": 5,
+   "title": "The Story of Beder Part 5",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_05_anonymous_64kb.mp3",
+   "duration": 976.72,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":340.8,"text_start":39.02,"href":"s05/p001.json"},
+    {"index":2,"start":340.8,"end":643.52,"text_start":341.3,"href":"s05/p002.json"},
+    {"index":3,"start":643.52,"end":976.72,"text_start":644.02,"href":"s05/p003.json"}
+   ]
+  },
+  {
+   "id": "s06",
+   "index": 6,
+   "title": "The History of Prince Zeyn Part 1",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_06_anonymous_64kb.mp3",
+   "duration": 1265.63,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":302.08,"text_start":30.76,"href":"s06/p001.json"},
+    {"index":2,"start":302.08,"end":631.72,"text_start":302.58,"href":"s06/p002.json"},
+    {"index":3,"start":631.72,"end":970.46,"text_start":632.22,"href":"s06/p003.json"},
+    {"index":4,"start":970.46,"end":1265.63,"text_start":970.96,"href":"s06/p004.json"}
+   ]
+  },
+  {
+   "id": "s07",
+   "index": 7,
+   "title": "The History of Prince Zeyn Part 2",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_07_anonymous_64kb.mp3",
+   "duration": 1407.58,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":328.44,"text_start":40.44,"href":"s07/p001.json"},
+    {"index":2,"start":328.44,"end":583.82,"text_start":328.94,"href":"s07/p002.json"},
+    {"index":3,"start":583.82,"end":847.3,"text_start":584.32,"href":"s07/p003.json"},
+    {"index":4,"start":847.3,"end":1144.12,"text_start":847.8,"href":"s07/p004.json"},
+    {"index":5,"start":1144.12,"end":1407.58,"text_start":1144.62,"href":"s07/p005.json"}
+   ]
+  },
+  {
+   "id": "s08",
+   "index": 8,
+   "title": "The History of Codadad, and his Brothers",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_08_anonymous_64kb.mp3",
+   "duration": 1313.54,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":320.88,"text_start":30.16,"href":"s08/p001.json"},
+    {"index":2,"start":320.88,"end":683.28,"text_start":321.38,"href":"s08/p002.json"},
+    {"index":3,"start":683.28,"end":995.28,"text_start":683.78,"href":"s08/p003.json"},
+    {"index":4,"start":995.28,"end":1313.54,"text_start":995.78,"href":"s08/p004.json"}
+   ]
+  },
+  {
+   "id": "s09",
+   "index": 9,
+   "title": "Princess of Deryabar Part 1",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_09_anonymous_64kb.mp3",
+   "duration": 1748.14,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":270.0,"text_start":23.36,"href":"s09/p001.json"},
+    {"index":2,"start":270.0,"end":626.92,"text_start":270.5,"href":"s09/p002.json"},
+    {"index":3,"start":626.92,"end":942.08,"text_start":627.42,"href":"s09/p003.json"},
+    {"index":4,"start":942.08,"end":1224.8,"text_start":942.58,"href":"s09/p004.json"},
+    {"index":5,"start":1224.8,"end":1480.28,"text_start":1225.3,"href":"s09/p005.json"},
+    {"index":6,"start":1480.28,"end":1748.14,"text_start":1480.78,"href":"s09/p006.json"}
+   ]
+  },
+  {
+   "id": "s10",
+   "index": 10,
+   "title": "Princess of Deryabar Part 2",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_10_anonymous_64kb.mp3",
+   "duration": 1444.91,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":262.22,"text_start":22.8,"href":"s10/p001.json"},
+    {"index":2,"start":262.22,"end":588.46,"text_start":262.72,"href":"s10/p002.json"},
+    {"index":3,"start":588.46,"end":887.22,"text_start":588.96,"href":"s10/p003.json"},
+    {"index":4,"start":887.22,"end":1191.12,"text_start":887.72,"href":"s10/p004.json"},
+    {"index":5,"start":1191.12,"end":1444.91,"text_start":1191.62,"href":"s10/p005.json"}
+   ]
+  },
+  {
+   "id": "s11",
+   "index": 11,
+   "title": "Abou Hassan Part 1",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_11_anonymous_64kb.mp3",
+   "duration": 2032.93,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":259.48,"text_start":14.46,"href":"s11/p001.json"},
+    {"index":2,"start":259.48,"end":515.04,"text_start":259.98,"href":"s11/p002.json"},
+    {"index":3,"start":515.04,"end":811.1,"text_start":515.54,"href":"s11/p003.json"},
+    {"index":4,"start":811.1,"end":1114.86,"text_start":811.6,"href":"s11/p004.json"},
+    {"index":5,"start":1114.86,"end":1399.5,"text_start":1115.36,"href":"s11/p005.json"},
+    {"index":6,"start":1399.5,"end":1730.5,"text_start":1400.0,"href":"s11/p006.json"},
+    {"index":7,"start":1730.5,"end":2032.93,"text_start":1731.0,"href":"s11/p007.json"}
+   ]
+  },
+  {
+   "id": "s12",
+   "index": 12,
+   "title": "Abou Hassan Part 2",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_12_anonymous_64kb.mp3",
+   "duration": 2180.96,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":313.74,"text_start":19.8,"href":"s12/p001.json"},
+    {"index":2,"start":313.74,"end":624.7,"text_start":314.24,"href":"s12/p002.json"},
+    {"index":3,"start":624.7,"end":954.92,"text_start":625.2,"href":"s12/p003.json"},
+    {"index":4,"start":954.92,"end":1270.34,"text_start":955.42,"href":"s12/p004.json"},
+    {"index":5,"start":1270.34,"end":1574.0,"text_start":1270.84,"href":"s12/p005.json"},
+    {"index":6,"start":1574.0,"end":1883.9,"text_start":1574.5,"href":"s12/p006.json"},
+    {"index":7,"start":1883.9,"end":2180.96,"text_start":1884.4,"href":"s12/p007.json"}
+   ]
+  },
+  {
+   "id": "s13",
+   "index": 13,
+   "title": "Abou Hassan Part 3",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_13_anonymous_64kb.mp3",
+   "duration": 1525.55,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":338.46,"text_start":20.86,"href":"s13/p001.json"},
+    {"index":2,"start":338.46,"end":618.76,"text_start":338.96,"href":"s13/p002.json"},
+    {"index":3,"start":618.76,"end":945.36,"text_start":619.26,"href":"s13/p003.json"},
+    {"index":4,"start":945.36,"end":1267.14,"text_start":945.86,"href":"s13/p004.json"},
+    {"index":5,"start":1267.14,"end":1525.55,"text_start":1267.64,"href":"s13/p005.json"}
+   ]
+  },
+  {
+   "id": "s14",
+   "index": 14,
+   "title": "Abou Hassan Part 4",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_14_anonymous_64kb.mp3",
+   "duration": 2583.88,
+   "page_count": 8,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":364.46,"text_start":18.5,"href":"s14/p001.json"},
+    {"index":2,"start":364.46,"end":716.74,"text_start":364.96,"href":"s14/p002.json"},
+    {"index":3,"start":716.74,"end":1049.84,"text_start":717.24,"href":"s14/p003.json"},
+    {"index":4,"start":1049.84,"end":1369.26,"text_start":1050.34,"href":"s14/p004.json"},
+    {"index":5,"start":1369.26,"end":1705.06,"text_start":1369.76,"href":"s14/p005.json"},
+    {"index":6,"start":1705.06,"end":1988.36,"text_start":1705.56,"href":"s14/p006.json"},
+    {"index":7,"start":1988.36,"end":2298.2,"text_start":1988.86,"href":"s14/p007.json"},
+    {"index":8,"start":2298.2,"end":2583.88,"text_start":2298.7,"href":"s14/p008.json"}
+   ]
+  },
+  {
+   "id": "s15",
+   "index": 15,
+   "title": "Abou Hassan Part 5",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_15_anonymous_64kb.mp3",
+   "duration": 1903.23,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":329.28,"text_start":20.04,"href":"s15/p001.json"},
+    {"index":2,"start":329.28,"end":631.1,"text_start":329.78,"href":"s15/p002.json"},
+    {"index":3,"start":631.1,"end":951.6,"text_start":631.6,"href":"s15/p003.json"},
+    {"index":4,"start":951.6,"end":1262.8,"text_start":952.1,"href":"s15/p004.json"},
+    {"index":5,"start":1262.8,"end":1560.58,"text_start":1263.3,"href":"s15/p005.json"},
+    {"index":6,"start":1560.58,"end":1903.23,"text_start":1561.08,"href":"s15/p006.json"}
+   ]
+  },
+  {
+   "id": "s16",
+   "index": 16,
+   "title": "The Story of Alla Ad Deen Part 1",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_16_anonymous_64kb.mp3",
+   "duration": 2007.22,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":369.66,"text_start":14.62,"href":"s16/p001.json"},
+    {"index":2,"start":369.66,"end":684.04,"text_start":370.16,"href":"s16/p002.json"},
+    {"index":3,"start":684.04,"end":1029.34,"text_start":684.54,"href":"s16/p003.json"},
+    {"index":4,"start":1029.34,"end":1375.9,"text_start":1029.84,"href":"s16/p004.json"},
+    {"index":5,"start":1375.9,"end":1671.24,"text_start":1376.4,"href":"s16/p005.json"},
+    {"index":6,"start":1671.24,"end":2007.22,"text_start":1671.74,"href":"s16/p006.json"}
+   ]
+  },
+  {
+   "id": "s17",
+   "index": 17,
+   "title": "The Story of Alla Ad Deen Part 2",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_17_anonymous_64kb.mp3",
+   "duration": 2447.05,
+   "page_count": 8,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":278.56,"text_start":20.94,"href":"s17/p001.json"},
+    {"index":2,"start":278.56,"end":574.54,"text_start":279.06,"href":"s17/p002.json"},
+    {"index":3,"start":574.54,"end":873.48,"text_start":575.04,"href":"s17/p003.json"},
+    {"index":4,"start":873.48,"end":1201.6,"text_start":873.98,"href":"s17/p004.json"},
+    {"index":5,"start":1201.6,"end":1517.74,"text_start":1202.1,"href":"s17/p005.json"},
+    {"index":6,"start":1517.74,"end":1837.46,"text_start":1518.24,"href":"s17/p006.json"},
+    {"index":7,"start":1837.46,"end":2140.68,"text_start":1837.96,"href":"s17/p007.json"},
+    {"index":8,"start":2140.68,"end":2447.05,"text_start":2141.18,"href":"s17/p008.json"}
+   ]
+  },
+  {
+   "id": "s18",
+   "index": 18,
+   "title": "The Story of Alla Ad Deen Part 3",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_18_anonymous_64kb.mp3",
+   "duration": 2246.22,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":359.8,"text_start":28.78,"href":"s18/p001.json"},
+    {"index":2,"start":359.8,"end":660.4,"text_start":360.3,"href":"s18/p002.json"},
+    {"index":3,"start":660.4,"end":954.28,"text_start":660.9,"href":"s18/p003.json"},
+    {"index":4,"start":954.28,"end":1256.78,"text_start":954.78,"href":"s18/p004.json"},
+    {"index":5,"start":1256.78,"end":1623.66,"text_start":1257.28,"href":"s18/p005.json"},
+    {"index":6,"start":1623.66,"end":1933.16,"text_start":1624.16,"href":"s18/p006.json"},
+    {"index":7,"start":1933.16,"end":2246.22,"text_start":1933.66,"href":"s18/p007.json"}
+   ]
+  },
+  {
+   "id": "s19",
+   "index": 19,
+   "title": "The Story of Alla Ad Deen Part 4",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_19_anonymous_64kb.mp3",
+   "duration": 1591.12,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":310.12,"text_start":21.26,"href":"s19/p001.json"},
+    {"index":2,"start":310.12,"end":606.44,"text_start":310.62,"href":"s19/p002.json"},
+    {"index":3,"start":606.44,"end":928.96,"text_start":606.94,"href":"s19/p003.json"},
+    {"index":4,"start":928.96,"end":1229.62,"text_start":929.46,"href":"s19/p004.json"},
+    {"index":5,"start":1229.62,"end":1591.12,"text_start":1230.12,"href":"s19/p005.json"}
+   ]
+  },
+  {
+   "id": "s20",
+   "index": 20,
+   "title": "The Story of Alla Ad Deen Part 5",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_20_anonymous_64kb.mp3",
+   "duration": 1703.03,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":285.7,"text_start":22.5,"href":"s20/p001.json"},
+    {"index":2,"start":285.7,"end":579.84,"text_start":285.7,"href":"s20/p002.json"},
+    {"index":3,"start":579.84,"end":837.43,"text_start":580.34,"href":"s20/p003.json"},
+    {"index":4,"start":837.43,"end":1138.54,"text_start":837.44,"href":"s20/p004.json"},
+    {"index":5,"start":1138.54,"end":1425.16,"text_start":1139.04,"href":"s20/p005.json"},
+    {"index":6,"start":1425.16,"end":1703.03,"text_start":1425.66,"href":"s20/p006.json"}
+   ]
+  },
+  {
+   "id": "s21",
+   "index": 21,
+   "title": "The Story of Alla Ad Deen Part 6",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_21_anonymous_64kb.mp3",
+   "duration": 1084.37,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":333.5,"text_start":41.4,"href":"s21/p001.json"},
+    {"index":2,"start":333.5,"end":685.88,"text_start":334.0,"href":"s21/p002.json"},
+    {"index":3,"start":685.88,"end":1084.37,"text_start":686.38,"href":"s21/p003.json"}
+   ]
+  },
+  {
+   "id": "s22",
+   "index": 22,
+   "title": "The Story of Alla Ad Deen Part 7",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_22_anonymous_64kb.mp3",
+   "duration": 2127.05,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":292.38,"text_start":21.12,"href":"s22/p001.json"},
+    {"index":2,"start":292.38,"end":596.4,"text_start":292.88,"href":"s22/p002.json"},
+    {"index":3,"start":596.4,"end":880.68,"text_start":596.9,"href":"s22/p003.json"},
+    {"index":4,"start":880.68,"end":1208.98,"text_start":881.18,"href":"s22/p004.json"},
+    {"index":5,"start":1208.98,"end":1486.18,"text_start":1209.48,"href":"s22/p005.json"},
+    {"index":6,"start":1486.18,"end":1783.6,"text_start":1486.68,"href":"s22/p006.json"},
+    {"index":7,"start":1783.6,"end":2127.05,"text_start":1784.1,"href":"s22/p007.json"}
+   ]
+  },
+  {
+   "id": "s23",
+   "index": 23,
+   "title": "The Story of Alla Ad Deen Part 8",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_23_anonymous_64kb.mp3",
+   "duration": 2229.08,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":304.4,"text_start":23.02,"href":"s23/p001.json"},
+    {"index":2,"start":304.4,"end":649.7,"text_start":304.9,"href":"s23/p002.json"},
+    {"index":3,"start":649.7,"end":972.62,"text_start":650.2,"href":"s23/p003.json"},
+    {"index":4,"start":972.62,"end":1290.62,"text_start":973.12,"href":"s23/p004.json"},
+    {"index":5,"start":1290.62,"end":1585.64,"text_start":1291.12,"href":"s23/p005.json"},
+    {"index":6,"start":1585.64,"end":1912.42,"text_start":1586.14,"href":"s23/p006.json"},
+    {"index":7,"start":1912.42,"end":2229.08,"text_start":1912.92,"href":"s23/p007.json"}
+   ]
+  },
+  {
+   "id": "s24",
+   "index": 24,
+   "title": "Adventure of the Caliph Haroon Al Rusheed Part 1",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_24_anonymous_64kb.mp3",
+   "duration": 586.14,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":300.9,"text_start":14.88,"href":"s24/p001.json"},
+    {"index":2,"start":300.9,"end":586.14,"text_start":301.4,"href":"s24/p002.json"}
+   ]
+  },
+  {
+   "id": "s25",
+   "index": 25,
+   "title": "Adventure of the Caliph Haroon Al Rusheed Part 2",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_25_anonymous_64kb.mp3",
+   "duration": 1641.43,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":331.28,"text_start":19.88,"href":"s25/p001.json"},
+    {"index":2,"start":331.28,"end":642.34,"text_start":331.78,"href":"s25/p002.json"},
+    {"index":3,"start":642.34,"end":972.82,"text_start":642.84,"href":"s25/p003.json"},
+    {"index":4,"start":972.82,"end":1313.54,"text_start":973.32,"href":"s25/p004.json"},
+    {"index":5,"start":1313.54,"end":1641.43,"text_start":1314.04,"href":"s25/p005.json"}
+   ]
+  },
+  {
+   "id": "s26",
+   "index": 26,
+   "title": "Adventure of the Caliph Haroon Al Rusheed Part 3",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_26_anonymous_64kb.mp3",
+   "duration": 1870.94,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":303.84,"text_start":23.78,"href":"s26/p001.json"},
+    {"index":2,"start":303.84,"end":622.277,"text_start":304.34,"href":"s26/p002.json"},
+    {"index":3,"start":622.277,"end":949.94,"text_start":624.42,"href":"s26/p003.json"},
+    {"index":4,"start":949.94,"end":1271.09,"text_start":950.44,"href":"s26/p004.json"},
+    {"index":5,"start":1271.09,"end":1561.32,"text_start":1271.54,"href":"s26/p005.json"},
+    {"index":6,"start":1561.32,"end":1870.94,"text_start":1561.82,"href":"s26/p006.json"}
+   ]
+  },
+  {
+   "id": "s27",
+   "index": 27,
+   "title": "Adventure of the Caliph Haroon Al Rusheed Part 4",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_27_anonymous_64kb.mp3",
+   "duration": 1771.1,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":298.62,"text_start":22.52,"href":"s27/p001.json"},
+    {"index":2,"start":298.62,"end":599.28,"text_start":299.12,"href":"s27/p002.json"},
+    {"index":3,"start":599.28,"end":899.08,"text_start":599.78,"href":"s27/p003.json"},
+    {"index":4,"start":899.08,"end":1175.08,"text_start":899.58,"href":"s27/p004.json"},
+    {"index":5,"start":1175.08,"end":1461.32,"text_start":1175.58,"href":"s27/p005.json"},
+    {"index":6,"start":1461.32,"end":1771.1,"text_start":1461.82,"href":"s27/p006.json"}
+   ]
+  },
+  {
+   "id": "s28",
+   "index": 28,
+   "title": "Adventure of the Caliph Haroon Al Rusheed Part 5",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_28_anonymous_64kb.mp3",
+   "duration": 2244.02,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":304.56,"text_start":2.8,"href":"s28/p001.json"},
+    {"index":2,"start":304.56,"end":614.7,"text_start":305.06,"href":"s28/p002.json"},
+    {"index":3,"start":614.7,"end":935.56,"text_start":615.2,"href":"s28/p003.json"},
+    {"index":4,"start":935.56,"end":1244.95,"text_start":936.06,"href":"s28/p004.json"},
+    {"index":5,"start":1244.95,"end":1592.6,"text_start":1245.42,"href":"s28/p005.json"},
+    {"index":6,"start":1592.6,"end":1925.4,"text_start":1593.1,"href":"s28/p006.json"},
+    {"index":7,"start":1925.4,"end":2244.02,"text_start":1925.9,"href":"s28/p007.json"}
+   ]
+  },
+  {
+   "id": "s29",
+   "index": 29,
+   "title": "The Story of Ali Baba and the Forty Robbers Destroyed by a Slave Part 1",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_29_anonymous_64kb.mp3",
+   "duration": 1554.08,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":325.76,"text_start":14.12,"href":"s29/p001.json"},
+    {"index":2,"start":325.76,"end":622.02,"text_start":326.26,"href":"s29/p002.json"},
+    {"index":3,"start":622.02,"end":904.52,"text_start":622.52,"href":"s29/p003.json"},
+    {"index":4,"start":904.52,"end":1200.12,"text_start":905.02,"href":"s29/p004.json"},
+    {"index":5,"start":1200.12,"end":1554.08,"text_start":1200.62,"href":"s29/p005.json"}
+   ]
+  },
+  {
+   "id": "s30",
+   "index": 30,
+   "title": "The Story of Ali Baba and the Forty Robbers Destroyed by a Slave Part 2",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_30_anonymous_64kb.mp3",
+   "duration": 1532.06,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":283.48,"text_start":19.54,"href":"s30/p001.json"},
+    {"index":2,"start":283.48,"end":598.0,"text_start":283.98,"href":"s30/p002.json"},
+    {"index":3,"start":598.0,"end":904.5,"text_start":598.5,"href":"s30/p003.json"},
+    {"index":4,"start":904.5,"end":1215.8,"text_start":905.0,"href":"s30/p004.json"},
+    {"index":5,"start":1215.8,"end":1532.06,"text_start":1216.3,"href":"s30/p005.json"}
+   ]
+  },
+  {
+   "id": "s31",
+   "index": 31,
+   "title": "The Story of Ali Baba and the Forty Robbers Destroyed by a Slave Part 3",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_31_anonymous_64kb.mp3",
+   "duration": 1674.06,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":352.06,"text_start":21.68,"href":"s31/p001.json"},
+    {"index":2,"start":352.06,"end":687.5,"text_start":352.56,"href":"s31/p002.json"},
+    {"index":3,"start":687.5,"end":999.46,"text_start":688.0,"href":"s31/p003.json"},
+    {"index":4,"start":999.46,"end":1333.22,"text_start":999.96,"href":"s31/p004.json"},
+    {"index":5,"start":1333.22,"end":1674.06,"text_start":1333.72,"href":"s31/p005.json"}
+   ]
+  },
+  {
+   "id": "s32",
+   "index": 32,
+   "title": "The Story of Ali Khaujeh, a Merchant of Bagdad",
+   "reader": "Gillian Hendrie",
+   "audio_url": "https://archive.org/download/arabian_nights_entertainments_vol3_1805_librivox/arabiannights03_32_anonymous_64kb.mp3",
+   "duration": 1745.19,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":282.22,"text_start":16.18,"href":"s32/p001.json"},
+    {"index":2,"start":282.22,"end":566.0,"text_start":282.72,"href":"s32/p002.json"},
+    {"index":3,"start":566.0,"end":844.28,"text_start":566.46,"href":"s32/p003.json"},
+    {"index":4,"start":844.28,"end":1134.83,"text_start":844.78,"href":"s32/p004.json"},
+    {"index":5,"start":1134.83,"end":1430.16,"text_start":1135.32,"href":"s32/p005.json"},
+    {"index":6,"start":1430.16,"end":1745.19,"text_start":1430.66,"href":"s32/p006.json"}
+   ]
+  }
+ ]
+}
