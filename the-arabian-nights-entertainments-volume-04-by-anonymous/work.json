@@ -1,0 +1,803 @@
+{
+ "format": "librivox-gutenberg/work",
+ "version": "1.0",
+ "work": {
+  "slug": "the-arabian-nights-entertainments-volume-04-by-anonymous",
+  "title": "The Arabian Nights Entertainments, Volume 04",
+  "author": "Anonymous",
+  "gutenberg_id": 5667,
+  "librivox_url": "https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/",
+  "language": "en",
+  "category": "fiction",
+  "authors": [
+   {
+    "name": "Anonymous",
+    "slug": "anonymous",
+    "id": 19,
+    "last_name": "Anonymous"
+   }
+  ],
+  "updated": "2026-11-01"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "index": 1,
+   "title": "The Story of the Enchanted Horse, part 1",
+   "reader": "Danya",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_01_anonymous_64kb.mp3",
+   "duration": 1617.45,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":304.92,"text_start":31.68,"href":"s01/p001.json"},
+    {"index":2,"start":304.92,"end":657.66,"text_start":305.42,"href":"s01/p002.json"},
+    {"index":3,"start":657.66,"end":986.5,"text_start":658.16,"href":"s01/p003.json"},
+    {"index":4,"start":986.5,"end":1311.92,"text_start":987.0,"href":"s01/p004.json"},
+    {"index":5,"start":1311.92,"end":1617.45,"text_start":1312.42,"href":"s01/p005.json"}
+   ]
+  },
+  {
+   "id": "s02",
+   "index": 2,
+   "title": "The Story of the Enchanted Horse, part 2",
+   "reader": "Danya",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_02_anonymous_64kb.mp3",
+   "duration": 1418.16,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":308.61,"text_start":36.74,"href":"s02/p001.json"},
+    {"index":2,"start":308.61,"end":587.24,"text_start":309.1,"href":"s02/p002.json"},
+    {"index":3,"start":587.24,"end":862.5,"text_start":587.74,"href":"s02/p003.json"},
+    {"index":4,"start":862.5,"end":1157.3,"text_start":863.0,"href":"s02/p004.json"},
+    {"index":5,"start":1157.3,"end":1418.16,"text_start":1157.78,"href":"s02/p005.json"}
+   ]
+  },
+  {
+   "id": "s03",
+   "index": 3,
+   "title": "The Story of the Enchanted Horse, part 3",
+   "reader": "Bhavesh Aggarwal",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_03_anonymous_64kb.mp3",
+   "duration": 1654.41,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":319.55,"text_start":28.8,"href":"s03/p001.json"},
+    {"index":2,"start":319.55,"end":651.4,"text_start":319.96,"href":"s03/p002.json"},
+    {"index":3,"start":651.4,"end":978.11,"text_start":651.62,"href":"s03/p003.json"},
+    {"index":4,"start":978.11,"end":1320.75,"text_start":978.56,"href":"s03/p004.json"},
+    {"index":5,"start":1320.75,"end":1654.41,"text_start":1321.02,"href":"s03/p005.json"}
+   ]
+  },
+  {
+   "id": "s04",
+   "index": 4,
+   "title": "The Story of Prince Ahmed, and the Fairy Perie Banou, part 1",
+   "reader": "WedgieAnn",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_04_anonymous_64kb.mp3",
+   "duration": 1530.25,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":342.82,"text_start":32.98,"href":"s04/p001.json"},
+    {"index":2,"start":342.82,"end":619.06,"text_start":343.32,"href":"s04/p002.json"},
+    {"index":3,"start":619.06,"end":926.22,"text_start":619.56,"href":"s04/p003.json"},
+    {"index":4,"start":926.22,"end":1238.8,"text_start":926.72,"href":"s04/p004.json"},
+    {"index":5,"start":1238.8,"end":1530.25,"text_start":1239.24,"href":"s04/p005.json"}
+   ]
+  },
+  {
+   "id": "s05",
+   "index": 5,
+   "title": "The Story of Prince Ahmed, and the Fairy Perie Banou, part 2",
+   "reader": "WedgieAnn",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_05_anonymous_64kb.mp3",
+   "duration": 1319.21,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":296.92,"text_start":36.44,"href":"s05/p001.json"},
+    {"index":2,"start":296.92,"end":611.84,"text_start":297.42,"href":"s05/p002.json"},
+    {"index":3,"start":611.84,"end":957.66,"text_start":612.34,"href":"s05/p003.json"},
+    {"index":4,"start":957.66,"end":1319.21,"text_start":958.16,"href":"s05/p004.json"}
+   ]
+  },
+  {
+   "id": "s06",
+   "index": 6,
+   "title": "The Story of Prince Ahmed, and the Fairy Perie Banou, part 3",
+   "reader": "Tindra",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_06_anonymous_64kb.mp3",
+   "duration": 1603.71,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":307.12,"text_start":31.8,"href":"s06/p001.json"},
+    {"index":2,"start":307.12,"end":604.26,"text_start":307.62,"href":"s06/p002.json"},
+    {"index":3,"start":604.26,"end":914.74,"text_start":604.76,"href":"s06/p003.json"},
+    {"index":4,"start":914.74,"end":1233.58,"text_start":915.18,"href":"s06/p004.json"},
+    {"index":5,"start":1233.58,"end":1603.71,"text_start":1234.08,"href":"s06/p005.json"}
+   ]
+  },
+  {
+   "id": "s07",
+   "index": 7,
+   "title": "The Story of Prince Ahmed, and the Fairy Perie Banou, part 4",
+   "reader": "Tasha Hobbs Peterson",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_07_anonymous_64kb.mp3",
+   "duration": 1531.48,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":335.9,"text_start":35.94,"href":"s07/p001.json"},
+    {"index":2,"start":335.9,"end":628.25,"text_start":336.4,"href":"s07/p002.json"},
+    {"index":3,"start":628.25,"end":931.16,"text_start":628.6,"href":"s07/p003.json"},
+    {"index":4,"start":931.16,"end":1214.1,"text_start":931.54,"href":"s07/p004.json"},
+    {"index":5,"start":1214.1,"end":1531.48,"text_start":1214.44,"href":"s07/p005.json"}
+   ]
+  },
+  {
+   "id": "s08",
+   "index": 8,
+   "title": "The Story of Prince Ahmed, and the Fairy Perie Banou, part 5",
+   "reader": "SpookyNoodle",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_08_anonymous_64kb.mp3",
+   "duration": 1630.75,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":327.959,"text_start":29.74,"href":"s08/p001.json"},
+    {"index":2,"start":327.959,"end":644.11,"text_start":328.04,"href":"s08/p002.json"},
+    {"index":3,"start":644.11,"end":951.86,"text_start":644.28,"href":"s08/p003.json"},
+    {"index":4,"start":951.86,"end":1302.88,"text_start":952.36,"href":"s08/p004.json"},
+    {"index":5,"start":1302.88,"end":1630.75,"text_start":1303.04,"href":"s08/p005.json"}
+   ]
+  },
+  {
+   "id": "s09",
+   "index": 9,
+   "title": "The Story of the Sisters Who Envied Their Younger Sister, part 1",
+   "reader": "Beth Blakely",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_09_anonymous_64kb.mp3",
+   "duration": 1045.97,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":342.89,"text_start":24.82,"href":"s09/p001.json"},
+    {"index":2,"start":342.89,"end":703.55,"text_start":343.1,"href":"s09/p002.json"},
+    {"index":3,"start":703.55,"end":1045.97,"text_start":703.8,"href":"s09/p003.json"}
+   ]
+  },
+  {
+   "id": "s10",
+   "index": 10,
+   "title": "The Story of the Sisters Who Envied Their Younger Sister, part 2",
+   "reader": "Beth Blakely",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_10_anonymous_64kb.mp3",
+   "duration": 1251.76,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":307.56,"text_start":28.6,"href":"s10/p001.json"},
+    {"index":2,"start":307.56,"end":642.63,"text_start":308.0,"href":"s10/p002.json"},
+    {"index":3,"start":642.63,"end":969.28,"text_start":643.0,"href":"s10/p003.json"},
+    {"index":4,"start":969.28,"end":1251.76,"text_start":969.48,"href":"s10/p004.json"}
+   ]
+  },
+  {
+   "id": "s11",
+   "index": 11,
+   "title": "The Story of the Sisters Who Envied Their Younger Sister, part 3",
+   "reader": "Beth Blakely",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_11_anonymous_64kb.mp3",
+   "duration": 1222.79,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":289.03,"text_start":30.44,"href":"s11/p001.json"},
+    {"index":2,"start":289.03,"end":591.62,"text_start":289.46,"href":"s11/p002.json"},
+    {"index":3,"start":591.62,"end":899.49,"text_start":592.12,"href":"s11/p003.json"},
+    {"index":4,"start":899.49,"end":1222.79,"text_start":899.86,"href":"s11/p004.json"}
+   ]
+  },
+  {
+   "id": "s12",
+   "index": 12,
+   "title": "The Story of the Sisters Who Envied Their Younger Sister, part 4",
+   "reader": "Beth Blakely",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_12_anonymous_64kb.mp3",
+   "duration": 1461.05,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":280.84,"text_start":28.68,"href":"s12/p001.json"},
+    {"index":2,"start":280.84,"end":565.08,"text_start":281.34,"href":"s12/p002.json"},
+    {"index":3,"start":565.08,"end":850.88,"text_start":565.58,"href":"s12/p003.json"},
+    {"index":4,"start":850.88,"end":1133.36,"text_start":851.38,"href":"s12/p004.json"},
+    {"index":5,"start":1133.36,"end":1461.05,"text_start":1133.8,"href":"s12/p005.json"}
+   ]
+  },
+  {
+   "id": "s13",
+   "index": 13,
+   "title": "Story of the Sultan of Yemen and His Three Sons",
+   "reader": "Shashank Jakhmola",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_13_anonymous_64kb.mp3",
+   "duration": 568.32,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":283.89,"text_start":24.62,"href":"s13/p001.json"},
+    {"index":2,"start":283.89,"end":568.32,"text_start":284.36,"href":"s13/p002.json"}
+   ]
+  },
+  {
+   "id": "s14",
+   "index": 14,
+   "title": "Story of the Three Sharpers and the Sultan",
+   "reader": "Shashank Jakhmola",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_14_anonymous_64kb.mp3",
+   "duration": 970.55,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":300.94,"text_start":22.84,"href":"s14/p001.json"},
+    {"index":2,"start":300.94,"end":648.84,"text_start":301.24,"href":"s14/p002.json"},
+    {"index":3,"start":648.84,"end":970.55,"text_start":649.18,"href":"s14/p003.json"}
+   ]
+  },
+  {
+   "id": "s15",
+   "index": 15,
+   "title": "The Adventures of the Abdicated Sultan",
+   "reader": "Shashank Jakhmola",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_15_anonymous_64kb.mp3",
+   "duration": 135.24,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":135.24,"text_start":25.64,"href":"s15/p001.json"}
+   ]
+  },
+  {
+   "id": "s16",
+   "index": 16,
+   "title": "History of Mahummud, Sultan of Cairo",
+   "reader": "Dick Bourgeois-Doyle",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_16_anonymous_64kb.mp3",
+   "duration": 951.28,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":354.22,"text_start":30.84,"href":"s16/p001.json"},
+    {"index":2,"start":354.22,"end":643.24,"text_start":354.72,"href":"s16/p002.json"},
+    {"index":3,"start":643.24,"end":951.28,"text_start":643.54,"href":"s16/p003.json"}
+   ]
+  },
+  {
+   "id": "s17",
+   "index": 17,
+   "title": "Story of the First Lunatic",
+   "reader": "Karen V.",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_17_anonymous_64kb.mp3",
+   "duration": 1068.25,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":243.16,"text_start":23.98,"href":"s17/p001.json"},
+    {"index":2,"start":243.16,"end":495.6,"text_start":243.44,"href":"s17/p002.json"},
+    {"index":3,"start":495.6,"end":783.72,"text_start":495.74,"href":"s17/p003.json"},
+    {"index":4,"start":783.72,"end":1068.25,"text_start":783.94,"href":"s17/p004.json"}
+   ]
+  },
+  {
+   "id": "s18",
+   "index": 18,
+   "title": "Story of the Second Lunatic",
+   "reader": "Beth Blakely",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_18_anonymous_64kb.mp3",
+   "duration": 487.89,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":240.6,"text_start":25.78,"href":"s18/p001.json"},
+    {"index":2,"start":240.6,"end":487.89,"text_start":241.04,"href":"s18/p002.json"}
+   ]
+  },
+  {
+   "id": "s19",
+   "index": 19,
+   "title": "Story of the Retired Sage and His Pupil, Related to the Sultan by the Second Lunatic",
+   "reader": "Melody Khoriaty",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_19_anonymous_64kb.mp3",
+   "duration": 1591.67,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":305.59,"text_start":32.72,"href":"s19/p001.json"},
+    {"index":2,"start":305.59,"end":642.38,"text_start":306.06,"href":"s19/p002.json"},
+    {"index":3,"start":642.38,"end":966.16,"text_start":642.88,"href":"s19/p003.json"},
+    {"index":4,"start":966.16,"end":1290.26,"text_start":966.66,"href":"s19/p004.json"},
+    {"index":5,"start":1290.26,"end":1591.67,"text_start":1290.76,"href":"s19/p005.json"}
+   ]
+  },
+  {
+   "id": "s20",
+   "index": 20,
+   "title": "Story of the Broken-backed Schoolmaster",
+   "reader": "Beth Blakely",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_20_anonymous_64kb.mp3",
+   "duration": 167.5,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":167.5,"text_start":25.5,"href":"s20/p001.json"}
+   ]
+  },
+  {
+   "id": "s21",
+   "index": 21,
+   "title": "Story of the Wry-mouthed Schoolmaster",
+   "reader": "Dick Bourgeois-Doyle",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_21_anonymous_64kb.mp3",
+   "duration": 794.28,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":274.68,"text_start":30.08,"href":"s21/p001.json"},
+    {"index":2,"start":274.68,"end":521.12,"text_start":275.18,"href":"s21/p002.json"},
+    {"index":3,"start":521.12,"end":794.28,"text_start":521.62,"href":"s21/p003.json"}
+   ]
+  },
+  {
+   "id": "s22",
+   "index": 22,
+   "title": "Story of the Sisters and the Sultana Their Mother, part 1",
+   "reader": "Dick Bourgeois-Doyle",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_22_anonymous_64kb.mp3",
+   "duration": 864.73,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":303.3,"text_start":31.14,"href":"s22/p001.json"},
+    {"index":2,"start":303.3,"end":605.4,"text_start":303.8,"href":"s22/p002.json"},
+    {"index":3,"start":605.4,"end":864.73,"text_start":605.9,"href":"s22/p003.json"}
+   ]
+  },
+  {
+   "id": "s23",
+   "index": 23,
+   "title": "Story of the Sisters and the Sultana Their Mother, part 2",
+   "reader": "Dick Bourgeois-Doyle",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_23_anonymous_64kb.mp3",
+   "duration": 1469.07,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":293.92,"text_start":35.04,"href":"s23/p001.json"},
+    {"index":2,"start":293.92,"end":589.71,"text_start":294.4,"href":"s23/p002.json"},
+    {"index":3,"start":589.71,"end":916.21,"text_start":589.9,"href":"s23/p003.json"},
+    {"index":4,"start":916.21,"end":1215.31,"text_start":916.58,"href":"s23/p004.json"},
+    {"index":5,"start":1215.31,"end":1469.07,"text_start":1215.7,"href":"s23/p005.json"}
+   ]
+  },
+  {
+   "id": "s24",
+   "index": 24,
+   "title": "Story of the Bang-eater and the Cauzee",
+   "reader": "niko1812",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_24_anonymous_64kb.mp3",
+   "duration": 567.75,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":297.58,"text_start":31.68,"href":"s24/p001.json"},
+    {"index":2,"start":297.58,"end":567.75,"text_start":298.08,"href":"s24/p002.json"}
+   ]
+  },
+  {
+   "id": "s25",
+   "index": 25,
+   "title": "Story of the Bang-eater and His Wife",
+   "reader": "niko1812",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_25_anonymous_64kb.mp3",
+   "duration": 1764.39,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":293.88,"text_start":30.66,"href":"s25/p001.json"},
+    {"index":2,"start":293.88,"end":601.9,"text_start":294.38,"href":"s25/p002.json"},
+    {"index":3,"start":601.9,"end":895.16,"text_start":602.4,"href":"s25/p003.json"},
+    {"index":4,"start":895.16,"end":1201.86,"text_start":895.66,"href":"s25/p004.json"},
+    {"index":5,"start":1201.86,"end":1484.36,"text_start":1202.36,"href":"s25/p005.json"},
+    {"index":6,"start":1484.36,"end":1764.39,"text_start":1484.86,"href":"s25/p006.json"}
+   ]
+  },
+  {
+   "id": "s26",
+   "index": 26,
+   "title": "The Sultan and the Traveller Mhamood Al Hyjemmee",
+   "reader": "Elizabeth Renae",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_26_anonymous_64kb.mp3",
+   "duration": 102.32,
+   "page_count": 0,
+   "status": "pending",
+   "pages": []
+  },
+  {
+   "id": "s27",
+   "index": 27,
+   "title": "The Koord Robber",
+   "reader": "Elizabeth Renae",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_27_anonymous_64kb.mp3",
+   "duration": 183.93,
+   "page_count": 0,
+   "status": "pending",
+   "pages": []
+  },
+  {
+   "id": "s28",
+   "index": 28,
+   "title": "Story of the Husbandman",
+   "reader": "Elizabeth Renae",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_28_anonymous_64kb.mp3",
+   "duration": 174.47,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":174.47,"text_start":26.26,"href":"s28/p001.json"}
+   ]
+  },
+  {
+   "id": "s29",
+   "index": 29,
+   "title": "Story of the Three Princes and Enchanting Bird",
+   "reader": "niko1812",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_29_anonymous_64kb.mp3",
+   "duration": 735.06,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":383.74,"text_start":26.12,"href":"s29/p001.json"},
+    {"index":2,"start":383.74,"end":735.06,"text_start":384.24,"href":"s29/p002.json"}
+   ]
+  },
+  {
+   "id": "s30",
+   "index": 30,
+   "title": "Story of a Sultan of Yemen and His Three Sons",
+   "reader": "realisticspeakers",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_30_anonymous_64kb.mp3",
+   "duration": 1613.58,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":313.62,"text_start":26.96,"href":"s30/p001.json"},
+    {"index":2,"start":313.62,"end":607.52,"text_start":314.12,"href":"s30/p002.json"},
+    {"index":3,"start":607.52,"end":941.14,"text_start":608.02,"href":"s30/p003.json"},
+    {"index":4,"start":941.14,"end":1268.87,"text_start":941.64,"href":"s30/p004.json"},
+    {"index":5,"start":1268.87,"end":1613.58,"text_start":1269.14,"href":"s30/p005.json"}
+   ]
+  },
+  {
+   "id": "s31",
+   "index": 31,
+   "title": "Story of the First Sharper in the Cave",
+   "reader": "niko1812",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_31_anonymous_64kb.mp3",
+   "duration": 742.64,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":368.72,"text_start":28.44,"href":"s31/p001.json"},
+    {"index":2,"start":368.72,"end":742.64,"text_start":369.22,"href":"s31/p002.json"}
+   ]
+  },
+  {
+   "id": "s32",
+   "index": 32,
+   "title": "History of the Sultan of Hind",
+   "reader": "niko1812",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_32_anonymous_64kb.mp3",
+   "duration": 1415.08,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":255.54,"text_start":29.94,"href":"s32/p001.json"},
+    {"index":2,"start":255.54,"end":543.5,"text_start":256.04,"href":"s32/p002.json"},
+    {"index":3,"start":543.5,"end":821.0,"text_start":544.0,"href":"s32/p003.json"},
+    {"index":4,"start":821.0,"end":1084.44,"text_start":821.5,"href":"s32/p004.json"},
+    {"index":5,"start":1084.44,"end":1415.08,"text_start":1084.94,"href":"s32/p005.json"}
+   ]
+  },
+  {
+   "id": "s33",
+   "index": 33,
+   "title": "Story of the Fisherman's Son",
+   "reader": "niko1812",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_33_anonymous_64kb.mp3",
+   "duration": 448.52,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":448.52,"text_start":25.2,"href":"s33/p001.json"}
+   ]
+  },
+  {
+   "id": "s34",
+   "index": 34,
+   "title": "Story of Abou Neeut and Abou Neeuteen; Or, the Well-intentioned and the Double-minded",
+   "reader": "Dick Bourgeois-Doyle",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_34_anonymous_64kb.mp3",
+   "duration": 1205.03,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":314.09,"text_start":26.78,"href":"s34/p001.json"},
+    {"index":2,"start":314.09,"end":602.94,"text_start":314.5,"href":"s34/p002.json"},
+    {"index":3,"start":602.94,"end":883.12,"text_start":603.42,"href":"s34/p003.json"},
+    {"index":4,"start":883.12,"end":1205.03,"text_start":883.62,"href":"s34/p004.json"}
+   ]
+  },
+  {
+   "id": "s35",
+   "index": 35,
+   "title": "Adventure of a Courtier, Related by Himself to His Parton, an Ameer of Egypt",
+   "reader": "Dick Bourgeois-Doyle",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_35_anonymous_64kb.mp3",
+   "duration": 845.3,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":303.36,"text_start":27.36,"href":"s35/p001.json"},
+    {"index":2,"start":303.36,"end":589.85,"text_start":303.76,"href":"s35/p002.json"},
+    {"index":3,"start":589.85,"end":845.3,"text_start":590.26,"href":"s35/p003.json"}
+   ]
+  },
+  {
+   "id": "s36",
+   "index": 36,
+   "title": "Story of the Prince of Sind, and Fatima, Daughter of Amir Bin Naomaun",
+   "reader": "Kamtscha",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_36_anonymous_64kb.mp3",
+   "duration": 799.11,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":470.66,"text_start":28.1,"href":"s36/p001.json"},
+    {"index":2,"start":470.66,"end":799.11,"text_start":471.16,"href":"s36/p002.json"}
+   ]
+  },
+  {
+   "id": "s37",
+   "index": 37,
+   "title": "Story of the Lovers of Syria; Or, the Heroine",
+   "reader": "M. Bradley Peters",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_37_anonymous_64kb.mp3",
+   "duration": 980.3,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":361.82,"text_start":32.68,"href":"s37/p001.json"},
+    {"index":2,"start":361.82,"end":734.17,"text_start":362.2,"href":"s37/p002.json"},
+    {"index":3,"start":734.17,"end":980.3,"text_start":734.56,"href":"s37/p003.json"}
+   ]
+  },
+  {
+   "id": "s38",
+   "index": 38,
+   "title": "Story of Hyjauje, the Tyrannical Governor of Coufeh, and the Young Syed",
+   "reader": "Wayne Cooke",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_38_anonymous_64kb.mp3",
+   "duration": 785.97,
+   "page_count": 0,
+   "status": "pending",
+   "pages": []
+  },
+  {
+   "id": "s39",
+   "index": 39,
+   "title": "Story of Ins Al Wujjood and Wird Al Ikmaun, Daughter of Ibrahim, Vizier to Sultan Shamikh",
+   "reader": "Annie Mars",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_39_anonymous_64kb.mp3",
+   "duration": 1237.97,
+   "page_count": 0,
+   "status": "pending",
+   "pages": []
+  },
+  {
+   "id": "s40",
+   "index": 40,
+   "title": "The Adventures of Mazin of Khorassaun, part 1",
+   "reader": "Dick Bourgeois-Doyle",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_40_anonymous_64kb.mp3",
+   "duration": 1801.06,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":302.82,"text_start":29.58,"href":"s40/p001.json"},
+    {"index":2,"start":302.82,"end":603.96,"text_start":303.32,"href":"s40/p002.json"},
+    {"index":3,"start":603.96,"end":914.17,"text_start":604.32,"href":"s40/p003.json"},
+    {"index":4,"start":914.17,"end":1188.09,"text_start":914.62,"href":"s40/p004.json"},
+    {"index":5,"start":1188.09,"end":1468.45,"text_start":1188.44,"href":"s40/p005.json"},
+    {"index":6,"start":1468.45,"end":1801.06,"text_start":1468.86,"href":"s40/p006.json"}
+   ]
+  },
+  {
+   "id": "s41",
+   "index": 41,
+   "title": "The Adventures of Mazin of Khorassaun, part 2",
+   "reader": "Dick Bourgeois-Doyle",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_41_anonymous_64kb.mp3",
+   "duration": 1539.5,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":360.66,"text_start":30.02,"href":"s41/p001.json"},
+    {"index":2,"start":360.66,"end":562.65,"text_start":361.0,"href":"s41/p002.json"},
+    {"index":3,"start":562.65,"end":902.98,"text_start":563.02,"href":"s41/p003.json"},
+    {"index":4,"start":902.98,"end":1220.69,"text_start":903.38,"href":"s41/p004.json"},
+    {"index":5,"start":1220.69,"end":1539.5,"text_start":1221.02,"href":"s41/p005.json"}
+   ]
+  },
+  {
+   "id": "s42",
+   "index": 42,
+   "title": "The Adventures of Mazin of Khorassaun, part 3",
+   "reader": "Dick Bourgeois-Doyle",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_42_anonymous_64kb.mp3",
+   "duration": 2306.72,
+   "page_count": 8,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":260.69,"text_start":31.0,"href":"s42/p001.json"},
+    {"index":2,"start":260.69,"end":535.84,"text_start":261.04,"href":"s42/p002.json"},
+    {"index":3,"start":535.84,"end":808.86,"text_start":536.34,"href":"s42/p003.json"},
+    {"index":4,"start":808.86,"end":1102.19,"text_start":809.34,"href":"s42/p004.json"},
+    {"index":5,"start":1102.19,"end":1404.34,"text_start":1102.66,"href":"s42/p005.json"},
+    {"index":6,"start":1404.34,"end":1697.07,"text_start":1404.58,"href":"s42/p006.json"},
+    {"index":7,"start":1697.07,"end":1996.24,"text_start":1697.32,"href":"s42/p007.json"},
+    {"index":8,"start":1996.24,"end":2306.72,"text_start":1996.52,"href":"s42/p008.json"}
+   ]
+  },
+  {
+   "id": "s43",
+   "index": 43,
+   "title": "Story of the Sultan, the Dervish, and the Barber's Son",
+   "reader": "5Tommy00",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_43_anonymous_64kb.mp3",
+   "duration": 352.5,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":352.5,"text_start":25.64,"href":"s43/p001.json"}
+   ]
+  },
+  {
+   "id": "s44",
+   "index": 44,
+   "title": "Adventures of Aleefa Daughter of Mherejaun Sultan of Hind, and Eusuff, Son of Sohul, Sultan of Sind",
+   "reader": "J Kurt R Bruss",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_44_anonymous_64kb.mp3",
+   "duration": 1359.31,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":355.38,"text_start":34.62,"href":"s44/p001.json"},
+    {"index":2,"start":355.38,"end":694.04,"text_start":357.2,"href":"s44/p002.json"},
+    {"index":3,"start":694.04,"end":1047.399,"text_start":694.54,"href":"s44/p003.json"},
+    {"index":4,"start":1047.399,"end":1359.31,"text_start":1049.46,"href":"s44/p004.json"}
+   ]
+  },
+  {
+   "id": "s45",
+   "index": 45,
+   "title": "Adventures of the Three Princes, Sons of the Sultan of China",
+   "reader": "Tania Mukherjee",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_45_anonymous_64kb.mp3",
+   "duration": 815.05,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":467.8,"text_start":29.06,"href":"s45/p001.json"},
+    {"index":2,"start":467.8,"end":815.05,"text_start":468.3,"href":"s45/p002.json"}
+   ]
+  },
+  {
+   "id": "s46",
+   "index": 46,
+   "title": "Story of the Good Vizier Unjustly Imprisoned",
+   "reader": "Shashank Jakhmola",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_46_anonymous_64kb.mp3",
+   "duration": 466.39,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":466.39,"text_start":23.24,"href":"s46/p001.json"}
+   ]
+  },
+  {
+   "id": "s47",
+   "index": 47,
+   "title": "Story of the Lady of Cairo and Her Four Gallants",
+   "reader": "Shashank Jakhmola",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_47_anonymous_64kb.mp3",
+   "duration": 538.28,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":303.81,"text_start":22.7,"href":"s47/p001.json"},
+    {"index":2,"start":303.81,"end":538.28,"text_start":304.22,"href":"s47/p002.json"}
+   ]
+  },
+  {
+   "id": "s48",
+   "index": 48,
+   "title": "The Cauzee's Story",
+   "reader": "Shashank Jakhmola",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_48_anonymous_64kb.mp3",
+   "duration": 408.22,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":408.22,"text_start":25.16,"href":"s48/p001.json"}
+   ]
+  },
+  {
+   "id": "s49",
+   "index": 49,
+   "title": "Story of the Merchant, His Daughter, and the Prince of Eerauk",
+   "reader": "Shashank Jakhmola",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_49_anonymous_64kb.mp3",
+   "duration": 358.5,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":358.5,"text_start":21.96,"href":"s49/p001.json"}
+   ]
+  },
+  {
+   "id": "s50",
+   "index": 50,
+   "title": "Adventures of the Cauzee, His Wife, &c",
+   "reader": "Anne Erickson",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_50_anonymous_64kb.mp3",
+   "duration": 1150.59,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":350.5,"text_start":24.48,"href":"s50/p001.json"},
+    {"index":2,"start":350.5,"end":758.01,"text_start":350.92,"href":"s50/p002.json"},
+    {"index":3,"start":758.01,"end":1150.59,"text_start":758.5,"href":"s50/p003.json"}
+   ]
+  },
+  {
+   "id": "s51",
+   "index": 51,
+   "title": "The Sultan's Story of Himself",
+   "reader": "Larry Wilson",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_51_anonymous_64kb.mp3",
+   "duration": 382.04,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":382.04,"text_start":29.86,"href":"s51/p001.json"}
+   ]
+  },
+  {
+   "id": "s52",
+   "index": 52,
+   "title": "Conclusion",
+   "reader": "Larry Wilson",
+   "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_52_anonymous_64kb.mp3",
+   "duration": 150.05,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":150.05,"text_start":26.42,"href":"s52/p001.json"}
+   ]
+  }
+ ]
+}
