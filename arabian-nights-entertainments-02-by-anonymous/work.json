@@ -526,7 +526,7 @@
    "page_count": 3,
    "status": "mapped",
    "pages": [
-    {"index":1,"start":0.0,"end":345.04,"text_start":35.72,"href":"s31/p001.json"},
+    {"index":1,"start":0.0,"end":345.04,"text_start":30.1,"href":"s31/p001.json"},
     {"index":2,"start":345.04,"end":676.94,"text_start":345.3,"href":"s31/p002.json"},
     {"index":3,"start":676.94,"end":995.71,"text_start":677.3,"href":"s31/p003.json"}
    ]
