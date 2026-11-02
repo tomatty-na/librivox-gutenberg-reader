@@ -422,9 +422,11 @@
    "reader": "Elizabeth Renae",
    "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_26_anonymous_64kb.mp3",
    "duration": 102.32,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":102.32,"text_start":23.92,"href":"s26/p001.json"}
+   ]
   },
   {
    "id": "s27",
@@ -433,9 +435,11 @@
    "reader": "Elizabeth Renae",
    "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_27_anonymous_64kb.mp3",
    "duration": 183.93,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":183.93,"text_start":24.58,"href":"s27/p001.json"}
+   ]
   },
   {
    "id": "s28",
@@ -592,9 +596,12 @@
    "reader": "Wayne Cooke",
    "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_38_anonymous_64kb.mp3",
    "duration": 785.97,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":392.988,"text_start":27.62,"href":"s38/p001.json"},
+    {"index":2,"start":392.988,"end":785.97,"text_start":394.06,"href":"s38/p002.json"}
+   ]
   },
   {
    "id": "s39",
