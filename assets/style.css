@@ -314,6 +314,20 @@ hr.brk { border: 0; border-top: 1px solid var(--line); width: 30%; margin: 1.5em
   margin: 0 0 0.4em;
 }
 .para.cont-prev { margin-top: 0; }
+/* 朗読者が丸ごと読まなかった段落（[[unread]]。D-167）。本文は出して光らせない。録音の余分の ✂ の逆で、音の無い本文 */
+.para.unread { color: var(--muted); }
+.unread-note::before {   /* スピーカーに ✕。🔇 は字形の無い環境で箱になるので SVG のマスクにする */
+  content: "";
+  display: inline-block;
+  width: 1.2em;
+  height: 1.2em;
+  margin-right: 0.3em;
+  vertical-align: -0.25em;
+  background: currentColor;
+  --unread-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M3 9v6h4l5 4V5L7 9H3z'/%3E%3Cpath d='M15.5 9.5l5 5m0-5l-5 5' stroke='black' stroke-width='2' stroke-linecap='round' fill='none'/%3E%3C/svg%3E");
+  -webkit-mask: var(--unread-icon) center / contain no-repeat;
+  mask: var(--unread-icon) center / contain no-repeat;
+}
 
 .nt {
   font-family: system-ui, -apple-system, sans-serif;

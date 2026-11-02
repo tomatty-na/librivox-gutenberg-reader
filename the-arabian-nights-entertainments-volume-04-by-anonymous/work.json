@@ -17,7 +17,7 @@
     "last_name": "Anonymous"
    }
   ],
-  "updated": "2026-11-01"
+  "updated": "2026-11-02"
  },
  "sections": [
   {
@@ -603,9 +603,14 @@
    "reader": "Annie Mars",
    "audio_url": "https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_39_anonymous_64kb.mp3",
    "duration": 1237.97,
-   "page_count": 0,
-   "status": "pending",
-   "pages": []
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":348.74,"text_start":28.3,"href":"s39/p001.json"},
+    {"index":2,"start":348.74,"end":581.84,"text_start":349.22,"href":"s39/p002.json"},
+    {"index":3,"start":581.84,"end":952.385,"text_start":582.34,"href":"s39/p003.json"},
+    {"index":4,"start":952.385,"end":1237.97,"text_start":954.16,"href":"s39/p004.json"}
+   ]
   },
   {
    "id": "s40",

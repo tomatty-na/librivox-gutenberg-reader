@@ -361,6 +361,7 @@
   var STYLE_MARKS = ['i', 'b', 'sc', 'u'];
   var NOTE_CONT_PREV = '↑ 前のページから続く段落';
   var NOTE_CONT_NEXT = '段落は次のページに続く ↓';
+  var NOTE_UNREAD = '朗読では読まれていない段落';   // 印の文字は style.css の .unread-note::before。render.py と同じ（D-167）
 
   function escHtml(s) {
     return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
@@ -538,12 +539,14 @@
       var kind = para.kind || 'para';
       if (para.break_before && !para.cont_prev) out.push('<hr class="brk brk-' + escAttr(para.break_before) + '">');
       if (para.cont_prev) out.push('<div class="cont-note">' + NOTE_CONT_PREV + '</div>');
+      if (para.unread && !para.cont_prev) out.push('<div class="cont-note unread-note">' + NOTE_UNREAD + '</div>');
       var tag = kind === 'heading' ? 'h2' : 'p';
       // 表（D-147）は tb と tb-<row|pre>。<pre> の表は等幅で、列の空白（語の sp、lead_sp）をそのまま出す
       var cls = 'para k-' + kind + (para.role ? ' r-' + para.role : '') + (para.align ? ' a-' + para.align : '') +
         (para.table ? ' tb tb-' + para.table : '') +
         (para.cont_prev ? ' cont-prev' : '') +
-        (para.cont_next ? ' cont-next' : '');
+        (para.cont_next ? ' cont-next' : '') +
+        (para.unread ? ' unread' : '');
       out.push('<' + tag + ' class="' + escAttr(cls) + '" id="' + escAttr(para.id + (para.w_off ? '-' + para.w_off : '')) + '">');
       // 行の頭の文字（原本の &nbsp; など）は最初のセルの中に出す（セルの外に置くとグリッドの升を 1 つ取る）
       var rowLead = rl ? rowSep(para.lead || '', para.row, rl.after[-1] || []) : '';
