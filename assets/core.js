@@ -362,6 +362,7 @@
   var NOTE_CONT_PREV = '↑ 前のページから続く段落';
   var NOTE_CONT_NEXT = '段落は次のページに続く ↓';
   var NOTE_UNREAD = '朗読では読まれていない段落';   // 印の文字は style.css の .unread-note::before。render.py と同じ（D-167）
+  var LABEL_UNREAD_PART = 'ここから朗読では読まれていない部分';   // 段落の中の印（.ur）。render.py と同じ（D-167）
 
   function escHtml(s) {
     return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
@@ -564,6 +565,7 @@
       var cur = -1;
       for (var li = 0; li < para.words.length; li++) {
         var w = para.words[li];
+        if (li === para.unread_at) out.push('<span class="ur" role="img" aria-label="' + LABEL_UNREAD_PART + '" title="' + LABEL_UNREAD_PART + '"></span>');
         if (gw === 0) pushDark(-1);
         if (phStart[li] !== undefined) {
           cur = phStart[li];

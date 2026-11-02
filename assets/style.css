@@ -316,7 +316,17 @@ hr.brk { border: 0; border-top: 1px solid var(--line); width: 30%; margin: 1.5em
 .para.cont-prev { margin-top: 0; }
 /* 朗読者が丸ごと読まなかった段落（[[unread]]。D-167）。本文は出して光らせない。録音の余分の ✂ の逆で、音の無い本文 */
 .para.unread { color: var(--muted); }
-.unread-note::before {   /* スピーカーに ✕。🔇 は字形の無い環境で箱になるので SVG のマスクにする */
+.ur {   /* 段落の一部を読まなかった所の印。本文の文字列には入れない */
+  display: inline-block;
+  font-size: 0.8em;
+  line-height: 1.4;
+  color: var(--muted);
+  background: var(--nt-bg);
+  border-radius: 6px;
+  padding: 0 0.3em;
+  margin: 0 0.3em 0 0.1em;
+}
+.unread-note::before, .ur::before {   /* スピーカーに ✕（SVG のマスク。字形に頼らない） */
   content: "";
   display: inline-block;
   width: 1.2em;
@@ -328,6 +338,7 @@ hr.brk { border: 0; border-top: 1px solid var(--line); width: 30%; margin: 1.5em
   -webkit-mask: var(--unread-icon) center / contain no-repeat;
   mask: var(--unread-icon) center / contain no-repeat;
 }
+.ur::before { margin-right: 0; }
 
 .nt {
   font-family: system-ui, -apple-system, sans-serif;
