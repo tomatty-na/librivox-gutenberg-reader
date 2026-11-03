@@ -1,0 +1,146 @@
+{
+ "format": "librivox-gutenberg/work",
+ "version": "1.0",
+ "work": {
+  "slug": "pygmalion-by-george-bernard-shaw",
+  "title": "Pygmalion",
+  "author": "George Bernard Shaw",
+  "gutenberg_id": 3825,
+  "librivox_url": "https://librivox.org/pygmalion-by-george-bernard-shaw/",
+  "language": "en",
+  "category": "drama",
+  "authors": [
+   {
+    "name": "George Bernard Shaw",
+    "slug": "george-bernard-shaw",
+    "id": 603,
+    "first_name": "George Bernard",
+    "last_name": "Shaw",
+    "dob": "1856",
+    "dod": "1950"
+   }
+  ],
+  "updated": "2026-11-03"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "index": 1,
+   "title": "Introduction",
+   "reader": "Kirsten Ferreri, Mary Anderson",
+   "audio_url": "https://archive.org/download/pygmalion_0906_librivox/pygmalion_act_0_64kb.mp3",
+   "duration": 616.98,
+   "page_count": 2,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":208.84,"text_start":16.48,"href":"s01/p001.json"},
+    {"index":2,"start":208.84,"end":616.98,"text_start":209.34,"href":"s01/p002.json"}
+   ]
+  },
+  {
+   "id": "s02",
+   "index": 2,
+   "title": "Act I",
+   "reader": "Gesine, Kristin Hughes (1974-2021), Martin Clifton, Kirsten Ferreri, Alex Foster, Peter Yearsley, Mary Anderson, ianish, Susie G.",
+   "audio_url": "https://archive.org/download/pygmalion_0906_librivox/pygmalion_act_1_64kb.mp3",
+   "duration": 903.31,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":306.103,"text_start":20.42,"href":"s02/p001.json"},
+    {"index":2,"start":306.103,"end":605.828,"text_start":306.8,"href":"s02/p002.json"},
+    {"index":3,"start":605.828,"end":903.31,"text_start":606.58,"href":"s02/p003.json"}
+   ]
+  },
+  {
+   "id": "s03",
+   "index": 3,
+   "title": "Act II",
+   "reader": "Kristin Hughes (1974-2021), Martin Clifton, Kirsten Ferreri, Alex Foster, David Barnes, Christiane Levesque, Mary Anderson",
+   "audio_url": "https://archive.org/download/pygmalion_0906_librivox/pygmalion_act_2_64kb.mp3",
+   "duration": 2630.54,
+   "page_count": 9,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":285.18,"text_start":17.42,"href":"s03/p001.json"},
+    {"index":2,"start":285.18,"end":572.563,"text_start":285.34,"href":"s03/p002.json"},
+    {"index":3,"start":572.563,"end":860.811,"text_start":573.16,"href":"s03/p003.json"},
+    {"index":4,"start":860.811,"end":1149.763,"text_start":860.92,"href":"s03/p004.json"},
+    {"index":5,"start":1149.763,"end":1434.831,"text_start":1150.4,"href":"s03/p005.json"},
+    {"index":6,"start":1434.831,"end":1733.164,"text_start":1435.0,"href":"s03/p006.json"},
+    {"index":7,"start":1733.164,"end":2019.892,"text_start":1733.76,"href":"s03/p007.json"},
+    {"index":8,"start":2019.892,"end":2327.67,"text_start":2020.08,"href":"s03/p008.json"},
+    {"index":9,"start":2327.67,"end":2630.54,"text_start":2328.6,"href":"s03/p009.json"}
+   ]
+  },
+  {
+   "id": "s04",
+   "index": 4,
+   "title": "Act III",
+   "reader": "Gesine, Kristin Hughes (1974-2021), Martin Clifton, Kirsten Ferreri, Alex Foster, Linda Wilcox, Mary Anderson, ianish, Susie G., Larysa Jaworski",
+   "audio_url": "https://archive.org/download/pygmalion_0906_librivox/pygmalion_act_3_64kb.mp3",
+   "duration": 1390.61,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":281.05,"text_start":17.42,"href":"s04/p001.json"},
+    {"index":2,"start":281.05,"end":564.35,"text_start":281.74,"href":"s04/p002.json"},
+    {"index":3,"start":564.35,"end":848.979,"text_start":564.76,"href":"s04/p003.json"},
+    {"index":4,"start":848.979,"end":1118.908,"text_start":849.5,"href":"s04/p004.json"},
+    {"index":5,"start":1118.908,"end":1390.61,"text_start":1120.24,"href":"s04/p005.json"}
+   ]
+  },
+  {
+   "id": "s05",
+   "index": 5,
+   "title": "Act IV",
+   "reader": "Kristin Hughes (1974-2021), Martin Clifton, Kirsten Ferreri, Alex Foster, Mary Anderson",
+   "audio_url": "https://archive.org/download/pygmalion_0906_librivox/pygmalion_act_4_64kb.mp3",
+   "duration": 839.95,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":294.87,"text_start":17.4,"href":"s05/p001.json"},
+    {"index":2,"start":294.87,"end":588.61,"text_start":295.22,"href":"s05/p002.json"},
+    {"index":3,"start":588.61,"end":839.95,"text_start":588.94,"href":"s05/p003.json"}
+   ]
+  },
+  {
+   "id": "s06",
+   "index": 6,
+   "title": "Act V",
+   "reader": "Martin Clifton, Kirsten Ferreri, Alex Foster, David Barnes, Linda Wilcox, Mary Anderson, Larysa Jaworski",
+   "audio_url": "https://archive.org/download/pygmalion_0906_librivox/pygmalion_act_5_64kb.mp3",
+   "duration": 2286.86,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":323.44,"text_start":17.82,"href":"s06/p001.json"},
+    {"index":2,"start":323.44,"end":644.115,"text_start":323.94,"href":"s06/p002.json"},
+    {"index":3,"start":644.115,"end":961.92,"text_start":644.64,"href":"s06/p003.json"},
+    {"index":4,"start":961.92,"end":1290.025,"text_start":962.26,"href":"s06/p004.json"},
+    {"index":5,"start":1290.025,"end":1620.386,"text_start":1290.88,"href":"s06/p005.json"},
+    {"index":6,"start":1620.386,"end":1944.785,"text_start":1621.32,"href":"s06/p006.json"},
+    {"index":7,"start":1944.785,"end":2286.86,"text_start":1944.94,"href":"s06/p007.json"}
+   ]
+  },
+  {
+   "id": "s07",
+   "index": 7,
+   "title": "Conclusion",
+   "reader": "Kirsten Ferreri, Mary Anderson",
+   "audio_url": "https://archive.org/download/pygmalion_0906_librivox/pygmalion_act_6_64kb.mp3",
+   "duration": 1779.09,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":271.72,"text_start":18.58,"href":"s07/p001.json"},
+    {"index":2,"start":271.72,"end":593.32,"text_start":272.22,"href":"s07/p002.json"},
+    {"index":3,"start":593.32,"end":866.86,"text_start":593.82,"href":"s07/p003.json"},
+    {"index":4,"start":866.86,"end":1159.7,"text_start":867.36,"href":"s07/p004.json"},
+    {"index":5,"start":1159.7,"end":1483.12,"text_start":1160.2,"href":"s07/p005.json"},
+    {"index":6,"start":1483.12,"end":1779.09,"text_start":1483.62,"href":"s07/p006.json"}
+   ]
+  }
+ ]
+}
