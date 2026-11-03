@@ -1,0 +1,403 @@
+{
+ "format": "librivox-gutenberg/work",
+ "version": "1.0",
+ "work": {
+  "slug": "the-picture-of-dorian-gray-by-oscar-wilde-2",
+  "title": "The Picture of Dorian Gray",
+  "author": "Oscar Wilde",
+  "gutenberg_id": 174,
+  "librivox_url": "https://librivox.org/the-picture-of-dorian-gray-by-oscar-wilde-2/",
+  "language": "en",
+  "category": "fiction",
+  "authors": [
+   {
+    "name": "Oscar Wilde",
+    "slug": "oscar-wilde",
+    "id": 114,
+    "first_name": "Oscar",
+    "last_name": "Wilde",
+    "dob": "1854",
+    "dod": "1900"
+   }
+  ],
+  "updated": "2026-11-03"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "index": 1,
+   "title": "Dramatis Personae/Preface",
+   "reader": "Mark F. Smith, Elizabeth Klett, Ernst Pattynama, David Lawrence, Arielle Lipshaw, Martin Geeson, Lucy Perry, Hannah Harris, Simon Pride, Miss Avarice, David Goldfarb, Susanna, Terence Taylor, Mary-Beth Blackburn, Joseph Lawler, Rebekah Harris, Frank Booker, Sarah, Anthony",
+   "audio_url": "https://archive.org/download/picture_doriangray_1012_librivox/pictureofdoriangray_00_wilde_64kb.mp3",
+   "duration": 401.47,
+   "page_count": 1,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":401.47,"text_start":165.2,"href":"s01/p001.json"}
+   ]
+  },
+  {
+   "id": "s02",
+   "index": 2,
+   "title": "Chapter 1",
+   "reader": "",
+   "audio_url": "https://archive.org/download/picture_doriangray_1012_librivox/pictureofdoriangray_01_wilde_64kb.mp3",
+   "duration": 1839.96,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":299.95,"text_start":25.08,"href":"s02/p001.json"},
+    {"index":2,"start":299.95,"end":612.15,"text_start":300.2,"href":"s02/p002.json"},
+    {"index":3,"start":612.15,"end":921.69,"text_start":612.42,"href":"s02/p003.json"},
+    {"index":4,"start":921.69,"end":1201.13,"text_start":921.94,"href":"s02/p004.json"},
+    {"index":5,"start":1201.13,"end":1504.28,"text_start":1201.42,"href":"s02/p005.json"},
+    {"index":6,"start":1504.28,"end":1839.96,"text_start":1504.48,"href":"s02/p006.json"}
+   ]
+  },
+  {
+   "id": "s03",
+   "index": 3,
+   "title": "Chapter 2",
+   "reader": "",
+   "audio_url": "https://archive.org/download/picture_doriangray_1012_librivox/pictureofdoriangray_02_wilde_64kb.mp3",
+   "duration": 2223.64,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":328.88,"text_start":25.18,"href":"s03/p001.json"},
+    {"index":2,"start":328.88,"end":662.4,"text_start":329.16,"href":"s03/p002.json"},
+    {"index":3,"start":662.4,"end":977.95,"text_start":662.9,"href":"s03/p003.json"},
+    {"index":4,"start":977.95,"end":1293.53,"text_start":978.3,"href":"s03/p004.json"},
+    {"index":5,"start":1293.53,"end":1605.24,"text_start":1293.98,"href":"s03/p005.json"},
+    {"index":6,"start":1605.24,"end":1913.41,"text_start":1605.58,"href":"s03/p006.json"},
+    {"index":7,"start":1913.41,"end":2223.64,"text_start":1913.74,"href":"s03/p007.json"}
+   ]
+  },
+  {
+   "id": "s04",
+   "index": 4,
+   "title": "Chapter 3",
+   "reader": "",
+   "audio_url": "https://archive.org/download/picture_doriangray_1012_librivox/pictureofdoriangray_03_wilde_64kb.mp3",
+   "duration": 1854.04,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":287.25,"text_start":22.6,"href":"s04/p001.json"},
+    {"index":2,"start":287.25,"end":591.19,"text_start":287.56,"href":"s04/p002.json"},
+    {"index":3,"start":591.19,"end":896.86,"text_start":591.68,"href":"s04/p003.json"},
+    {"index":4,"start":896.86,"end":1211.43,"text_start":897.36,"href":"s04/p004.json"},
+    {"index":5,"start":1211.43,"end":1505.34,"text_start":1211.72,"href":"s04/p005.json"},
+    {"index":6,"start":1505.34,"end":1854.04,"text_start":1505.7,"href":"s04/p006.json"}
+   ]
+  },
+  {
+   "id": "s05",
+   "index": 5,
+   "title": "Chapter 4",
+   "reader": "",
+   "audio_url": "https://archive.org/download/picture_doriangray_1012_librivox/pictureofdoriangray_04_wilde_64kb.mp3",
+   "duration": 2313.03,
+   "page_count": 8,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":259.21,"text_start":25.66,"href":"s05/p001.json"},
+    {"index":2,"start":259.21,"end":528.37,"text_start":259.54,"href":"s05/p002.json"},
+    {"index":3,"start":528.37,"end":823.28,"text_start":528.68,"href":"s05/p003.json"},
+    {"index":4,"start":823.28,"end":1116.3,"text_start":823.52,"href":"s05/p004.json"},
+    {"index":5,"start":1116.3,"end":1415.96,"text_start":1116.58,"href":"s05/p005.json"},
+    {"index":6,"start":1415.96,"end":1714.88,"text_start":1416.26,"href":"s05/p006.json"},
+    {"index":7,"start":1714.88,"end":2007.3,"text_start":1715.2,"href":"s05/p007.json"},
+    {"index":8,"start":2007.3,"end":2313.03,"text_start":2007.8,"href":"s05/p008.json"}
+   ]
+  },
+  {
+   "id": "s06",
+   "index": 6,
+   "title": "Chapter 5",
+   "reader": "",
+   "audio_url": "https://archive.org/download/picture_doriangray_1012_librivox/pictureofdoriangray_05_wilde_64kb.mp3",
+   "duration": 1873.65,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":337.38,"text_start":24.92,"href":"s06/p001.json"},
+    {"index":2,"start":337.38,"end":661.2,"text_start":337.88,"href":"s06/p002.json"},
+    {"index":3,"start":661.2,"end":996.64,"text_start":661.62,"href":"s06/p003.json"},
+    {"index":4,"start":996.64,"end":1282.35,"text_start":997.14,"href":"s06/p004.json"},
+    {"index":5,"start":1282.35,"end":1591.78,"text_start":1282.6,"href":"s06/p005.json"},
+    {"index":6,"start":1591.78,"end":1873.65,"text_start":1592.28,"href":"s06/p006.json"}
+   ]
+  },
+  {
+   "id": "s07",
+   "index": 7,
+   "title": "Chapter 6",
+   "reader": "",
+   "audio_url": "https://archive.org/download/picture_doriangray_1012_librivox/pictureofdoriangray_06_wilde_64kb.mp3",
+   "duration": 1073.0,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":262.25,"text_start":23.3,"href":"s07/p001.json"},
+    {"index":2,"start":262.25,"end":535.44,"text_start":262.5,"href":"s07/p002.json"},
+    {"index":3,"start":535.44,"end":811.1,"text_start":535.7,"href":"s07/p003.json"},
+    {"index":4,"start":811.1,"end":1073.0,"text_start":811.42,"href":"s07/p004.json"}
+   ]
+  },
+  {
+   "id": "s08",
+   "index": 8,
+   "title": "Chapter 7",
+   "reader": "",
+   "audio_url": "https://archive.org/download/picture_doriangray_1012_librivox/pictureofdoriangray_07_wilde_64kb.mp3",
+   "duration": 2004.19,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":310.22,"text_start":24.52,"href":"s08/p001.json"},
+    {"index":2,"start":310.22,"end":570.34,"text_start":310.46,"href":"s08/p002.json"},
+    {"index":3,"start":570.34,"end":835.54,"text_start":570.56,"href":"s08/p003.json"},
+    {"index":4,"start":835.54,"end":1115.17,"text_start":835.8,"href":"s08/p004.json"},
+    {"index":5,"start":1115.17,"end":1394.94,"text_start":1115.44,"href":"s08/p005.json"},
+    {"index":6,"start":1394.94,"end":1688.4,"text_start":1395.44,"href":"s08/p006.json"},
+    {"index":7,"start":1688.4,"end":2004.19,"text_start":1688.9,"href":"s08/p007.json"}
+   ]
+  },
+  {
+   "id": "s09",
+   "index": 9,
+   "title": "Chapter 8",
+   "reader": "",
+   "audio_url": "https://archive.org/download/picture_doriangray_1012_librivox/pictureofdoriangray_08_wilde_64kb.mp3",
+   "duration": 2245.25,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":326.98,"text_start":24.52,"href":"s09/p001.json"},
+    {"index":2,"start":326.98,"end":624.74,"text_start":327.48,"href":"s09/p002.json"},
+    {"index":3,"start":624.74,"end":929.25,"text_start":625.24,"href":"s09/p003.json"},
+    {"index":4,"start":929.25,"end":1235.01,"text_start":929.5,"href":"s09/p004.json"},
+    {"index":5,"start":1235.01,"end":1587.64,"text_start":1235.28,"href":"s09/p005.json"},
+    {"index":6,"start":1587.64,"end":1938.3,"text_start":1587.82,"href":"s09/p006.json"},
+    {"index":7,"start":1938.3,"end":2245.25,"text_start":1938.8,"href":"s09/p007.json"}
+   ]
+  },
+  {
+   "id": "s10",
+   "index": 10,
+   "title": "Chapter 9",
+   "reader": "",
+   "audio_url": "https://archive.org/download/picture_doriangray_1012_librivox/pictureofdoriangray_09_wilde_64kb.mp3",
+   "duration": 1454.44,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":300.09,"text_start":25.32,"href":"s10/p001.json"},
+    {"index":2,"start":300.09,"end":591.24,"text_start":300.4,"href":"s10/p002.json"},
+    {"index":3,"start":591.24,"end":881.58,"text_start":591.5,"href":"s10/p003.json"},
+    {"index":4,"start":881.58,"end":1172.78,"text_start":881.9,"href":"s10/p004.json"},
+    {"index":5,"start":1172.78,"end":1454.44,"text_start":1173.04,"href":"s10/p005.json"}
+   ]
+  },
+  {
+   "id": "s11",
+   "index": 11,
+   "title": "Chapter 10",
+   "reader": "",
+   "audio_url": "https://archive.org/download/picture_doriangray_1012_librivox/pictureofdoriangray_10_wilde_64kb.mp3",
+   "duration": 1490.31,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":333.52,"text_start":25.34,"href":"s11/p001.json"},
+    {"index":2,"start":333.52,"end":615.06,"text_start":334.02,"href":"s11/p002.json"},
+    {"index":3,"start":615.06,"end":908.21,"text_start":615.36,"href":"s11/p003.json"},
+    {"index":4,"start":908.21,"end":1203.82,"text_start":908.52,"href":"s11/p004.json"},
+    {"index":5,"start":1203.82,"end":1490.31,"text_start":1204.32,"href":"s11/p005.json"}
+   ]
+  },
+  {
+   "id": "s12",
+   "index": 12,
+   "title": "Chapter 11, Part 1",
+   "reader": "",
+   "audio_url": "https://archive.org/download/picture_doriangray_1012_librivox/pictureofdoriangray_11a_wilde_64kb.mp3",
+   "duration": 1967.63,
+   "page_count": 6,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":317.96,"text_start":26.78,"href":"s12/p001.json"},
+    {"index":2,"start":317.96,"end":691.7,"text_start":318.46,"href":"s12/p002.json"},
+    {"index":3,"start":691.7,"end":1002.02,"text_start":692.2,"href":"s12/p003.json"},
+    {"index":4,"start":1002.02,"end":1286.78,"text_start":1002.52,"href":"s12/p004.json"},
+    {"index":5,"start":1286.78,"end":1614.36,"text_start":1287.28,"href":"s12/p005.json"},
+    {"index":6,"start":1614.36,"end":1967.63,"text_start":1614.86,"href":"s12/p006.json"}
+   ]
+  },
+  {
+   "id": "s13",
+   "index": 13,
+   "title": "Chapter 11, Part 2",
+   "reader": "",
+   "audio_url": "https://archive.org/download/picture_doriangray_1012_librivox/pictureofdoriangray_11b_wilde_64kb.mp3",
+   "duration": 1710.09,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":356.6,"text_start":30.78,"href":"s13/p001.json"},
+    {"index":2,"start":356.6,"end":653.08,"text_start":357.1,"href":"s13/p002.json"},
+    {"index":3,"start":653.08,"end":971.12,"text_start":653.58,"href":"s13/p003.json"},
+    {"index":4,"start":971.12,"end":1322.98,"text_start":971.62,"href":"s13/p004.json"},
+    {"index":5,"start":1322.98,"end":1710.09,"text_start":1323.48,"href":"s13/p005.json"}
+   ]
+  },
+  {
+   "id": "s14",
+   "index": 14,
+   "title": "Chapter 12",
+   "reader": "",
+   "audio_url": "https://archive.org/download/picture_doriangray_1012_librivox/pictureofdoriangray_12_wilde_64kb.mp3",
+   "duration": 1013.91,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":324.65,"text_start":26.16,"href":"s14/p001.json"},
+    {"index":2,"start":324.65,"end":654.24,"text_start":325.02,"href":"s14/p002.json"},
+    {"index":3,"start":654.24,"end":1013.91,"text_start":654.54,"href":"s14/p003.json"}
+   ]
+  },
+  {
+   "id": "s15",
+   "index": 15,
+   "title": "Chapter 13",
+   "reader": "",
+   "audio_url": "https://archive.org/download/picture_doriangray_1012_librivox/pictureofdoriangray_13_wilde_64kb.mp3",
+   "duration": 1144.92,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":305.6,"text_start":25.12,"href":"s15/p001.json"},
+    {"index":2,"start":305.6,"end":572.46,"text_start":306.1,"href":"s15/p002.json"},
+    {"index":3,"start":572.46,"end":861.54,"text_start":572.74,"href":"s15/p003.json"},
+    {"index":4,"start":861.54,"end":1144.92,"text_start":862.04,"href":"s15/p004.json"}
+   ]
+  },
+  {
+   "id": "s16",
+   "index": 16,
+   "title": "Chapter 14",
+   "reader": "",
+   "audio_url": "https://archive.org/download/picture_doriangray_1012_librivox/pictureofdoriangray_14_wilde_64kb.mp3",
+   "duration": 2059.93,
+   "page_count": 7,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":323.34,"text_start":25.2,"href":"s16/p001.json"},
+    {"index":2,"start":323.34,"end":629.54,"text_start":323.84,"href":"s16/p002.json"},
+    {"index":3,"start":629.54,"end":951.34,"text_start":630.04,"href":"s16/p003.json"},
+    {"index":4,"start":951.34,"end":1236.28,"text_start":951.84,"href":"s16/p004.json"},
+    {"index":5,"start":1236.28,"end":1519.4,"text_start":1236.64,"href":"s16/p005.json"},
+    {"index":6,"start":1519.4,"end":1783.51,"text_start":1519.7,"href":"s16/p006.json"},
+    {"index":7,"start":1783.51,"end":2059.93,"text_start":1783.76,"href":"s16/p007.json"}
+   ]
+  },
+  {
+   "id": "s17",
+   "index": 17,
+   "title": "Chapter 15",
+   "reader": "",
+   "audio_url": "https://archive.org/download/picture_doriangray_1012_librivox/pictureofdoriangray_15_wilde_64kb.mp3",
+   "duration": 1370.82,
+   "page_count": 4,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":344.28,"text_start":25.2,"href":"s17/p001.json"},
+    {"index":2,"start":344.28,"end":687.8,"text_start":344.78,"href":"s17/p002.json"},
+    {"index":3,"start":687.8,"end":1028.77,"text_start":688.1,"href":"s17/p003.json"},
+    {"index":4,"start":1028.77,"end":1370.82,"text_start":1028.98,"href":"s17/p004.json"}
+   ]
+  },
+  {
+   "id": "s18",
+   "index": 18,
+   "title": "Chapter 16",
+   "reader": "",
+   "audio_url": "https://archive.org/download/picture_doriangray_1012_librivox/pictureofdoriangray_16_wilde_64kb.mp3",
+   "duration": 1407.52,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":323.26,"text_start":25.64,"href":"s18/p001.json"},
+    {"index":2,"start":323.26,"end":605.22,"text_start":323.76,"href":"s18/p002.json"},
+    {"index":3,"start":605.22,"end":874.48,"text_start":605.72,"href":"s18/p003.json"},
+    {"index":4,"start":874.48,"end":1145.69,"text_start":874.74,"href":"s18/p004.json"},
+    {"index":5,"start":1145.69,"end":1407.52,"text_start":1145.88,"href":"s18/p005.json"}
+   ]
+  },
+  {
+   "id": "s19",
+   "index": 19,
+   "title": "Chapter 17",
+   "reader": "",
+   "audio_url": "https://archive.org/download/picture_doriangray_1012_librivox/pictureofdoriangray_17_wilde_64kb.mp3",
+   "duration": 799.5,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":268.77,"text_start":26.18,"href":"s19/p001.json"},
+    {"index":2,"start":268.77,"end":537.87,"text_start":269.06,"href":"s19/p002.json"},
+    {"index":3,"start":537.87,"end":799.5,"text_start":538.3,"href":"s19/p003.json"}
+   ]
+  },
+  {
+   "id": "s20",
+   "index": 20,
+   "title": "Chapter 18",
+   "reader": "",
+   "audio_url": "https://archive.org/download/picture_doriangray_1012_librivox/pictureofdoriangray_18_wilde_64kb.mp3",
+   "duration": 1441.07,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":257.72,"text_start":26.04,"href":"s20/p001.json"},
+    {"index":2,"start":257.72,"end":558.6,"text_start":258.22,"href":"s20/p002.json"},
+    {"index":3,"start":558.6,"end":840.35,"text_start":559.1,"href":"s20/p003.json"},
+    {"index":4,"start":840.35,"end":1136.94,"text_start":840.62,"href":"s20/p004.json"},
+    {"index":5,"start":1136.94,"end":1441.07,"text_start":1137.44,"href":"s20/p005.json"}
+   ]
+  },
+  {
+   "id": "s21",
+   "index": 21,
+   "title": "Chapter 19",
+   "reader": "",
+   "audio_url": "https://archive.org/download/picture_doriangray_1012_librivox/pictureofdoriangray_19_wilde_64kb.mp3",
+   "duration": 1430.51,
+   "page_count": 5,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":275.07,"text_start":25.46,"href":"s21/p001.json"},
+    {"index":2,"start":275.07,"end":545.24,"text_start":275.36,"href":"s21/p002.json"},
+    {"index":3,"start":545.24,"end":824.91,"text_start":545.48,"href":"s21/p003.json"},
+    {"index":4,"start":824.91,"end":1093.24,"text_start":825.12,"href":"s21/p004.json"},
+    {"index":5,"start":1093.24,"end":1430.51,"text_start":1093.5,"href":"s21/p005.json"}
+   ]
+  },
+  {
+   "id": "s22",
+   "index": 22,
+   "title": "Chapter 20",
+   "reader": "",
+   "audio_url": "https://archive.org/download/picture_doriangray_1012_librivox/pictureofdoriangray_20_wilde_64kb.mp3",
+   "duration": 948.16,
+   "page_count": 3,
+   "status": "mapped",
+   "pages": [
+    {"index":1,"start":0.0,"end":319.82,"text_start":26.26,"href":"s22/p001.json"},
+    {"index":2,"start":319.82,"end":682.68,"text_start":320.32,"href":"s22/p002.json"},
+    {"index":3,"start":682.68,"end":948.16,"text_start":683.18,"href":"s22/p003.json"}
+   ]
+  }
+ ]
+}
