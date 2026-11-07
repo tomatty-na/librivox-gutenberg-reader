@@ -13,7 +13,12 @@
   (function () {
     try {
       var s = JSON.parse(localStorage.getItem('lg.settings.v1') || '{}');
-      if (s.theme === 'light' || s.theme === 'dark') document.documentElement.setAttribute('data-theme', s.theme);
+      if (s.theme === 'light' || s.theme === 'dark') {
+        document.documentElement.setAttribute('data-theme', s.theme);
+        // 上のバーの色もアプリで選んだテーマに合わせる（D-178）
+        var c = s.theme === 'dark' ? '#14141a' : '#f6f2ea';
+        document.querySelectorAll('meta[name="theme-color"]').forEach(function (m) { m.setAttribute('content', c); });
+      }
       if (s.fontScale) document.documentElement.style.setProperty('--font-scale', s.fontScale);
     } catch (e) {}
   })();
