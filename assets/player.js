@@ -13,6 +13,7 @@
 
   var C = window.LGCore;
   var SETTINGS_KEY = 'lg.settings.v1';
+  var THEME_LIGHT = '#f6f2ea', THEME_DARK = '#14141a'; // style.css の --bg と同じ
   var RESUME_PREFIX = 'lg.resume.v1.';
 
   var view = document.body.dataset.view;
@@ -141,6 +142,11 @@
     });
     if (st.theme === 'light' || st.theme === 'dark') document.documentElement.setAttribute('data-theme', st.theme);
     else document.documentElement.removeAttribute('data-theme');
+    // 上のバーの色（theme-color）もアプリで選んだテーマに合わせる。「自動」なら meta の media どおりに戻す（D-178）
+    document.querySelectorAll('meta[name="theme-color"]').forEach(function (m) {
+      var own = /dark/.test(m.getAttribute('media') || '') ? THEME_DARK : THEME_LIGHT;
+      m.setAttribute('content', st.theme === 'dark' ? THEME_DARK : st.theme === 'light' ? THEME_LIGHT : own);
+    });
     document.querySelectorAll('[data-theme-opt]').forEach(function (b) {
       b.classList.toggle('on', b.dataset.themeOpt === st.theme);
     });
